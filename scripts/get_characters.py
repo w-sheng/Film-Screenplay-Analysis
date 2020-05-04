@@ -1,5 +1,4 @@
 import csv
-import matplotlib.pyplot as plt
 import nltk
 import numpy as np
 import pandas as pd
@@ -27,7 +26,7 @@ def load_screenplay_formats():
 
 	global model2, model3, model4, model5, model6, no_model
 
-	df = pd.read_csv('data/screenplay-formats.csv')
+	df = pd.read_csv('../data/screenplay-formats.csv')
 	model2 = df[df['format'] == 2]['file'].tolist()
 	model3 = df[df['format'] == 3]['file'].tolist()
 	model4 = df[df['format'] == 4]['file'].tolist()
@@ -104,31 +103,32 @@ if __name__ == '__main__':
 	mc_rows = []
 
 	for filename in os.listdir(os.getcwd() + '/../data/scriptbase/scriptbase_alpha'):
-		m = load_model(filename)
-		film = filename.replace('.tar.gz','')
+		if (filename != '.DS_Store'):
+			m = load_model(filename)
+			film = filename.replace('.tar.gz','')
 
-		if (m != None): # film is parsable
-			# building protagonist df
-			protag = m.get_protag()
-			protag_rows.append([film, protag])
+			if (m != None): # film is parsable
+				# building protagonist df
+				protag = m.get_protag()
+				protag_rows.append([film, protag])
 
-			# looping through all main characters in a film
-			for (mc,_) in (m.main_chars.items()):
-				g = gp.predict(mc)
-				lines_ratio = m.get_char_lines_ratio(mc)
-				sentiment_score = get_sentiment_score(m,mc)
-				main_size_ratio, main_intxns_ratio = get_network_info(m,mc)
-				
-				mc_row = [film, mc, g, lines_ratio, sentiment_score, main_size_ratio, main_intxns_ratio]
-				mc_rows.append(mc_row)
+				# looping through all main characters in a film
+				for (mc,_) in (m.main_chars.items()):
+					g = gp.predict(mc)
+					lines_ratio = m.get_char_lines_ratio(mc)
+					sentiment_score = get_sentiment_score(m,mc)
+					main_size_ratio, main_intxns_ratio = get_network_info(m,mc)
+					
+					mc_row = [film, mc, g, lines_ratio, sentiment_score, main_size_ratio, main_intxns_ratio]
+					mc_rows.append(mc_row)
 
-	# save csv files of data
+	# save data
 	protag_df = pd.DataFrame(protag_rows, columns=['film','protag'])
-	protag_df.to_csv('data/protags.csv', index=False)
+	protag_df.to_csv('../data/protags.csv', index=False)
 	print(protag_df.head(2))
 
 	mc_cols = ['film','main_char','gender','lines_ratio','sentiment_score','main_network_ratio','main_intxn_ratio']
 	mc_df = pd.DataFrame(mc_rows, columns=mc_cols)
-	mc_df.to_csv('data/main_chars.csv', index=False)
+	mc_df.to_csv('../data/main_chars.csv', index=False)
 	print(mc_df.head(2))
-	
+

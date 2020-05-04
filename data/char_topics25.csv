@@ -1,0 +1,4085 @@
+film,main_char,gender,top_topic
+The Doom Generation,amy,1.0,23
+The Doom Generation,jordan,1.0,6
+The Doom Generation,xavier,1.0,23
+The Elephant Man (film),treves,0.0,3
+The Elephant Man (film),merrick,0.0,8
+Groundhog Day (film),phil,0.0,8
+Groundhog Day (film),rita,0.0,8
+Hot Tub Time Machine,adam,0.0,6
+Hot Tub Time Machine,lou,1.0,6
+Hot Tub Time Machine,nick,0.0,6
+Hot Tub Time Machine,jacob,0.0,6
+Basic (film),hardy,0.0,6
+Basic (film),osborne,0.0,6
+Basic (film),dunbar,0.0,6
+Basic (film),kendall,0.0,9
+Spartan (film),scott,0.0,9
+Inglourious Basterds,col landa,0.0,3
+Inglourious Basterds,bridget,0.0,9
+Inglourious Basterds,fredrick,0.0,3
+The Brothers Bloom,bloom,1.0,25
+The Brothers Bloom,stephen,0.0,25
+The Brothers Bloom,penelope,1.0,25
+Star Wars Episode II: Attack of the Clones,anakin,0.0,9
+Star Wars Episode II: Attack of the Clones,padmé,1.0,3
+Star Wars Episode II: Attack of the Clones,padme,1.0,9
+Tron: Legacy,rush,0.0,16
+Tron: Legacy,flynn,0.0,16
+Tron: Legacy,mega,0.0,16
+The Proposal (film),margaret,1.0,6
+The Proposal (film),richard,0.0,6
+It Happened One Night,peter,0.0,8
+It Happened One Night,ellie,1.0,9
+It Happened One Night,andrews,1.0,9
+Ali (film),ali,0.0,2
+Catch Me If You Can,frank,0.0,8
+Catch Me If You Can,joe shaye,0.0,17
+Never Been Kissed,josie,1.0,14
+Days of Heaven,bill,0.0,9
+Days of Heaven,abby,1.0,9
+Days of Heaven,chuck,0.0,9
+Waxwork (film),mark,0.0,25
+Waxwork (film),sarah,1.0,6
+Waxwork (film),china,1.0,8
+I Am Number Four (film),john,0.0,25
+I Am Number Four (film),henri,0.0,25
+I Am Number Four (film),sarah,1.0,25
+MASH (film),hawkeye,0.0,6
+MASH (film),duke,1.0,6
+MASH (film),trapper,0.0,6
+Rush Hour 2,carter,0.0,6
+Rush Hour 2,lee,0.0,6
+Spare Me (film),theo,1.0,6
+Spare Me (film),sheila,1.0,6
+Spare Me (film),buzz,0.0,23
+Spare Me (film),kastle,0.0,25
+The Other Boleyn Girl (2008 film),mary,1.0,22
+The Other Boleyn Girl (2008 film),anne,1.0,22
+The Other Boleyn Girl (2008 film),henry,0.0,22
+The Other Boleyn Girl (2008 film),sir thomas,0.0,22
+The Other Boleyn Girl (2008 film),a,0.0,8
+The Other Boleyn Girl (2008 film),m,1.0,8
+Quills,the marquis,0.0,25
+Quills,madeleine,1.0,25
+The Body Snatcher (film),macfarlane,0.0,9
+The Body Snatcher (film),fettes,0.0,9
+The Body Snatcher (film),gray,0.0,9
+Hackers (film),dade,0.0,6
+Hackers (film),kate,1.0,6
+Hackers (film),plague,0.0,6
+Hackers (film),cereal,1.0,6
+Hackers (film),phreak,0.0,6
+The 13th Floor (1988 film),douglas,0.0,6
+15 Minutes,jordy,0.0,6
+15 Minutes,eddie,1.0,6
+15 Minutes,emil,0.0,8
+15 Minutes,nicolette,1.0,6
+15 Minutes,oleg,0.0,8
+The Ice Storm (film),ben,0.0,6
+The Ice Storm (film),elena,1.0,9
+The Ice Storm (film),wendy,1.0,6
+The Ice Storm (film),paul,0.0,3
+Badlands (film),kit,1.0,8
+Badlands (film),holly,0.0,21
+The Four Feathers (2002 film),durrance,0.0,20
+The Four Feathers (2002 film),ethne,1.0,9
+Rabid,read,0.0,6
+Rabid,keloid,0.0,6
+Rabid,rose,1.0,6
+Rabid,cypher,1.0,6
+Rabid,walsh,1.0,6
+Next (2007 film),cris,1.0,8
+Next (2007 film),liz,1.0,6
+Next (2007 film),ferris,0.0,8
+Saga of a Star World,skyler,1.0,12
+Saga of a Star World,starbuck,0.0,6
+Saga of a Star World,adama,0.0,3
+Saga of a Star World,lyra,1.0,3
+Roughshod (film),clay,1.0,21
+Roughshod (film),mary,1.0,9
+Roughshod (film),steve,0.0,21
+Roughshod (film),helen,1.0,8
+Rachel Getting Married,kym,0.0,6
+Rachel Getting Married,rachel,1.0,5
+Rachel Getting Married,paul,0.0,8
+LAvventura,sandro,1.0,9
+LAvventura,claudia,1.0,9
+LAvventura,patrizia,1.0,9
+17 Again (film),mike,0.0,6
+17 Again (film),ed,0.0,8
+Day of the Dead (1985 film),john,0.0,25
+Day of the Dead (1985 film),rhodes,0.0,25
+Day of the Dead (1985 film),toby,0.0,10
+Day of the Dead (1985 film),mary,1.0,10
+Day of the Dead (1985 film),sarah,1.0,25
+Day of the Dead (1985 film),gasparilla,1.0,2
+Day of the Dead (1985 film),logan,0.0,25
+Day of the Dead (1985 film),chico,0.0,13
+Day of the Dead (1985 film),miguel,1.0,25
+Interview with the Vampire: The Vampire Chronicles,louis,1.0,25
+Interview with the Vampire: The Vampire Chronicles,lestat,1.0,25
+Interview with the Vampire: The Vampire Chronicles,claudia,1.0,25
+Runaway Bride (1999 film),maggie,1.0,8
+Runaway Bride (1999 film),ike,0.0,8
+The Village (2004 film),ivy,1.0,8
+The Village (2004 film),edward,0.0,8
+The Village (2004 film),lucius,0.0,3
+Notting Hill (film),william,0.0,8
+Notting Hill (film),anna,1.0,9
+The Lord of the Rings: The Two Towers,aragorn,0.0,20
+The Lord of the Rings: The Two Towers,frodo,0.0,20
+The Lord of the Rings: The Two Towers,sam,0.0,25
+The Lord of the Rings: The Two Towers,gollum,0.0,25
+The Lord of the Rings: The Two Towers,théoden,0.0,20
+The Lord of the Rings: The Two Towers,gimli,0.0,20
+The Lord of the Rings: The Two Towers,gandalf,0.0,25
+The Lord of the Rings: The Two Towers,treebeard,0.0,20
+Soldier (1998 American film),sandra,1.0,25
+Soldier (1998 American film),church,0.0,25
+Soldier (1998 American film),mace,0.0,25
+Soldier (1998 American film),sloan,0.0,25
+Soldier (1998 American film),todd,0.0,25
+Soldier (1998 American film),slade,0.0,25
+Real Genius,chris,0.0,8
+Real Genius,mitch,0.0,6
+Real Genius,atherton,0.0,10
+Real Genius,kent,1.0,6
+Below (film),odell,0.0,6
+Below (film),brice,0.0,12
+Below (film),claire,1.0,6
+Below (film),loomis,0.0,6
+Below (film),stumbo,0.0,23
+Below (film),weird wally,0.0,12
+Ed Wood (film),ed,0.0,6
+Casablanca (film),rick,0.0,9
+Casablanca (film),renault,1.0,9
+Casablanca (film),ilsa,1.0,9
+Casablanca (film),laszlo,0.0,8
+"Crouching Tiger, Hidden Dragon",yu,0.0,22
+"Crouching Tiger, Hidden Dragon",jen,1.0,9
+"Crouching Tiger, Hidden Dragon",li,1.0,3
+"Crouching Tiger, Hidden Dragon",lo,1.0,9
+Basquiat (film),basquiat,0.0,6
+Hesher (film),tj,0.0,8
+Hesher (film),dad,0.0,8
+Hesher (film),nicole,1.0,6
+Hesher (film),grandma,1.0,8
+Edward Scissorhands,peg,1.0,9
+Edward Scissorhands,kim,1.0,6
+Edward Scissorhands,edward,0.0,9
+Edward Scissorhands,jim,0.0,6
+Edward Scissorhands,bill,0.0,6
+Annie Hall,alvy,0.0,6
+Annie Hall,annie,1.0,6
+Mission: Impossible (film),ethan,0.0,8
+Mission: Impossible (film),phelps,0.0,8
+Mission: Impossible (film),kittridge,0.0,8
+Wonderland (2003 film),john,0.0,9
+Wonderland (2003 film),dawn,1.0,18
+Wonderland (2003 film),ron,0.0,5
+Wonderland (2003 film),david,0.0,8
+Monty Python and the Holy Grail,arthur,0.0,22
+Eight Legged Freaks,sam,0.0,6
+Eight Legged Freaks,chris,0.0,6
+Eight Legged Freaks,mike,0.0,6
+Eight Legged Freaks,ashley,0.0,6
+Eight Legged Freaks,wade,0.0,6
+Frozen River,ray,0.0,19
+Frozen River,lila,1.0,19
+Frozen River,t.j.,0.0,19
+Nurse Betty,betty,1.0,6
+Nurse Betty,charlie,1.0,6
+Nurse Betty,wesley,0.0,6
+Nurse Betty,george,0.0,6
+Nurse Betty,rosa,1.0,6
+Win Win (film),mike,0.0,6
+Win Win (film),jackie,1.0,6
+Win Win (film),kyle,0.0,6
+Win Win (film),terry,0.0,6
+Les Miserables (2012 film),valjean,0.0,22
+Les Miserables (2012 film),marius,0.0,22
+Les Miserables (2012 film),javert,1.0,22
+Les Miserables (2012 film),fantine,1.0,22
+Les Miserables (2012 film),enjolras,0.0,22
+The Goonies,mikey,0.0,6
+The Goonies,chunk,1.0,6
+The Goonies,mouth,0.0,6
+The Goonies,brand,1.0,6
+The Goonies,data,0.0,6
+Elf (film),buddy,0.0,8
+Elf (film),walter,0.0,6
+Jimmy and Judy,jimmy,0.0,6
+Jimmy and Judy,judy,1.0,6
+The Reader (2008 film),michael,0.0,8
+The Reader (2008 film),hanna,0.0,8
+The Reader (2008 film),judge,1.0,3
+Phone Booth (film),stu,0.0,6
+Phone Booth (film),voice,1.0,3
+Sweet Smell of Success,sidney,1.0,9
+Sweet Smell of Success,hunsecker,1.0,9
+Sweet Smell of Success,susan,1.0,9
+Panther (film),judge,1.0,23
+Panther (film),huey,0.0,11
+Panther (film),tyrone,0.0,25
+Panther (film),brimmer,0.0,23
+Panther (film),cy,0.0,8
+The Roommate,sara,1.0,8
+The Roommate,rebecca,1.0,8
+Wonder Boys (film),grady,0.0,8
+Wonder Boys (film),james leer,0.0,6
+Life as a House,george,0.0,8
+Life as a House,sam,0.0,8
+Life as a House,robin,0.0,8
+Life as a House,alyssa,1.0,8
+Drop Dead Gorgeous (film),amber,1.0,6
+Drop Dead Gorgeous (film),gladys,1.0,5
+Drop Dead Gorgeous (film),loretta,1.0,5
+Insomnia (2002 film),will,0.0,25
+Insomnia (2002 film),ellie,1.0,8
+Wes Cravens New Nightmare,heather,1.0,25
+The Black Dahlia (film),bucky,0.0,8
+The Ugly Truth,abby,1.0,6
+The Ugly Truth,mike,0.0,5
+Blade II,blade,0.0,25
+Blade II,whistler,0.0,25
+Blade II,nyssa,1.0,25
+Blade II,scud,0.0,25
+Lethal Weapon,murtaugh,0.0,23
+Lethal Weapon,riggs,0.0,23
+Bound (film),violet,1.0,25
+Bound (film),caesar,0.0,25
+Bound (film),corky,0.0,25
+Indiana Jones and the Last Crusade,indy,0.0,25
+Indiana Jones and the Last Crusade,henry,0.0,25
+Die Hard,mcclane,0.0,6
+Die Hard,hans,0.0,10
+Die Hard,powell,0.0,10
+Star Trek: The Motion Picture,kirk,0.0,12
+Star Trek: The Motion Picture,decker,1.0,12
+Star Trek: The Motion Picture,spock,0.0,12
+Young Frankenstein,freddy,0.0,8
+Young Frankenstein,igor,0.0,8
+50-50 (2011 film),adam,0.0,8
+Super 8 (film),joe,0.0,6
+Super 8 (film),charles,1.0,6
+Super 8 (film),cary,1.0,6
+Super 8 (film),jack,0.0,6
+Super 8 (film),alice,1.0,6
+Hard Rain (film),tom,0.0,25
+Hard Rain (film),jim,0.0,25
+Hard Rain (film),sheriff,0.0,6
+Hard Rain (film),karen,1.0,25
+Snatch (film),sol,0.0,23
+Snatch (film),turkish,0.0,25
+Snatch (film),vinny,0.0,6
+Snatch (film),btt,0.0,23
+Snatch (film),brick top,1.0,8
+Snatch (film),hands,1.0,25
+Snatch (film),tommy,0.0,6
+Snatch (film),doug,0.0,9
+Snatch (film),micky,1.0,6
+Snow White and the Huntsman,eric,0.0,25
+Snow White and the Huntsman,snow white,1.0,25
+Snow White and the Huntsman,ravenna,1.0,25
+Snow White and the Huntsman,finn,0.0,25
+Erin Brockovich (film),erin,1.0,6
+Erin Brockovich (film),ed,0.0,6
+Passenger 57,cutter,0.0,25
+Passenger 57,wolfgang,0.0,10
+Passenger 57,marti,0.0,6
+Passenger 57,sly,1.0,6
+Sunshine Cleaning,rose,1.0,8
+Sunshine Cleaning,norah,1.0,8
+Sunshine Cleaning,joe,0.0,6
+Clerks,dante,0.0,6
+Clerks,randal,0.0,6
+Top Gun,maverick,0.0,6
+Top Gun,charlie,1.0,6
+Top Gun,goose,1.0,8
+The Curse of the Cat People,amy,1.0,8
+The Curse of the Cat People,oliver,0.0,8
+The Curse of the Cat People,alice,1.0,9
+The Curse of the Cat People,mrs. farren,1.0,25
+The Curse of the Cat People,edward,0.0,8
+Rent (film),roger,0.0,9
+Rent (film),mark,0.0,5
+Rent (film),mimi,1.0,9
+Rent (film),collins,1.0,9
+Rent (film),joanne,0.0,6
+Rent (film),maureen,1.0,5
+Rent (film),benny,0.0,9
+Rent (film),angel,1.0,9
+Its Complicated (film),jane,1.0,6
+Its Complicated (film),jake,0.0,6
+Its Complicated (film),adam,0.0,6
+Gone in 60 Seconds (2000 film),memphis,1.0,19
+Gone in 60 Seconds (2000 film),kip,0.0,6
+Sugar (2008 film),miguel,1.0,8
+Remember Me (2010 film),tyler,1.0,8
+Remember Me (2010 film),ally,1.0,8
+Remember Me (2010 film),aidan,0.0,6
+The Godfather Part II,michael,0.0,9
+The Godfather Part II,hagen,0.0,9
+The Godfather Part II,fredo,0.0,6
+The Godfather Part II,pentangeli,1.0,6
+The Adjustment Bureau,david,0.0,8
+The Adjustment Bureau,elise,1.0,6
+44 Inch Chest,archie,1.0,8
+44 Inch Chest,mal,0.0,23
+44 Inch Chest,colin,0.0,9
+44 Inch Chest,omp,1.0,23
+44 Inch Chest,meredith,0.0,9
+What Lies Beneath,claire,1.0,6
+What Lies Beneath,norman,0.0,6
+Independence Day (1996 film),david,0.0,10
+Independence Day (1996 film),steve,0.0,10
+Independence Day (1996 film),president,0.0,10
+Independence Day (1996 film),general grey,0.0,10
+Independence Day (1996 film),constance,1.0,10
+Independence Day (1996 film),moishe,0.0,6
+Independence Day (1996 film),jasmine,1.0,8
+Network (film),diana,1.0,17
+Network (film),max,0.0,17
+Network (film),howard,0.0,17
+Network (film),hackett,0.0,17
+Frances (film),frances,1.0,8
+Frances (film),harry,0.0,6
+Superman IV: The Quest for Peace,lex,0.0,8
+Superman IV: The Quest for Peace,clark,0.0,8
+Superman IV: The Quest for Peace,lacy,1.0,8
+Superman IV: The Quest for Peace,lois,1.0,8
+Superman IV: The Quest for Peace,superman,0.0,3
+Superman IV: The Quest for Peace,lenny,0.0,6
+Lost in America,david,0.0,9
+Lost in America,nancy,1.0,6
+The Hudsucker Proxy,norville,1.0,25
+The Hudsucker Proxy,amy,1.0,8
+Children of Men,theo,1.0,25
+Children of Men,kee,1.0,25
+Leaving Las Vegas,ben,0.0,18
+Leaving Las Vegas,sera,1.0,18
+Fright Night,charley,0.0,25
+Fright Night,peter,0.0,25
+Fright Night,amy,1.0,8
+The Green Mile (film),paul,0.0,25
+The Green Mile (film),coffey,0.0,25
+Who Framed Roger Rabbit,valiant,0.0,8
+Who Framed Roger Rabbit,roger rabbit,0.0,8
+Dexter (episode),debra,1.0,6
+Dexter (episode),laguerta,1.0,8
+Dexter (episode),harry,0.0,8
+Dexter (episode),rita,0.0,6
+Star Wars Episode III: Revenge of the Sith,anakin,0.0,12
+Star Wars Episode III: Revenge of the Sith,padme,1.0,12
+Star Wars Episode III: Revenge of the Sith,palpatine,0.0,12
+I Love You Phillip Morris,steven,0.0,8
+I Love You Phillip Morris,phillip,0.0,6
+Bad Lieutenant,lt,0.0,23
+Vanilla Sky,david,0.0,8
+Vanilla Sky,sofia,1.0,5
+Only You (1994 film),faith,0.0,6
+Only You (1994 film),kate,1.0,6
+Only You (1994 film),peter,0.0,6
+Tall in the Saddle,rocklin,0.0,8
+Tall in the Saddle,dave,0.0,8
+Tall in the Saddle,arly,0.0,8
+Station West,haven,0.0,8
+Station West,charlie,1.0,8
+Book of Shadows: Blair Witch 2,cotter,0.0,25
+Book of Shadows: Blair Witch 2,heather,1.0,25
+Book of Shadows: Blair Witch 2,nick,0.0,6
+Book of Shadows: Blair Witch 2,anna,1.0,25
+Book of Shadows: Blair Witch 2,domini,1.0,6
+At First Sight,virgil,0.0,8
+At First Sight,amy,1.0,8
+The Iron Lady (film),margaret,1.0,8
+The Iron Lady (film),denis,0.0,8
+Absolute Power (film),luther,0.0,8
+Absolute Power (film),seth,0.0,8
+Absolute Power (film),kate,1.0,8
+Absolute Power (film),richmond,0.0,8
+Absolute Power (film),russell,0.0,8
+Absolute Power (film),walter sullivan,0.0,9
+Romeo + Juliet,romeo,0.0,25
+Romeo + Juliet,juliet,1.0,22
+Romeo + Juliet,mercutio,1.0,25
+Romeo + Juliet,benvolio,1.0,22
+Romeo + Juliet,father laurence,0.0,22
+Urban Legend (film),natalie,1.0,14
+Urban Legend (film),brenda,1.0,14
+Urban Legend (film),paul,0.0,14
+Nine (2009 live-action film),guido,0.0,9
+Dracula (1958 film),helsing,0.0,22
+Dracula (1958 film),arthur,0.0,9
+Dracula (1958 film),mina,1.0,9
+Dracula (1958 film),harker,0.0,22
+Jay and Silent Bob Strike Back,jay,0.0,23
+The Exorcist (film),chris,0.0,8
+The Exorcist (film),karras,0.0,8
+V for Vendetta (film),evey,0.0,25
+V for Vendetta (film),v,0.0,25
+V for Vendetta (film),leader,0.0,3
+V for Vendetta (film),finch,0.0,25
+V for Vendetta (film),helen,1.0,25
+A Nightmare on Elm Street 2: Freddys Revenge,jesse,0.0,25
+A Nightmare on Elm Street 2: Freddys Revenge,lisa,1.0,8
+Solaris (2002 film),kelvin,0.0,3
+Solaris (2002 film),snow,1.0,3
+Spaceballs,lone,0.0,8
+Spaceballs,helmet,0.0,15
+Spaceballs,barf,1.0,6
+Spaceballs,vespa,1.0,9
+Pie-lette,ned,0.0,6
+Pie-lette,narrator,0.0,25
+Pie-lette,chuck,0.0,6
+Pie-lette,emerson,0.0,6
+Monty Pythons The Meaning of Life,ainsworth,1.0,9
+Monty Pythons The Meaning of Life,mr hendy,0.0,6
+Monty Pythons The Meaning of Life,maitre d,1.0,24
+Monty Pythons The Meaning of Life,mrs hendy,1.0,6
+Monty Pythons The Meaning of Life,headmaster,0.0,3
+Monty Pythons The Meaning of Life,first doctor,0.0,3
+Monty Pythons The Meaning of Life,hymie,0.0,6
+Monty Pythons The Meaning of Life,martin luther,0.0,9
+Monty Pythons The Meaning of Life,biggs,0.0,9
+Monty Pythons The Meaning of Life,mamie,1.0,24
+Monty Pythons The Meaning of Life,grim reaper,0.0,3
+Monty Pythons The Meaning of Life,first man,0.0,5
+Monty Pythons The Meaning of Life,mrs bloke,1.0,9
+Monty Pythons The Meaning of Life,angela,1.0,9
+Monty Pythons The Meaning of Life,perkins,0.0,6
+Monty Pythons The Meaning of Life,waiter,1.0,3
+The Fabulous Baker Boys,jack,0.0,18
+The Fabulous Baker Boys,frank,0.0,18
+The Fabulous Baker Boys,susie,1.0,18
+Heat (1995 film),neil,0.0,6
+Heat (1995 film),hanna,0.0,6
+Solarbabies,jason,0.0,6
+Solarbabies,tara,1.0,6
+Solarbabies,metron,0.0,6
+Solarbabies,daniel,0.0,6
+Solarbabies,rabbit,1.0,6
+Solarbabies,tug,1.0,1
+Starman (film),jenny,1.0,19
+Starman (film),star man,0.0,19
+The Godfather Part III,tony,0.0,9
+The Godfather Part III,i,1.0,8
+The Family Man,jack,0.0,18
+The Family Man,kate,1.0,18
+The King of Comedy (1983 film),pupkin,0.0,9
+The King of Comedy (1983 film),rita,0.0,8
+Batman Returns,penguin,0.0,6
+Batman Returns,selina,1.0,6
+Batman Returns,max,0.0,6
+Batman Returns,bruce,0.0,6
+Batman Returns,catwoman,1.0,9
+From Dusk till Dawn,seth,0.0,23
+From Dusk till Dawn,jacob,0.0,6
+From Dusk till Dawn,richard,0.0,6
+12 and Holding,jacob,0.0,6
+12 and Holding,malee,1.0,8
+12 and Holding,leonard,0.0,6
+12 and Holding,kenny,0.0,6
+12 and Holding,gus,0.0,8
+12 and Holding,grace,1.0,8
+The Witching Hour (film),rowan,0.0,9
+The Witching Hour (film),michael,0.0,9
+The Silence of the Lambs (film),clarice,1.0,25
+The Silence of the Lambs (film),dr. lecter,0.0,3
+The Silence of the Lambs (film),crawford,1.0,11
+The Grudge,karen,1.0,25
+The Grudge,matthew,0.0,18
+The Grudge,susan,1.0,25
+The Grudge,doug,0.0,8
+The Grudge,nakagawa,1.0,8
+Horrible Bosses,kurt,0.0,6
+Horrible Bosses,nick,0.0,6
+Horrible Bosses,dale,0.0,6
+Horrible Bosses,harken,1.0,6
+The Terminator,sarah,1.0,25
+The Terminator,reese,1.0,25
+Scary Movie,cindy,1.0,25
+Scary Movie,bobby,0.0,6
+Scary Movie,buffy,1.0,5
+Scary Movie,brandy,1.0,5
+The Sandlot,scotty,0.0,6
+The Sandlot,benny,0.0,1
+The Sandlot,ham,1.0,6
+The Sandlot,narrator,0.0,1
+Jaws 2,brody,0.0,8
+Jaws 2,mike,0.0,8
+Reservoir Dogs,mr. white,0.0,23
+Reservoir Dogs,mr. pink,1.0,23
+Reservoir Dogs,eddie,1.0,23
+Reservoir Dogs,joe,0.0,23
+Reservoir Dogs,freddy,0.0,6
+Even Cowgirls Get the Blues (film),sissy,0.0,3
+Even Cowgirls Get the Blues (film),jelly,1.0,3
+Even Cowgirls Get the Blues (film),the countess,1.0,3
+Even Cowgirls Get the Blues (film),chink,0.0,3
+Cat People (1982 film),oliver,0.0,9
+Cat People (1982 film),irena,1.0,9
+Cat People (1982 film),alice,1.0,9
+Cat People (1982 film),judd,1.0,9
+Apocalypse Now Redux,willard,0.0,20
+Apocalypse Now Redux,chef,0.0,23
+Apocalypse Now Redux,chief,1.0,20
+Apocalypse Now Redux,kilgore,0.0,20
+Mumford (film),mumford,0.0,6
+84C MoPic,easy,1.0,6
+84C MoPic,od,1.0,20
+84C MoPic,drewry,0.0,6
+84C MoPic,hammer,1.0,23
+84C MoPic,pretty boy,1.0,23
+84C MoPic,cracker,1.0,6
+Fracture (2007 film),willy,1.0,8
+Fracture (2007 film),crawford,1.0,8
+The Bodyguard (1992 film),frank,0.0,8
+The Bodyguard (1992 film),rachel,1.0,8
+The Seventh Victim,jason,0.0,9
+The Seventh Victim,mary,1.0,9
+The Seventh Victim,gregory,0.0,9
+The Seventh Victim,judd,1.0,9
+The Descendants,matt,0.0,6
+The Descendants,alexandra,1.0,6
+Looper (film),joe,0.0,25
+Looper (film),sara,1.0,25
+Looper (film),old joe,0.0,25
+Benny & Joon,benny,0.0,18
+Benny & Joon,joon,1.0,18
+Benny & Joon,sam,0.0,18
+The Pianist (2002 film),szpilman,0.0,8
+The Pianist (2002 film),henryk,0.0,9
+Awakenings,sayer,1.0,3
+Awakenings,leonard,0.0,8
+Jacobs Ladder (film),jacob,0.0,9
+Sister Act,christy,1.0,8
+Sister Act,mother superior,1.0,24
+All the Presidents Men (film),woodward,0.0,17
+All the Presidents Men (film),bernstein,0.0,17
+American Shaolin,drew,1.0,6
+Cherry Falls,jody,1.0,9
+Cherry Falls,brent,1.0,6
+In the Bedroom,matt,0.0,8
+In the Bedroom,ruth,1.0,9
+In the Bedroom,willis,1.0,9
+In the Bedroom,natalie,1.0,8
+In the Bedroom,f,1.0,6
+The Sixth Sense,malcolm,0.0,8
+The Sixth Sense,cole,0.0,8
+The Sixth Sense,lynn,1.0,8
+Barton Fink,barton,0.0,6
+Barton Fink,charlie,1.0,6
+Brick (film),brendan,0.0,25
+Austin Powers: International Man of Mystery,austin,1.0,16
+Austin Powers: International Man of Mystery,vanessa,1.0,3
+Austin Powers: International Man of Mystery,dr. evil,0.0,3
+RocknRolla,rocknrolla,0.0,15
+RocknRolla,one two,0.0,23
+RocknRolla,lenny cole,0.0,9
+RocknRolla,archy,0.0,23
+RocknRolla,johnny story,0.0,8
+RocknRolla,mumbles,0.0,23
+Nashville (film),triplette,0.0,9
+Nashville (film),tom,0.0,8
+Nashville (film),barnett,0.0,9
+Nashville (film),linnea,1.0,9
+Nashville (film),kenny,0.0,6
+Nashville (film),green,1.0,9
+Nashville (film),reese,1.0,8
+Nashville (film),opal,0.0,8
+Nashville (film),bill,0.0,8
+Nashville (film),barbara jean,1.0,9
+Nashville (film),wade,0.0,9
+Nashville (film),albuquerque,1.0,9
+Nashville (film),norman,0.0,9
+Nashville (film),mary,1.0,6
+The Pacifier,shane,0.0,25
+The Bonfire of the Vanities (film),sherman,0.0,6
+The Bonfire of the Vanities (film),peter,0.0,3
+The Bonfire of the Vanities (film),maria,1.0,9
+The Hitchhikers Guide to the Galaxy (film),arthur,0.0,8
+The Hitchhikers Guide to the Galaxy (film),ford,0.0,25
+The Hitchhikers Guide to the Galaxy (film),zaphod,1.0,6
+Enemy of the State (film),dean,0.0,6
+Return to Me,bob,0.0,8
+Return to Me,grace,1.0,8
+No Strings Attached (film),adam,0.0,6
+No Strings Attached (film),emma,1.0,6
+Backdraft (film),brian,0.0,6
+Backdraft (film),stephen,0.0,6
+Backdraft (film),shadow,0.0,6
+Malibus Most Wanted,brad,0.0,2
+Malibus Most Wanted,sean,0.0,6
+Malibus Most Wanted,bill,0.0,17
+Malibus Most Wanted,pj,1.0,2
+Malibus Most Wanted,tom,0.0,6
+Hancock (film),mary,1.0,25
+Hancock (film),hancock,0.0,25
+Hancock (film),horus,0.0,25
+Hancock (film),aaron,0.0,8
+The Lord of the Rings: The Return of the King,gandalf,0.0,22
+The Lord of the Rings: The Return of the King,sam,0.0,9
+The Lord of the Rings: The Return of the King,frodo,0.0,6
+The Lord of the Rings: The Return of the King,pippin,0.0,6
+The Lord of the Rings: The Return of the King,aragorn,0.0,22
+The Lord of the Rings: The Return of the King,gollum,0.0,9
+The Lord of the Rings: The Return of the King,denethor,1.0,22
+The Lord of the Rings: The Return of the King,merry,1.0,9
+Star Trek II: The Wrath of Khan,kirk,0.0,12
+Star Trek II: The Wrath of Khan,spock,0.0,12
+Charade (1963 film),reggie,1.0,8
+The Kings Speech,bertie,1.0,22
+The Kings Speech,lionel,0.0,22
+The Girl with the Dragon Tattoo (2011 film),blomkvist,0.0,9
+The Girl with the Dragon Tattoo (2011 film),salander,0.0,8
+American Splendor (film),harvey,0.0,6
+American Splendor (film),joyce,1.0,8
+Poetic Justice (film),lucky,1.0,8
+Poetic Justice (film),justice,1.0,8
+Poetic Justice (film),chicago,1.0,2
+Poetic Justice (film),jessie,1.0,8
+Finding Nemo,marlin,0.0,8
+Finding Nemo,dory,0.0,8
+Finding Nemo,nemo,0.0,22
+Major League (film),taylor,0.0,6
+Major League (film),brown,0.0,6
+Major League (film),lynn,1.0,9
+Chinatown (1974 film),gittes,1.0,9
+Chinatown (1974 film),evelyn,1.0,9
+Malcolm X (film),malcolm,0.0,9
+Feast (film),heroine,1.0,25
+Feast (film),bozo,1.0,25
+Feast (film),boss man,0.0,6
+Feast (film),bartender,0.0,25
+Walking Tall (2004 film),chris,0.0,6
+Eagle Eye,jerry,0.0,6
+Eagle Eye,rachel,1.0,6
+Eagle Eye,morgan,0.0,10
+Grosse Pointe Blank,martin,0.0,8
+Grosse Pointe Blank,debi,1.0,8
+War of the Worlds (2005 film),clayton,0.0,25
+War of the Worlds (2005 film),sylvia,1.0,10
+The Life and Death of Colonel Blimp,clive,0.0,9
+The Birds (film),melanie,1.0,9
+The Birds (film),mitch,0.0,9
+The Birds (film),lydia,1.0,9
+Cinema Paradiso,salvatore,0.0,25
+Cinema Paradiso,alfredo,1.0,9
+JFK (film),jim,0.0,3
+Clueless (film),cher,1.0,6
+Rapture (1965 film),sharon,1.0,9
+The Sweet Hereafter (film),mitchell,0.0,9
+The Sweet Hereafter (film),nicole,1.0,9
+The Sweet Hereafter (film),dolores,1.0,9
+The Sweet Hereafter (film),billy,0.0,9
+The Lincoln Lawyer (film),mick,0.0,11
+Agnes of God (film),martha,1.0,9
+Agnes of God (film),agnes,1.0,9
+Agnes of God (film),mother miriam,1.0,9
+The Change-Up,mitch,0.0,5
+The Change-Up,dave,0.0,6
+Larry Crowne,larry crowne,1.0,6
+Larry Crowne,talia,0.0,15
+Ferris Buellers Day Off,ferris,0.0,6
+Ferris Buellers Day Off,cameron,0.0,6
+Ferris Buellers Day Off,sloane,0.0,6
+House on Haunted Hill (1999 film),price,1.0,6
+House on Haunted Hill (1999 film),sara,1.0,6
+House on Haunted Hill (1999 film),pritchett,1.0,6
+House on Haunted Hill (1999 film),eddie,1.0,6
+House on Haunted Hill (1999 film),evelyn,1.0,6
+House on Haunted Hill (1999 film),blackburn,0.0,6
+The Sting,hooker,0.0,8
+Megamind,master mind,0.0,8
+Megamind,roxanne,1.0,6
+Megamind,titan,0.0,6
+I Know What You Did Last Summer,julie,1.0,6
+I Know What You Did Last Summer,helen,1.0,6
+I Know What You Did Last Summer,barry,1.0,6
+I Know What You Did Last Summer,ray,0.0,6
+The Cell,catherine,1.0,25
+The Cell,novak,1.0,25
+The Cell,miriam,1.0,3
+Highlander III: The Sorcerer,jennifer,1.0,6
+SubUrbia (film),jeff,0.0,6
+SubUrbia (film),buff,0.0,6
+SubUrbia (film),tim,0.0,6
+SubUrbia (film),pony,1.0,6
+Deception (2008 film),jonathan,0.0,8
+Deception (2008 film),wyatt,0.0,8
+Case 39,emily,1.0,8
+Case 39,lucy,1.0,25
+Scarface (1983 film),tony,0.0,23
+The Verdict,galvin,1.0,8
+Get Low (film),bush,0.0,9
+Get Low (film),frank,0.0,9
+Get Low (film),buddy,0.0,9
+Get Low (film),mattie,0.0,9
+Petulia,archie,1.0,8
+Petulia,petulia,1.0,8
+White Angel (1994 film),steckler,1.0,9
+White Angel (1994 film),carter,0.0,9
+WALL-E,captain,0.0,25
+WALL-E,wall-e,1.0,25
+WALL-E,eve,1.0,25
+WALL-E,ship's computer,0.0,10
+WALL-E,autopilot,0.0,16
+The Truman Show,truman,0.0,9
+The Truman Show,christof,0.0,3
+The Truman Show,meryl,1.0,6
+Being Human (film),hector,0.0,8
+Celeste and Jesse Forever,celeste,1.0,6
+Celeste and Jesse Forever,jesse,0.0,6
+All About Steve,mary,1.0,8
+All About Steve,hartman,0.0,8
+All About Steve,steve,0.0,8
+Queen of the Damned,lestat,1.0,25
+Queen of the Damned,jesse,0.0,25
+Queen of the Damned,marius,0.0,25
+Hitchcock (film),alfred hitchcock,0.0,8
+Hitchcock (film),alma,0.0,8
+Friday the 13th Part VIII: Jason Takes Manhattan,rennie,0.0,25
+Friday the 13th Part VIII: Jason Takes Manhattan,mcculloch,0.0,25
+Friday the 13th Part VIII: Jason Takes Manhattan,sean,0.0,25
+Friday the 13th Part VIII: Jason Takes Manhattan,miss van deusen,1.0,25
+Friday the 13th Part VIII: Jason Takes Manhattan,tamara,1.0,6
+Monkeybone,stu,0.0,6
+Monkeybone,julie,1.0,6
+Monkeybone,monkeybone,0.0,6
+The Nines,gary,0.0,6
+The Nines,margaret,1.0,6
+The Nines,gavin,0.0,6
+The Nines,gabriel,0.0,6
+The Nines,sarah,1.0,9
+The Nines,susan,1.0,6
+The Nines,sierra,0.0,6
+The Nines,mary,1.0,6
+A Serious Man,larry,0.0,7
+Saving Private Ryan,miller,0.0,20
+Jennifer 8,berlin,1.0,6
+Jennifer 8,ross,0.0,6
+Up (2009 film),carl,0.0,25
+Up (2009 film),russell,0.0,1
+Star Trek: Nemesis,picard,0.0,3
+Star Trek: Nemesis,shinzon,0.0,3
+Star Trek: Nemesis,data,0.0,3
+The Searchers (film),ethan,0.0,21
+The Searchers (film),martin,0.0,25
+The Searchers (film),clayton,0.0,21
+Bad Dreams (film),cynthia,1.0,25
+Bad Dreams (film),alan,0.0,8
+A Dry White Season,ben,0.0,9
+A Dry White Season,stanley,1.0,9
+The Night of the Hunter (film),preacher,0.0,9
+The Night of the Hunter (film),john,0.0,9
+The Night of the Hunter (film),rachel,1.0,9
+The Night of the Hunter (film),icey,0.0,9
+The Night of the Hunter (film),pearl,1.0,9
+Extract (film),joel,0.0,6
+Shifty (film),shifty,1.0,8
+Shifty (film),chris,0.0,8
+Erik the Viking,erik,0.0,25
+Superbad (film),seth,0.0,6
+Superbad (film),evan,0.0,6
+Purple Rain (film),vanity,1.0,25
+Purple Rain (film),morris,0.0,8
+Purple Rain (film),prince,0.0,25
+Purple Rain (film),jerome,0.0,8
+Goldfinger (film),bond,0.0,8
+Goldfinger (film),"""q""",1.0,8
+Goldfinger (film),"""m""",1.0,9
+Hider in the House (1989 film),julie,1.0,18
+Hider in the House (1989 film),phil,0.0,18
+Hider in the House (1989 film),hider,1.0,6
+Hider in the House (1989 film),neil,0.0,6
+Withnail and I,withnail,1.0,9
+Withnail and I,i,1.0,9
+Withnail and I,monty,1.0,9
+Sleepy Hollow (film),ichabod,0.0,22
+Sleepy Hollow (film),katrina,0.0,22
+Death at a Funeral (2010 film),aaron,0.0,6
+Death at a Funeral (2010 film),elaine,1.0,6
+Death at a Funeral (2010 film),norman,0.0,6
+Death at a Funeral (2010 film),ryan,0.0,6
+Death at a Funeral (2010 film),oscar,1.0,6
+Death at a Funeral (2010 film),michelle,1.0,6
+Death at a Funeral (2010 film),derek,0.0,8
+Mr. Blandings Builds His Dream House,jim,0.0,9
+Mr. Blandings Builds His Dream House,muriel,1.0,9
+Hudson Hawk,hawk,0.0,25
+Hudson Hawk,anna,1.0,25
+Hudson Hawk,alex,1.0,25
+Mary Poppins (film),mr. banks,0.0,9
+Mary Poppins (film),mary poppins,1.0,9
+Mary Poppins (film),bert,0.0,24
+Mary Poppins (film),jane,1.0,9
+Mary Poppins (film),mrs. banks,1.0,9
+Mary Poppins (film),michael,0.0,9
+The Private Life of Sherlock Holmes,holmes,0.0,3
+The Private Life of Sherlock Holmes,watson,0.0,9
+Fight Club,jack,0.0,8
+Fight Club,tyler,1.0,25
+Halloween II (1981 film),loomis,0.0,11
+Halloween II (1981 film),laurie,0.0,25
+Halloween II (1981 film),bracket,0.0,6
+Halloween II (1981 film),jimmy,0.0,19
+The Butterfly Effect,evan,0.0,25
+The Butterfly Effect,kayleigh,1.0,6
+Limitless,eddie,1.0,8
+Batman (1989 film),vicki,1.0,8
+Batman (1989 film),knox,0.0,25
+Batman (1989 film),bruce,0.0,25
+Batman (1989 film),joker,0.0,25
+Batman (1989 film),batman,0.0,25
+Kalifornia,early,1.0,6
+Kalifornia,brian,0.0,6
+Kalifornia,carrie,1.0,6
+Kalifornia,adele,1.0,9
+Midnight Run,walsh,1.0,6
+Midnight Run,the duke,1.0,6
+Boogie Nights,dirk,1.0,6
+Boogie Nights,jack,0.0,6
+Resident Evil (film),alice,1.0,25
+Resident Evil (film),matt,0.0,25
+Resident Evil (film),twelve,0.0,25
+Resident Evil (film),j.d.,0.0,25
+Resident Evil (film),spence,0.0,25
+Resident Evil (film),red queen,1.0,3
+Resident Evil (film),one,0.0,10
+We Own the Night (film),bobby green,0.0,8
+Buried (film),paul,0.0,25
+Buried (film),dan,0.0,25
+Ace Ventura: Pet Detective,ace,1.0,6
+Ace Ventura: Pet Detective,melissa,1.0,6
+The Jolson Story,jolson,1.0,8
+The Jolson Story,steve,0.0,9
+The Jolson Story,julie,1.0,9
+Supergirl (film),selena,1.0,9
+Supergirl (film),supergirl,1.0,9
+Supergirl (film),ethan,0.0,9
+Supergirl (film),lucy,1.0,9
+The Old Dark House,philip waverton,1.0,18
+The Old Dark House,margaret waverton,1.0,18
+The Old Dark House,gladys,1.0,9
+The Old Dark House,porterhouse,0.0,9
+Observe and Report,ronnie,1.0,6
+Deep Rising,finnegan,0.0,25
+Deep Rising,trillian,1.0,25
+Deep Rising,hanover,1.0,25
+The Crow (film),eric,0.0,25
+The Crow (film),albrecht,1.0,25
+The Crow (film),elly,0.0,25
+The Crow (film),lao,1.0,25
+The Bourne Ultimatum (film),bourne,0.0,11
+The Bourne Ultimatum (film),landy,0.0,11
+After.Life,eliot,0.0,25
+After.Life,anna,1.0,25
+After.Life,paul,0.0,25
+The Jacket,starks,0.0,8
+The Jacket,jackie,1.0,25
+Blade (film),blade,0.0,25
+Blade (film),karen,1.0,25
+Blade (film),frost,1.0,25
+Blade (film),whistler,0.0,25
+The Forsaken (film),nick,0.0,4
+The Forsaken (film),sean,0.0,4
+Aladdin (1992 Disney film),aladdin,1.0,13
+Aladdin (1992 Disney film),jasmine,1.0,13
+Aladdin (1992 Disney film),jafar,0.0,13
+Aladdin (1992 Disney film),genie,1.0,13
+The Craft (film),sarah,1.0,6
+The Craft (film),bonnie,1.0,6
+The Craft (film),nancy,1.0,6
+The Craft (film),chris,0.0,6
+The NeverEnding Story (film),atreyu,0.0,25
+The NeverEnding Story (film),bastian,1.0,25
+Wild at Heart (film),lula,0.0,2
+Wild at Heart (film),sailor,0.0,2
+Wild at Heart (film),marietta,1.0,18
+Detroit Rock City (film),hawk,0.0,8
+Detroit Rock City (film),jam,1.0,6
+Detroit Rock City (film),lex,0.0,25
+Detroit Rock City (film),trip,1.0,23
+One Eight Seven,trevor,0.0,8
+One Eight Seven,ellen,1.0,25
+Jaws: The Revenge,michael,0.0,9
+Jaws: The Revenge,ellen,1.0,9
+Jaws: The Revenge,jake,0.0,9
+Jaws: The Revenge,hoagie,1.0,8
+Jaws: The Revenge,carla,1.0,9
+Virtuosity,parker,0.0,25
+Virtuosity,madison,0.0,3
+Virtuosity,sid 6.7,0.0,25
+Buffy the Vampire Slayer (film),buffy,1.0,6
+Buffy the Vampire Slayer (film),pike,0.0,6
+Buffy the Vampire Slayer (film),merrick,0.0,3
+M (1931 film),lohmann,0.0,3
+M (1931 film),murderer,0.0,3
+M (1931 film),burglar,0.0,9
+M (1931 film),pick-pocket,1.0,6
+M (1931 film),a voice,0.0,6
+M (1931 film),con-man,0.0,6
+M (1931 film),assistant,1.0,9
+Klute,bree,1.0,9
+Klute,klute,0.0,9
+The Fly (1986 film),veronica,1.0,25
+The Fly (1986 film),brundle,0.0,8
+Aliens (film),ripley,0.0,25
+Aliens (film),hicks,0.0,25
+Aliens (film),hudson,1.0,10
+Ticker (2001 film),reilly,0.0,25
+Ticker (2001 film),glass,1.0,25
+Bonnie and Clyde (film),clyde,1.0,2
+Bonnie and Clyde (film),bonnie,1.0,9
+Bonnie and Clyde (film),buck,0.0,2
+Bonnie and Clyde (film),c.w.,1.0,6
+The Majestic (film),pete,0.0,6
+The Majestic (film),luke,0.0,9
+The Majestic (film),adele,1.0,9
+The Majestic (film),harry,0.0,9
+Ghostbusters,ray,0.0,6
+Ghostbusters,peter,0.0,6
+Ghostbusters,winston,0.0,6
+Ghostbusters,egon,0.0,3
+Ghostbusters,slimer,1.0,25
+Ghostbusters,another angle,0.0,25
+I Am Legend (film),neville,0.0,9
+I Am Legend (film),anna,1.0,9
+Pet Sematary Two,chase,1.0,6
+Pet Sematary Two,geoff,0.0,6
+Pet Sematary Two,gus,0.0,6
+Pet Sematary Two,drew,1.0,6
+Pet Sematary Two,clyde,1.0,6
+Manhunter (film),graham,0.0,9
+Manhunter (film),crawford,1.0,11
+The Grapes of Wrath (film),tom,0.0,2
+The Grapes of Wrath (film),ma,1.0,2
+The Grapes of Wrath (film),pa,0.0,2
+Next Friday,craig,0.0,6
+Next Friday,roach,0.0,8
+Next Friday,uncle elroy,0.0,2
+A Hard Days Night (film),paul,0.0,9
+A Hard Days Night (film),john,0.0,8
+A Hard Days Night (film),ringo,0.0,8
+A Hard Days Night (film),grandfather,0.0,8
+A Hard Days Night (film),norm,0.0,8
+A Hard Days Night (film),george,0.0,8
+A Hard Days Night (film),shake,1.0,8
+Life of Pi (film),pi,1.0,13
+Life of Pi (film),adult pi,1.0,3
+Life of Pi (film),writer,0.0,13
+An Education,jenny,1.0,9
+An Education,david,0.0,9
+An Education,jack,0.0,9
+Contact (1997 film),ellie,1.0,3
+Hannah and Her Sisters,holly,0.0,6
+Hannah and Her Sisters,mickey,1.0,6
+Hannah and Her Sisters,hannah,1.0,4
+Hannah and Her Sisters,lee,0.0,6
+Hannah and Her Sisters,elliot,0.0,4
+Gran Torino,walt,1.0,8
+Gran Torino,tao,1.0,6
+Black Snake Moan (film),lazarus,0.0,2
+Black Snake Moan (film),rae,1.0,25
+A Perfect World,butch,0.0,8
+A Perfect World,red,1.0,8
+A Perfect World,phillip,0.0,8
+A Perfect World,sally,1.0,11
+Existenz,pikul,1.0,6
+Existenz,geller,1.0,15
+Gattaca,jerome,0.0,8
+Gattaca,eugene,0.0,8
+Gattaca,investigator,0.0,8
+Gattaca,irene,1.0,8
+G.I. Jane,jordan,1.0,6
+G.I. Jane,the chief,1.0,3
+G.I. Jane,royce,1.0,6
+Air Force One (film),marshall,0.0,10
+Air Force One (film),korshunov,0.0,10
+Air Force One (film),rose,1.0,10
+Predator (film),schaefer,1.0,25
+Predator (film),dillon,1.0,25
+The Kingdom (film),ronald fleury,0.0,6
+The Kingdom (film),fleury,1.0,8
+Rocky,rocky,0.0,2
+Fantastic Four (film),reed,0.0,25
+Fantastic Four (film),sue,1.0,25
+Fantastic Four (film),ben,0.0,25
+Fantastic Four (film),victor,0.0,25
+Fantastic Four (film),johnny,0.0,25
+Pariah (2011 film),alike,0.0,25
+Pariah (2011 film),audrey,1.0,6
+Pariah (2011 film),laura,1.0,8
+Pariah (2011 film),arthur,0.0,8
+Pariah (2011 film),bina,1.0,6
+Sexual Life,sarah,1.0,6
+Sexual Life,lorna,0.0,6
+Sexual Life,gwen,1.0,6
+Sexual Life,todd,0.0,6
+Sexual Life,josh,0.0,6
+Sexual Life,jerry,0.0,6
+Sexual Life,rosalie,1.0,5
+Avatar (2009 film),jake,0.0,25
+Avatar (2009 film),grace,1.0,25
+Crank (film),chev,0.0,6
+Pleasantville (film),david,0.0,6
+Pleasantville (film),jennifer,1.0,6
+Apocalypse Now,willard,0.0,20
+The Assignment (1997 film),ramirez,1.0,6
+The Assignment (1997 film),jack,0.0,8
+Viridiana,viridiana,1.0,9
+Viridiana,jorge,1.0,9
+Viridiana,don jaime,0.0,9
+The Godfather,michael,0.0,8
+The Godfather,don corleone,0.0,8
+The Godfather,sonny,0.0,8
+The Godfather,hagen,0.0,8
+The Godfather,kay,1.0,8
+Arbitrage (film),robert,0.0,6
+Arbitrage (film),jimmy,0.0,6
+The Miracle Worker (1962 film),kate,1.0,9
+The Miracle Worker (1962 film),keller,0.0,9
+The Miracle Worker (1962 film),aunt ev,1.0,9
+The Miracle Worker (1962 film),annie,1.0,8
+Ghost Ship (2002 film),murphy,1.0,12
+Ghost Ship (2002 film),epps,0.0,25
+Ghost Ship (2002 film),dodge,0.0,25
+Ghost Ship (2002 film),greer,1.0,8
+The Horse Whisperer (film),annie,1.0,8
+The Horse Whisperer (film),tom,0.0,8
+The Horse Whisperer (film),grace,1.0,8
+The Horse Whisperer (film),robert,0.0,8
+Snow Falling on Cedars (film),ishmael,0.0,25
+Snow Falling on Cedars (film),nels,1.0,3
+Snow Falling on Cedars (film),hooks,1.0,3
+Snow Falling on Cedars (film),hatsue,1.0,9
+Lord of War,yuri,1.0,8
+The Box (2009 film),norma,1.0,8
+The Box (2009 film),arthur,0.0,8
+The Box (2009 film),arlington,1.0,8
+Hes Just Not That Into You (film),gigi,1.0,6
+Hes Just Not That Into You (film),alex,1.0,6
+Hes Just Not That Into You (film),anna,1.0,6
+Hes Just Not That Into You (film),janine,1.0,6
+Hes Just Not That Into You (film),ben,0.0,6
+Hes Just Not That Into You (film),conor,0.0,6
+Hes Just Not That Into You (film),beth,1.0,6
+The Imaginarium of Doctor Parnassus,valentina,1.0,25
+The Imaginarium of Doctor Parnassus,tony,0.0,22
+The Imaginarium of Doctor Parnassus,anton,0.0,22
+The Imaginarium of Doctor Parnassus,dr. parnassus,0.0,22
+The Imaginarium of Doctor Parnassus,doctor parnassus,1.0,22
+The Imaginarium of Doctor Parnassus,percy,0.0,8
+Chasing Sleep,ed,0.0,18
+Chasing Sleep,sadie,1.0,25
+The Sessions (film),mark,0.0,8
+The Sessions (film),cheryl,1.0,3
+Amour (2012 film),georges,0.0,9
+Amour (2012 film),anne,1.0,8
+The Addams Family (film),gomez,1.0,25
+The Addams Family (film),morticia,1.0,25
+The Addams Family (film),fester,0.0,9
+The Addams Family (film),abigail,1.0,9
+Portrait of Jennie,adams,1.0,9
+Portrait of Jennie,jennie,0.0,9
+The American (2010 film),jack,0.0,8
+The American (2010 film),clara,1.0,8
+Easy A,olive,1.0,6
+When a Stranger Calls (1979 film),jill,1.0,9
+When a Stranger Calls (1979 film),clifford,0.0,9
+When a Stranger Calls (1979 film),john,0.0,6
+When a Stranger Calls (1979 film),duncan,0.0,9
+When a Stranger Calls (1979 film),tracy,1.0,9
+Hellboy (film),hellboy,1.0,25
+Hellboy (film),broom,1.0,25
+Hellboy (film),myers,0.0,25
+Hellboy (film),liz,1.0,25
+The Rescuers Down Under,wilbur,0.0,6
+The Rescuers Down Under,bernard,0.0,13
+The Rescuers Down Under,bianca,1.0,9
+The Rescuers Down Under,cody,0.0,13
+The Rescuers Down Under,jake,0.0,13
+The Rescuers Down Under,frank,0.0,6
+The Rescuers Down Under,doctor,1.0,9
+Mr. Deeds Goes to Town,longfellow,0.0,9
+Mr. Deeds Goes to Town,babe,1.0,9
+Mr. Deeds Goes to Town,cedar,0.0,3
+Die Hard 2,mcclane,0.0,6
+Die Hard 2,stuart,0.0,10
+Freddy vs. Jason,meagan,1.0,25
+Freddy vs. Jason,erwin,0.0,25
+Freddy vs. Jason,jesse,0.0,25
+Joe Versus the Volcano,joe,0.0,6
+Joe Versus the Volcano,patricia,1.0,9
+"Crazy, Stupid, Love.",cal,1.0,6
+"Crazy, Stupid, Love.",jacob,0.0,8
+"Crazy, Stupid, Love.",tracy,1.0,6
+The Ruins (film),jeff,0.0,25
+The Ruins (film),amy,1.0,25
+The Ruins (film),stacy,0.0,25
+The Ruins (film),eric,0.0,25
+The Bourne Supremacy (film),bourne,0.0,6
+The Bourne Supremacy (film),pamela,1.0,6
+The Bourne Supremacy (film),abbott,0.0,11
+The Bourne Supremacy (film),nicky,0.0,6
+Arctic Blue,eric,0.0,9
+Arctic Blue,corbett,0.0,9
+Arctic Blue,anne marie,1.0,6
+Kill Bill Volume 1,the bride,1.0,3
+Kill Bill Volume 1,bill,0.0,9
+Ordinary People,conrad,0.0,6
+Ordinary People,calvin,1.0,9
+Ordinary People,dr berger,0.0,6
+Ordinary People,beth,1.0,9
+Big Fish,edward,0.0,25
+Big Fish,will,0.0,9
+Mulan (1998 film),mulan,1.0,8
+Mulan (1998 film),mushu,1.0,6
+Mulan (1998 film),shang,1.0,20
+Mulan (1998 film),chi fu,1.0,20
+The Best Exotic Marigold Hotel,evelyn,1.0,8
+The Best Exotic Marigold Hotel,sonny,0.0,3
+The Best Exotic Marigold Hotel,douglas,0.0,8
+The Best Exotic Marigold Hotel,jean,0.0,8
+The Best Exotic Marigold Hotel,muriel,1.0,8
+The Best Exotic Marigold Hotel,graham,0.0,9
+The Best Exotic Marigold Hotel,madge,1.0,8
+The Best Exotic Marigold Hotel,norman,0.0,8
+The Shipping News (film),quoyle,0.0,9
+The Shipping News (film),wavey,1.0,9
+The Whistleblower,kathy,1.0,8
+Idiocracy,joe,0.0,6
+Idiocracy,rita,0.0,6
+Max Payne (film),max,0.0,25
+Max Payne (film),bb,1.0,25
+Max Payne (film),m,1.0,25
+Max Payne (film),b,0.0,25
+Max Payne (film),mona,0.0,25
+Max Payne (film),bravura,1.0,25
+Analyze That,ben,0.0,6
+Analyze That,vitti,1.0,6
+Mystery Men,furious,1.0,6
+Mystery Men,raja,0.0,6
+Mystery Men,casanova,1.0,9
+Mystery Men,shoveler,1.0,6
+Mystery Men,monica,1.0,6
+Mystery Men,bowler,0.0,6
+Kafka (film),kafka,0.0,3
+Kafka (film),gabriela,1.0,3
+Stir of Echoes,tom,0.0,8
+Stir of Echoes,maggie,1.0,6
+Kids (film),telly,0.0,6
+Kids (film),casper,0.0,8
+Kids (film),jennie,0.0,8
+Kids (film),ruby,1.0,6
+Rambo: First Blood Part II,rambo,0.0,20
+Rambo: First Blood Part II,trautman,0.0,6
+Rambo: First Blood Part II,co,0.0,9
+Rambo: First Blood Part II,murdock,0.0,3
+Rambo: First Blood Part II,ericson,0.0,6
+The Mummy (1999 film),evelyn,1.0,3
+The Mummy (1999 film),jonathan,0.0,6
+Drive (2011 film),driver,0.0,8
+Drive (2011 film),bernie rose,1.0,8
+Drive (2011 film),irene,1.0,8
+Drive (2011 film),shannon,1.0,19
+Drive (2011 film),standard,0.0,8
+Babel (film),richard,0.0,8
+Babel (film),amelia,1.0,9
+Babel (film),anwar,0.0,8
+Babel (film),susan,1.0,8
+The Saint (film),templar,0.0,8
+The Saint (film),jillian,1.0,8
+Moon (film),sam 1,1.0,8
+Moon (film),sam 2,1.0,6
+Moon (film),gerty,1.0,3
+Moon (film),sam,0.0,25
+Drive Angry,milton,0.0,25
+Drive Angry,piper,0.0,25
+Drive Angry,accountant,1.0,25
+Bloodfist VII: Manhunt,jim,0.0,6
+Bloodfist VII: Manhunt,doyle,1.0,6
+Bloodfist VII: Manhunt,tubbs,1.0,6
+Bloodfist VII: Manhunt,stephanie,1.0,9
+The Invention of Lying,mark,0.0,6
+The Invention of Lying,jennifer,1.0,8
+Millers Crossing,finally,1.0,8
+Millers Crossing,absently,1.0,6
+Millers Crossing,uncomfortably,0.0,8
+Burning Annie,max,0.0,6
+Burning Annie,julie,1.0,6
+"Sex, Lies, and Videotape",ann,1.0,9
+"Sex, Lies, and Videotape",graham,0.0,3
+"Sex, Lies, and Videotape",cynthia,1.0,6
+"Sex, Lies, and Videotape",john,0.0,6
+The Kids Are All Right (film),jules,0.0,6
+The Kids Are All Right (film),paul,0.0,6
+The Kids Are All Right (film),nic,0.0,6
+The Kids Are All Right (film),joni,1.0,6
+The Kids Are All Right (film),laser,0.0,6
+Theres Something About Mary,ted,0.0,6
+Theres Something About Mary,mary,1.0,6
+Theres Something About Mary,healy,0.0,6
+Seven (film),somerset,0.0,25
+Seven (film),mills,0.0,8
+The Bachelor Party,charlie,1.0,8
+The Bachelor Party,eddie,1.0,8
+The Bachelor Party,arnold,0.0,9
+The Bachelor Party,kenneth,0.0,9
+The Bachelor Party,walter,0.0,9
+Hellraiser: Deader,amy,1.0,25
+Hellraiser: Deader,charles,1.0,25
+Do the Right Thing,mookie,1.0,23
+Do the Right Thing,sal,1.0,23
+Do the Right Thing,pino,1.0,23
+Do the Right Thing,jade,1.0,6
+Do the Right Thing,buggin' out,1.0,23
+Do the Right Thing,da mayor,0.0,9
+Gremlins,billy,0.0,25
+Freaked,rick,0.0,25
+Freaked,elijah,0.0,8
+Freaked,julie,1.0,6
+Five Easy Pieces,bobby,0.0,8
+Five Easy Pieces,tita,1.0,8
+Dog Day Afternoon,sonny,0.0,6
+Bad Boys (1995 film),burnett,1.0,6
+Bad Boys (1995 film),lowrey,0.0,6
+Bad Boys (1995 film),julie,1.0,6
+The Doors (film),jim,0.0,6
+Boiler Room (film),seth,0.0,6
+Burlesque (2010 American film),ali,0.0,8
+Burlesque (2010 American film),jack,0.0,8
+Burlesque (2010 American film),tess,1.0,5
+G.I. Joe: The Rise of Cobra,duke,1.0,10
+G.I. Joe: The Rise of Cobra,ripcord,0.0,10
+G.I. Joe: The Rise of Cobra,scarlett,1.0,10
+G.I. Joe: The Rise of Cobra,mccullen,0.0,10
+G.I. Joe: The Rise of Cobra,ana,1.0,10
+G.I. Joe: The Rise of Cobra,breaker,1.0,10
+G.I. Joe: The Rise of Cobra,hawk,0.0,10
+Hellboy II: The Golden Army,hellboy,1.0,25
+Hellboy II: The Golden Army,abe,0.0,25
+Hellboy II: The Golden Army,johann,0.0,25
+Hellboy II: The Golden Army,liz,1.0,25
+Hellboy II: The Golden Army,manning,0.0,10
+A Nightmare on Elm Street 4: The Dream Master,alice,1.0,25
+A Nightmare on Elm Street 4: The Dream Master,kristen,1.0,25
+A Nightmare on Elm Street 4: The Dream Master,rick,0.0,25
+A Nightmare on Elm Street 4: The Dream Master,dan,0.0,25
+Cool Hand Luke,dragline,1.0,2
+Cool Hand Luke,luke,0.0,2
+Cool Hand Luke,koko,0.0,2
+Cool Hand Luke,society red,0.0,17
+Leviathan (1989 film),beck,0.0,10
+Leviathan (1989 film),jones,0.0,25
+Leviathan (1989 film),willie,0.0,10
+Leviathan (1989 film),doc,0.0,8
+Leviathan (1989 film),dejesus,1.0,8
+Leviathan (1989 film),cobb,0.0,6
+Apt Pupil (film),todd,0.0,8
+Apt Pupil (film),dussander,0.0,8
+Pet Sematary (film),louis,1.0,9
+Pet Sematary (film),jud,0.0,9
+Pet Sematary (film),rachel,1.0,9
+Pet Sematary (film),ellie,1.0,9
+Last Chance Harvey,harvey,0.0,8
+Last Chance Harvey,kate,1.0,8
+XXX (film),xander,0.0,6
+The Power of One (film),pk,0.0,3
+Troops (film),owen,0.0,25
+Silverado (film),paden,0.0,9
+Silverado (film),emmett,0.0,9
+Silverado (film),sheriff cobb,0.0,6
+Silverado (film),mal,0.0,9
+Silverado (film),jake,0.0,6
+The Swimmer (1968 film),ned,0.0,9
+Perfect Creature,lilly,1.0,25
+Perfect Creature,jones,0.0,8
+Perfect Creature,edgar,0.0,25
+The Producers (1968 film),bialystock,0.0,9
+The Producers (1968 film),bloom,1.0,6
+The Producers (1968 film),liebkind,1.0,24
+Napoleon Dynamite,napoleon,1.0,6
+Napoleon Dynamite,kip,0.0,6
+Napoleon Dynamite,rico,1.0,6
+Hard to Kill,storm,0.0,6
+Hard to Kill,andy,1.0,6
+Bad Santa,willie,0.0,23
+Bad Santa,marcus,0.0,23
+Bad Santa,kid,0.0,8
+Panic Room,meg,1.0,25
+Panic Room,burnham,0.0,25
+Panic Room,sarah,1.0,25
+Panic Room,raoul,0.0,25
+Panic Room,junior,1.0,25
+Heavy Metal (film),pilot,0.0,6
+Heavy Metal (film),dan,0.0,6
+Heavy Metal (film),den,0.0,22
+Heavy Metal (film),harry,0.0,6
+Heavy Metal (film),zeke,0.0,6
+Heavy Metal (film),ard,1.0,22
+Heavy Metal (film),queen,1.0,22
+Heavy Metal (film),edsel,0.0,6
+Heavy Metal (film),bombardier,0.0,6
+Heavy Metal (film),navigator,0.0,6
+Heavy Metal (film),austin,1.0,9
+Heavy Metal (film),gloria,1.0,9
+Sleepless in Seattle,sam,0.0,6
+Sleepless in Seattle,annie,1.0,8
+Sleepless in Seattle,jonah,0.0,6
+The Wizard of Oz (1939 film),dorothy,1.0,9
+The Wizard of Oz (1939 film),scarecrow,1.0,9
+The Wizard of Oz (1939 film),lion,0.0,9
+The Wizard of Oz (1939 film),tin man,0.0,9
+Zerophilia,luke,0.0,6
+Zerophilia,keenan,1.0,6
+Zerophilia,sydney,0.0,6
+Zerophilia,janine,1.0,6
+Zerophilia,luca,1.0,6
+Zerophilia,michelle,1.0,6
+Defiance (2008 film),tuvia,0.0,20
+Defiance (2008 film),zus,0.0,8
+Pirates of the Caribbean: The Curse of the Black Pearl,jack,0.0,9
+Pirates of the Caribbean: The Curse of the Black Pearl,elizabeth,1.0,9
+Pirates of the Caribbean: The Curse of the Black Pearl,barbossa,0.0,9
+Pirates of the Caribbean: The Curse of the Black Pearl,will,0.0,9
+Pirates of the Caribbean: The Curse of the Black Pearl,norrington,0.0,12
+Priest (2011 film),priest,0.0,25
+Priest (2011 film),hicks,0.0,25
+Priest (2011 film),priestess,1.0,25
+Misery (film),annie,1.0,9
+Misery (film),paul,0.0,25
+Slither (2006 film),bill,0.0,25
+Slither (2006 film),starla,1.0,25
+Slither (2006 film),grant,0.0,25
+A Few Good Men,kaffee,1.0,11
+A Few Good Men,jo,1.0,11
+Black Rain (1989 American film),nick,0.0,8
+Black Rain (1989 American film),ich,1.0,8
+The Game (1997 film),schuyler,0.0,6
+The Game (1997 film),christine,1.0,25
+Colombiana,cat,1.0,8
+Colombiana,marco,1.0,25
+Colombiana,danny,1.0,6
+Colombiana,ross,0.0,11
+Colombiana,emilio,1.0,25
+Indiana Jones and the Kingdom of the Crystal Skull,indiana,0.0,13
+Indiana Jones and the Kingdom of the Crystal Skull,betsy,1.0,13
+Indiana Jones and the Kingdom of the Crystal Skull,clare,0.0,13
+The Evil Dead,ashly,1.0,25
+The Evil Dead,scott,0.0,25
+The Evil Dead,linda,1.0,25
+The Evil Dead,cheryl,1.0,25
+The Evil Dead,shelly,1.0,25
+Star Trek Generations,picard,0.0,3
+Star Trek Generations,kirk,0.0,8
+Star Trek Generations,data,0.0,12
+Star Trek Generations,riker,0.0,12
+Star Trek Generations,soran,0.0,3
+The Hebrew Hammer,hammer,1.0,8
+The Hebrew Hammer,santa,1.0,8
+Music of the Heart,roberta,1.0,8
+Marley & Me (film),john,0.0,6
+Marley & Me (film),jenny,1.0,6
+Anastasia (1997 film),anya,1.0,9
+Anastasia (1997 film),dmitri,1.0,9
+Anastasia (1997 film),rasputin,0.0,9
+Anastasia (1997 film),tatiana,1.0,9
+Anastasia (1997 film),vladimir,0.0,9
+Blue Velvet (film),jeffrey,0.0,9
+Blue Velvet (film),sandy,0.0,6
+Blue Velvet (film),dorothy,1.0,9
+Entrapment (film),mac,0.0,25
+Entrapment (film),gin,1.0,10
+The Italian Job (2003 film),charlie,1.0,19
+The Italian Job (2003 film),stella,1.0,19
+The Italian Job (2003 film),lyle,0.0,19
+The Italian Job (2003 film),handsome rob,0.0,19
+The Italian Job (2003 film),steve,0.0,6
+Rushmore (film),max,0.0,8
+Rushmore (film),miss cross,1.0,8
+The Public Eye (film),kay,1.0,8
+Charlies Angels (film),dylan,0.0,6
+Charlies Angels (film),natalie,1.0,6
+Charlies Angels (film),alex,1.0,6
+Charlies Angels (film),knox,0.0,3
+Wild Wild West,west,0.0,21
+Wild Wild West,gordon,0.0,25
+Wild Wild West,loveless,0.0,25
+Swordfish (film),gabriel,0.0,19
+Swordfish (film),stanley,1.0,25
+Swordfish (film),ginger,1.0,8
+The Men Who Stare at Goats (film),bob,0.0,20
+The Men Who Stare at Goats (film),lyn cassady,1.0,20
+Mobsters,luciano,0.0,6
+The American President,shepherd,0.0,17
+The American President,sydney,0.0,17
+Logans Run (film),logan,0.0,9
+Logans Run (film),jessica,1.0,9
+Cradle 2 the Grave,fait,1.0,6
+Cradle 2 the Grave,su,0.0,9
+Cradle 2 the Grave,archie,1.0,6
+Cradle 2 the Grave,tommy,0.0,6
+Tamara Drewe (film),nicholas,0.0,9
+Tamara Drewe (film),tamara,1.0,8
+Tamara Drewe (film),beth,1.0,9
+Tamara Drewe (film),glen,0.0,9
+Tamara Drewe (film),jody,1.0,5
+Tamara Drewe (film),andy,1.0,8
+Tamara Drewe (film),ben,0.0,5
+Tamara Drewe (film),casey,0.0,6
+A Night at the Roxbury,doug,0.0,6
+A Night at the Roxbury,steve,0.0,6
+Boy Who Never Slept,daniel,0.0,5
+Boy Who Never Slept,melissa,1.0,6
+Halloween H20: 20 Years Later,keri,1.0,8
+Halloween H20: 20 Years Later,john,0.0,1
+Halloween H20: 20 Years Later,molly,1.0,8
+Halloween H20: 20 Years Later,carter,0.0,8
+Halloween H20: 20 Years Later,linda,1.0,8
+This Is 40,debbie,1.0,6
+This Is 40,pete,0.0,6
+Airplane II: The Sequel,ted,0.0,8
+Airplane II: The Sequel,elaine,1.0,8
+Airplane II: The Sequel,simon,0.0,10
+Hellraiser: Hellseeker,trevor,0.0,6
+The Devil and Daniel Webster (film),jabez,0.0,9
+The Devil and Daniel Webster (film),mary,1.0,9
+The Devil and Daniel Webster (film),webster,0.0,9
+Escape from L.A.,plissken,0.0,25
+Escape from L.A.,map to the stars eddie,1.0,10
+Escape from L.A.,malloy,0.0,10
+Escape from L.A.,cuervo jones,0.0,10
+Murderland,bruce,0.0,6
+Murderland,saundra,1.0,6
+Murderland,matthew,0.0,8
+Murderland,johnny,0.0,8
+Murderland,zach,0.0,17
+Dune (film),paul,0.0,25
+Dune (film),jessica,1.0,25
+Dead Poets Society,neil,0.0,6
+Dead Poets Society,keating,0.0,3
+Dead Poets Society,charlie,1.0,6
+Dead Poets Society,knox,0.0,9
+Dead Poets Society,todd,0.0,6
+Dead Poets Society,nolan,1.0,3
+Dead Poets Society,chris,0.0,6
+Rise of the Planet of the Apes,will,0.0,8
+Three Kings (1999 film),archie gates,0.0,20
+Three Kings (1999 film),troy,0.0,20
+Three Kings (1999 film),doc,0.0,20
+Three Kings (1999 film),vig,0.0,20
+Dr. Strangelove,major kong,1.0,10
+Dr. Strangelove,major mandrake,0.0,20
+Dr. Strangelove,lt. zogg,1.0,10
+Dr. Strangelove,general ripper,0.0,9
+Dr. Strangelove,general schmuck,0.0,24
+Dr. Strangelove,ambassador de sade,0.0,3
+Wag the Dog,brean,0.0,6
+Wag the Dog,moss,0.0,6
+Wag the Dog,ames,0.0,17
+True Grit (2010 film),mattie,0.0,21
+True Grit (2010 film),rooster,0.0,21
+True Grit (2010 film),leboeuf,1.0,21
+Beasts of the Southern Wild,wink,1.0,25
+Halloween: Resurrection,sara,1.0,25
+Halloween: Resurrection,myles,0.0,25
+Halloween: Resurrection,jim,0.0,25
+Halloween: Resurrection,rudy,1.0,8
+Halloween: Resurrection,scott,0.0,6
+Halloween: Resurrection,bill,0.0,18
+Traffic (2000 film),robert,0.0,8
+Traffic (2000 film),helena,1.0,8
+Traffic (2000 film),javier,1.0,8
+Traffic (2000 film),caroline,1.0,6
+Traffic (2000 film),omitted,1.0,8
+Traffic (2000 film),gordon,0.0,11
+Traffic (2000 film),seth,0.0,8
+Traffic (2000 film),barbara,1.0,8
+Jason X,rowan,0.0,6
+Jason X,lowe,1.0,10
+Jason X,brodski,1.0,10
+Jason X,janessa,1.0,10
+Alone in the Dark (2005 film),aline,1.0,25
+Alone in the Dark (2005 film),burke,0.0,10
+Alone in the Dark (2005 film),hudgens,1.0,3
+Alone in the Dark (2005 film),agent miles,0.0,10
+The Lost Weekend (film),don,0.0,9
+The Lost Weekend (film),helen,1.0,9
+Legally Blonde,elle,1.0,8
+"O Brother, Where Art Thou?",everett,0.0,2
+"O Brother, Where Art Thou?",delmar,1.0,2
+"O Brother, Where Art Thou?",pete,0.0,25
+Somethings Gotta Give (film),harry,0.0,6
+Somethings Gotta Give (film),erica,1.0,6
+Somethings Gotta Give (film),marin,1.0,9
+What Women Want,nick,0.0,6
+What Women Want,darcy,1.0,6
+The Last Flight (1931 film),cary,1.0,8
+The Last Flight (1931 film),nikki,1.0,8
+The Last Flight (1931 film),shep,1.0,8
+The Last Flight (1931 film),bill,0.0,8
+The Naked City,mulvey,0.0,8
+The Naked City,halloran,0.0,8
+The Naked City,narrator,0.0,8
+The Naked City,niles,0.0,9
+"South Park: Bigger, Longer & Uncut",kyle,0.0,23
+"South Park: Bigger, Longer & Uncut",cartman,0.0,23
+"South Park: Bigger, Longer & Uncut",stan,0.0,6
+"South Park: Bigger, Longer & Uncut",kyle's mother,1.0,3
+"South Park: Bigger, Longer & Uncut",satan,0.0,6
+"South Park: Bigger, Longer & Uncut",saddam hussein,0.0,23
+A Nightmare on Elm Street,nancy,1.0,25
+A Nightmare on Elm Street,marge,1.0,25
+A Nightmare on Elm Street,glen,0.0,25
+Freaks,hans,0.0,9
+Freaks,cleo,1.0,8
+Freaks,frieda,1.0,9
+Freaks,venus,1.0,6
+Freaks,hercules,0.0,8
+Freaks,scene,0.0,5
+Freaks,roscoe,1.0,4
+The Manchurian Candidate (2004 film),marco,1.0,6
+The Manchurian Candidate (2004 film),raymond,0.0,3
+The Manchurian Candidate (2004 film),ellie,1.0,3
+Invaders from Mars (1953 film),david,0.0,8
+Invaders from Mars (1953 film),fielding,0.0,10
+Invaders from Mars (1953 film),blake,0.0,8
+Invaders from Mars (1953 film),kelston,1.0,8
+The Time Machine (1960 film),time traveller,0.0,3
+The Time Machine (1960 film),time traveller's voice,1.0,3
+The Lord of the Rings: The Fellowship of the Ring,gandalf,0.0,22
+The Lord of the Rings: The Fellowship of the Ring,frodo,0.0,6
+The Lord of the Rings: The Fellowship of the Ring,sam,0.0,9
+The Lord of the Rings: The Fellowship of the Ring,bilbo,0.0,9
+The Lord of the Rings: The Fellowship of the Ring,galadriel,1.0,22
+The Lord of the Rings: The Fellowship of the Ring,boromir,0.0,22
+American Graffiti,curt,0.0,6
+American Graffiti,terry,0.0,19
+American Graffiti,john,0.0,19
+American Graffiti,steve,0.0,6
+American Graffiti,debbie,1.0,6
+American Graffiti,carol,1.0,19
+American Graffiti,laurie,0.0,9
+American Graffiti,joe,0.0,6
+Cecil B. Demented,cecil,0.0,7
+Cecil B. Demented,honey,1.0,7
+The Queen (film),elizabeth,1.0,22
+The Queen (film),tony,0.0,22
+The Rock (film),goodspeed,1.0,6
+The Rock (film),mason,1.0,6
+The Rock (film),hummel,1.0,3
+The Rock (film),f.b.i. director womack,0.0,11
+Blow (film),george,0.0,6
+Mrs. Brown,brown,0.0,8
+Mrs. Brown,victoria,1.0,8
+Mrs. Brown,disraeli,0.0,22
+Mrs. Brown,ponsonby,0.0,22
+The Hospital,bock,0.0,3
+The Hospital,barbara,1.0,3
+An American Werewolf in London,david,0.0,25
+An American Werewolf in London,alex,1.0,8
+An American Werewolf in London,jack,0.0,25
+An American Werewolf in London,dr. hirsch,0.0,9
+Harvey (film),elwood,0.0,9
+Harvey (film),veta,1.0,9
+Harvey (film),sanderson,0.0,7
+Harvey (film),wilson,0.0,7
+Harvey (film),chumley,0.0,7
+Jane Eyre (2011 film),jane,1.0,25
+Jane Eyre (2011 film),rochester,0.0,25
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",peter,0.0,9
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",lucy,1.0,9
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",edmund,0.0,6
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",susan,1.0,9
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",white witch,1.0,22
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",mr. beaver,0.0,9
+The Good Girl,justine,1.0,6
+The Good Girl,holden,0.0,6
+The Good Girl,phil,0.0,6
+"Bodies, Rest & Motion",nick,0.0,9
+"Bodies, Rest & Motion",beth,1.0,9
+"Bodies, Rest & Motion",sid,0.0,9
+"Bodies, Rest & Motion",carol,1.0,6
+Friday the 13th Part III,shelly,1.0,25
+Friday the 13th Part III,chris,0.0,25
+Friday the 13th Part III,vera,1.0,25
+Friday the 13th Part III,andy,1.0,8
+Friday the 13th Part III,debbie,1.0,8
+Friday the 13th Part III,derek,0.0,8
+Friday the 13th Part III,chili,1.0,25
+Friday the 13th Part III,chuck,0.0,25
+Friday the 13th Part III,edna,1.0,25
+Land of the Dead,riley,1.0,25
+Land of the Dead,cholo,1.0,25
+Land of the Dead,slack,0.0,6
+Land of the Dead,kaufman,0.0,9
+Land of the Dead,charlie,1.0,25
+The Corruptor,chen,1.0,6
+The Corruptor,wallace,0.0,6
+The Corruptor,lee,0.0,11
+The Boondock Saints II: All Saints Day,eunice,1.0,8
+The Boondock Saints II: All Saints Day,connor,0.0,25
+The Boondock Saints II: All Saints Day,murphy,1.0,23
+The Boondock Saints II: All Saints Day,romeo,0.0,23
+The Boondock Saints II: All Saints Day,greenly,1.0,23
+Anonymous (film),oxford,0.0,22
+Anonymous (film),jonson,0.0,22
+Anonymous (film),william cecil,0.0,22
+Anonymous (film),shakespeare,0.0,22
+Anonymous (film),elizabeth,1.0,22
+Anonymous (film),young oxford,0.0,22
+Anonymous (film),robert cecil,0.0,22
+Anonymous (film),southampton,1.0,22
+Anonymous (film),young elizabeth,1.0,22
+Anonymous (film),essex,0.0,22
+Moonrise Kingdom,sam,0.0,25
+Moonrise Kingdom,suzy,1.0,25
+Moonrise Kingdom,captain sharp,0.0,24
+Moonrise Kingdom,scout master ward,0.0,24
+Moonrise Kingdom,mrs. bishop,1.0,24
+Moonrise Kingdom,mr. bishop,0.0,24
+Star Trek: First Contact,picard,0.0,12
+Star Trek: First Contact,data,0.0,12
+Star Trek: First Contact,worf,0.0,10
+Broken Embraces,harry,0.0,8
+Broken Embraces,judit,1.0,3
+Broken Embraces,lena,1.0,3
+Broken Embraces,diego,1.0,3
+Broken Embraces,mateo,0.0,8
+Twin Peaks: Fire Walk with Me,laura,1.0,8
+Twin Peaks: Fire Walk with Me,desmond,0.0,11
+Twin Peaks: Fire Walk with Me,stanley,1.0,8
+Dragonslayer,galen,0.0,25
+Dragonslayer,valerian,0.0,25
+Dragonslayer,ulrich,0.0,25
+Final Destination 2,kimberly,1.0,6
+Final Destination 2,thomas,0.0,6
+Final Destination 2,clear,1.0,3
+Labyrinth (film),another angle,0.0,16
+Invictus (film),mandela,1.0,8
+Invictus (film),pienaar,1.0,8
+Invictus (film),jason,0.0,17
+Field of Dreams,ray,0.0,6
+Field of Dreams,annie,1.0,6
+Field of Dreams,mann,0.0,6
+Antitrust (film),milo,0.0,6
+Antitrust (film),gary,0.0,8
+Antitrust (film),alice,1.0,8
+Antitrust (film),lisa,1.0,8
+Duck Soup (1933 film),groucho,0.0,8
+Duck Soup (1933 film),chico,0.0,8
+Highlander: Endgame,duncan,0.0,25
+Highlander: Endgame,connor,0.0,25
+Highlander: Endgame,kase,0.0,25
+The Relic (film),pendergast,1.0,25
+The Relic (film),margo,0.0,25
+The Relic (film),frock,1.0,25
+Little Monsters,brian,0.0,6
+Little Monsters,maurice,1.0,6
+Little Monsters,eric,0.0,6
+Django Unchained,django,0.0,2
+Django Unchained,calvin candie,1.0,2
+Django Unchained,stephen,0.0,2
+The Battle of Shaker Heights,kelly,1.0,8
+The Battle of Shaker Heights,bart,0.0,8
+Ring (film),asakawa,0.0,8
+Ring (film),ryuji,1.0,25
+Red Riding Hood (2011 film),isabelle,1.0,25
+Red Riding Hood (2011 film),solomon,0.0,25
+Red Riding Hood (2011 film),grandmother,1.0,8
+Red Riding Hood (2011 film),cesaire,0.0,25
+Evil Dead II,ash,0.0,25
+Evil Dead II,annie,1.0,25
+Evil Dead II,jake,0.0,25
+Requiem for a Dream,harry,0.0,6
+Requiem for a Dream,sara,1.0,5
+Requiem for a Dream,marion,1.0,6
+Requiem for a Dream,tyrone,0.0,25
+Smokin Aces,messner,0.0,11
+Smokin Aces,israel,1.0,25
+Smokin Aces,sykes,0.0,25
+Smokin Aces,locke,0.0,11
+Smokin Aces,watters,1.0,25
+Smokin Aces,dupree,1.0,23
+Smokin Aces,carruthers,1.0,11
+Smokin Aces,elmore,0.0,25
+Smokin Aces,serna,1.0,2
+Smokin Aces,sir ivy,0.0,3
+The Ninth Gate,corso,0.0,8
+30 Minutes or Less,will,0.0,6
+30 Minutes or Less,dwayne,0.0,6
+30 Minutes or Less,chet,1.0,6
+Water for Elephants (film),jacob,0.0,21
+Water for Elephants (film),august,1.0,21
+Water for Elephants (film),marlena,1.0,8
+Very Bad Things,fisher,1.0,6
+Very Bad Things,boyd,0.0,6
+Very Bad Things,liz,1.0,5
+Very Bad Things,adam,0.0,6
+Very Bad Things,michael,0.0,6
+Psycho (1960 film),sam,0.0,8
+Psycho (1960 film),norman,0.0,8
+Psycho (1960 film),lila,1.0,9
+Psycho (1960 film),mary,1.0,8
+Psycho (1960 film),arbogast,0.0,9
+You Can Count on Me,sammy,0.0,6
+You Can Count on Me,terry,0.0,6
+You Can Count on Me,rudy,1.0,8
+Donnie Brasco (film),donnie,0.0,6
+Donnie Brasco (film),lefty,0.0,23
+Donnie Brasco (film),maggie,1.0,6
+The Incredibles,bob,0.0,6
+The Incredibles,helen,1.0,6
+The Parent Trap (1998 film),elizabeth,1.0,8
+The Parent Trap (1998 film),nick,0.0,8
+The Parent Trap (1998 film),meredith,0.0,6
+The Parent Trap (1998 film),chessy,1.0,9
+Friday the 13th: The Final Chapter,tricia,1.0,25
+Friday the 13th: The Final Chapter,jimmie,0.0,6
+Friday the 13th: The Final Chapter,tommy,0.0,25
+Friday the 13th: The Final Chapter,ted,0.0,18
+Friday the 13th: The Final Chapter,rob,0.0,18
+Friday the 13th: The Final Chapter,tina,1.0,8
+Glengarry Glen Ross (film),roma,1.0,6
+Glengarry Glen Ross (film),levene,0.0,6
+Glengarry Glen Ross (film),moss,0.0,6
+Glengarry Glen Ross (film),williamson,0.0,6
+Flash Gordon (film),flash,1.0,25
+Flash Gordon (film),dale,0.0,25
+Flash Gordon (film),zarkov,0.0,25
+Flash Gordon (film),aura,1.0,25
+Flash Gordon (film),ming,1.0,25
+Flash Gordon (film),barin,1.0,25
+American History X,derek,0.0,6
+American History X,danny,1.0,6
+American History X,seth,0.0,23
+The Princess Bride (film),inigo,1.0,22
+The Princess Bride (film),westley,0.0,3
+The Princess Bride (film),buttercup,1.0,9
+The Princess Bride (film),fezzik,0.0,9
+The Princess Bride (film),man in black,0.0,9
+The Princess Bride (film),vizzini,1.0,22
+The Princess Bride (film),humperdinck,1.0,22
+The Princess Bride (film),grandfather,0.0,22
+The Last of the Mohicans (1992 film),hawkeye,0.0,25
+The Last of the Mohicans (1992 film),heyward,0.0,20
+The Last of the Mohicans (1992 film),cora,1.0,8
+The Last of the Mohicans (1992 film),munro,0.0,20
+The Last of the Mohicans (1992 film),magua,1.0,25
+What About Bob,bob,0.0,8
+What About Bob,marvin,1.0,8
+The Perks of Being a Wallflower (film),charlie,1.0,5
+The Perks of Being a Wallflower (film),patrick,0.0,5
+The Perks of Being a Wallflower (film),sam,0.0,5
+Stolen Summer,pete,0.0,1
+Stolen Summer,joe,0.0,1
+Stolen Summer,rabbi,0.0,8
+Stolen Summer,danny,1.0,1
+The Grifters (film),roy,1.0,8
+The Grifters (film),lilly,1.0,8
+The Grifters (film),myra,1.0,8
+Hanna (film),hanna,0.0,8
+Hanna (film),marissa,1.0,25
+Hanna (film),erik,0.0,25
+Hanna (film),sophie,1.0,8
+Kate & Leopold,kate,1.0,8
+Kate & Leopold,leopold,1.0,8
+Kate & Leopold,charlie,1.0,8
+Inventing the Abbotts,doug,0.0,8
+Inventing the Abbotts,jacey,0.0,8
+Inventing the Abbotts,pamela,1.0,8
+Inventing the Abbotts,helen,1.0,9
+2001: A Space Odyssey (film),bowman,0.0,6
+2001: A Space Odyssey (film),floyd,0.0,3
+2001: A Space Odyssey (film),poole,0.0,3
+2001: A Space Odyssey (film),hal,0.0,3
+Tombstone (film),wyatt,0.0,6
+Tombstone (film),doc,0.0,9
+Law Abiding Citizen,nick,0.0,6
+Law Abiding Citizen,clyde,1.0,11
+All About Eve,margo,0.0,9
+All About Eve,eve,1.0,9
+All About Eve,karen,1.0,9
+All About Eve,bill,0.0,9
+All About Eve,addison,0.0,3
+All About Eve,lloyd,1.0,9
+12 (2003 film),allen,0.0,6
+12 (2003 film),tony,0.0,6
+The Big White,paul,0.0,8
+The Big White,ted,0.0,6
+The Big White,gary,0.0,6
+The Big White,tiffany,1.0,6
+The Big White,margaret,1.0,8
+The Big White,jimbo,1.0,6
+The Big White,raymond,0.0,8
+How to Lose Friends & Alienate People (film),sidney,1.0,8
+How to Lose Friends & Alienate People (film),alison,1.0,8
+The Thing from Another World,henry,0.0,10
+The Thing from Another World,carrington,0.0,3
+The Thing from Another World,nikki,1.0,9
+On the Waterfront,terry,0.0,9
+On the Waterfront,edie,1.0,9
+Antz,z,0.0,25
+Antz,bala,0.0,25
+Antz,formica,0.0,3
+Last Tango in Paris,jeanne,1.0,8
+Last Tango in Paris,paul,0.0,9
+Last Tango in Paris,tom,0.0,8
+Crime Spree,sami,0.0,8
+Crime Spree,daniel,0.0,19
+Crime Spree,marcel,1.0,8
+Crime Spree,raymond,0.0,8
+Crime Spree,julien,1.0,19
+Crime Spree,agent hadley,1.0,11
+Crime Spree,sophie,1.0,8
+Cliffhanger (film),gabe,0.0,25
+Cliffhanger (film),travers,1.0,10
+Cliffhanger (film),hal,0.0,25
+Cliffhanger (film),maggie,1.0,6
+Scream 3,gale,0.0,6
+Scream 3,sidney,1.0,6
+Scream 3,dewey,0.0,6
+Scream 3,detective kincaid,0.0,6
+Scream 3,voice,1.0,6
+Scream 3,jennifer,1.0,6
+Vertigo (film),scottie,1.0,9
+I Still Know What You Did Last Summer,julie,1.0,6
+I Still Know What You Did Last Summer,karla,1.0,6
+I Still Know What You Did Last Summer,tyrell,1.0,6
+I Still Know What You Did Last Summer,will,0.0,6
+Platinum Blonde (film),stew,1.0,9
+Platinum Blonde (film),anne,1.0,9
+Cellular (film),ryan,0.0,19
+Cellular (film),jessica,1.0,25
+Basic Instinct,nick,0.0,8
+Basic Instinct,catherine,1.0,8
+The Fighter,micky,1.0,2
+The Fighter,dicky,1.0,2
+The Fighter,alice,1.0,2
+The Fighter,charlene,1.0,2
+Hellraiser,larry,0.0,6
+Hellraiser,julia,1.0,9
+Hellraiser,kirsty,1.0,6
+Hellraiser,frank,0.0,9
+Hellraiser,kristy,1.0,6
+Planet of the Apes (2001 film),leo,0.0,25
+Planet of the Apes (2001 film),ari,0.0,25
+The Getaway (1972 film),doc,0.0,6
+The Getaway (1972 film),carol,1.0,9
+Metro (1997 film),roper,0.0,6
+Metro (1997 film),mccall,0.0,6
+Rebel Without a Cause,jim,0.0,9
+Rebel Without a Cause,judy,1.0,9
+Rebel Without a Cause,plato,0.0,9
+Blue Valentine (film),dean,0.0,8
+Blue Valentine (film),cindy,1.0,8
+Ghost (1990 film),sam,0.0,8
+Ghost (1990 film),oda mae,1.0,8
+Ghost (1990 film),molly,1.0,25
+Ghost (1990 film),carl,0.0,25
+Tron,flynn,0.0,6
+Tron,tron,0.0,8
+Tron,mcp,1.0,6
+Tron,sark,1.0,10
+Tron,alan,0.0,10
+Pandorum,bower,0.0,25
+Pandorum,payton,1.0,25
+Suspect Zero,fran,1.0,6
+Suspect Zero,charlton,0.0,8
+The Island (2005 film),lincoln,0.0,25
+The Island (2005 film),merrick,0.0,3
+Grand Hotel (film),baron,0.0,9
+Grand Hotel (film),preysing,1.0,9
+Star Trek VI: The Undiscovered Country,kirk,0.0,12
+Star Trek VI: The Undiscovered Country,spock,0.0,12
+Star Trek VI: The Undiscovered Country,mccoy,1.0,12
+Heathers,veronica,1.0,6
+Heathers,j.d.,0.0,6
+One Good Turn (1931 film),ruth,1.0,9
+One Good Turn (1931 film),eddie,1.0,9
+One Good Turn (1931 film),saul,0.0,9
+One Good Turn (1931 film),marge,1.0,9
+Three Men and a Baby,peter,0.0,6
+Three Men and a Baby,michael,0.0,6
+Three Men and a Baby,jack,0.0,6
+Working Girl,tess,1.0,6
+Working Girl,jack,0.0,6
+Working Girl,katherine,1.0,6
+The Day the Clown Cried,helmut,1.0,8
+The Day the Clown Cried,keltner,0.0,8
+Goodfellas,henry,0.0,9
+Goodfellas,karen,1.0,9
+Hollow Man,linda,1.0,25
+Hollow Man,matt,0.0,25
+Hollow Man,sebastian,0.0,25
+Breakdown (film),jeff,0.0,6
+Breakdown (film),red,1.0,6
+Breakdown (film),amy,1.0,6
+Ted (film),john,0.0,6
+Ted (film),ted,0.0,6
+Ted (film),lori,1.0,6
+Juno (film),juno,1.0,5
+Juno (film),mark,0.0,6
+Assassins (film),rath,1.0,6
+Assassins (film),electra,1.0,6
+Assassins (film),bain,0.0,6
+Devil in a Blue Dress (film),easy,1.0,8
+White Christmas (film),bob,0.0,9
+White Christmas (film),phil,0.0,8
+White Christmas (film),betty,1.0,8
+White Christmas (film),waverly,1.0,9
+White Christmas (film),judy,1.0,9
+Cruel Intentions,sebastian,0.0,8
+Cruel Intentions,kathryn,1.0,9
+Cruel Intentions,annette,0.0,8
+Fright Night (2011 film),charlie,1.0,6
+Fright Night (2011 film),amy,1.0,6
+Fright Night (2011 film),peter,0.0,25
+Constantine (film),john,0.0,6
+Constantine (film),angela,1.0,6
+The Ladykillers (2004 film),dorr,0.0,3
+The Ladykillers (2004 film),mrs. munson,1.0,8
+The Ladykillers (2004 film),pancake,1.0,8
+The Ladykillers (2004 film),gawain,0.0,23
+The Mechanic (2011 film),bishop,0.0,25
+The Mechanic (2011 film),steve,0.0,8
+My Week with Marilyn,colin,0.0,8
+My Week with Marilyn,marilyn,1.0,9
+My Week with Marilyn,olivier,0.0,8
+Dracula (1931 film),helsing,0.0,22
+Dracula (1931 film),renfield,0.0,9
+Dracula (1931 film),harker,0.0,9
+Dracula (1931 film),mina,1.0,9
+Dracula (1931 film),dracula,0.0,22
+Dracula (1931 film),seward,0.0,22
+Fast Times at Ridgemont High,stacy,0.0,6
+Fast Times at Ridgemont High,damone,1.0,6
+Fast Times at Ridgemont High,brad,0.0,6
+Fast Times at Ridgemont High,spicoli,0.0,6
+Fast Times at Ridgemont High,linda,1.0,6
+Fast Times at Ridgemont High,the rat,0.0,6
+From Russia with Love (film),bond,0.0,25
+From Russia with Love (film),blofeld,0.0,25
+Shock Treatment,janet,1.0,9
+Shock Treatment,bert,0.0,3
+Shock Treatment,mac,0.0,9
+Shock Treatment,nation,0.0,9
+Shock Treatment,betty,1.0,9
+Shock Treatment,oliver,0.0,3
+Shock Treatment,mom,1.0,9
+Shock Treatment,farley,0.0,3
+Superman III,gus,0.0,2
+Superman III,ross,0.0,9
+Superman III,clark,0.0,9
+Superman III,lana,1.0,9
+Superman III,vera,1.0,9
+Superman III,superman,0.0,6
+Collateral (film),max,0.0,6
+Collateral (film),vincent,0.0,19
+Hope and Glory (film),grace,1.0,25
+Hope and Glory (film),bill,0.0,25
+Hope and Glory (film),dawn,1.0,25
+Hope and Glory (film),clive,0.0,8
+Hope and Glory (film),grandfather george,0.0,25
+Hope and Glory (film),mac,0.0,9
+"Synecdoche, New York",caden,0.0,6
+"Synecdoche, New York",hazel,1.0,6
+Event Horizon (film),miller,0.0,25
+Event Horizon (film),weir,0.0,12
+Event Horizon (film),starck,1.0,10
+Event Horizon (film),peters,0.0,25
+Grand Theft Parsons,phil,0.0,8
+Grand Theft Parsons,larry,0.0,19
+Witness (1985 film),book,0.0,8
+Witness (1985 film),rachel,1.0,8
+Witness (1985 film),schaeffer,0.0,8
+Thelma & Louise,thelma,1.0,6
+Thelma & Louise,louise,1.0,6
+Beavis and Butt-head Do America,butt-head,0.0,23
+Beavis and Butt-head Do America,beavis,0.0,23
+Beavis and Butt-head Do America,flemming,0.0,6
+Minis First Time,mini,1.0,8
+Minis First Time,martin,0.0,6
+The Damned United,clough,0.0,17
+The Bounty Hunter (2010 film),milo,0.0,6
+The Bounty Hunter (2010 film),cass,0.0,6
+Beloved (film),sethe,1.0,9
+Beloved (film),paul,0.0,9
+Beloved (film),denver,0.0,9
+Into the Wild (film),chris,0.0,21
+Sex and the City (film),carrie,1.0,5
+Sex and the City (film),miranda,1.0,6
+Sex and the City (film),samantha,1.0,5
+Magnolia (film),jimmy,0.0,6
+Magnolia (film),claudia,1.0,6
+Magnolia (film),frank,0.0,6
+Magnolia (film),phil,0.0,6
+Magnolia (film),stanley,1.0,6
+Magnolia (film),donnie,0.0,9
+Magnolia (film),linda,1.0,6
+Lost Highway (film),pete,0.0,6
+Lost Highway (film),fred,0.0,9
+Lost Highway (film),alice,1.0,6
+Lost Highway (film),renee,1.0,6
+Silver Linings Playbook,pat,1.0,6
+Silver Linings Playbook,tiffany,1.0,6
+Silver Linings Playbook,pat sr.,1.0,6
+The Man in the Iron Mask (1998 film),aramis,1.0,22
+The Man in the Iron Mask (1998 film),athos,0.0,22
+The Man in the Iron Mask (1998 film),louis,1.0,22
+The Man in the Iron Mask (1998 film),porthos,0.0,22
+Shame (2011 film),brandon,0.0,8
+Shame (2011 film),david,0.0,6
+Shame (2011 film),sissy,0.0,5
+Shame (2011 film),marianne,1.0,8
+12 Monkeys,cole,0.0,25
+12 Monkeys,jeffrey,0.0,3
+The Fugitive (1993 film),gerard,0.0,8
+The Fugitive (1993 film),kimble,1.0,8
+The Fugitive (1993 film),nichols,0.0,8
+Out of Sight,foley,0.0,6
+Out of Sight,karen,1.0,6
+Out of Sight,buddy,0.0,6
+Out of Sight,maurice,1.0,23
+Pulp Fiction,vincent,0.0,23
+Pulp Fiction,jules,0.0,23
+Pulp Fiction,butch,0.0,6
+Pulp Fiction,fabian,0.0,9
+The Third Man,martins,1.0,9
+The Third Man,calloway,0.0,9
+The Third Man,anna,1.0,9
+The Adventures of Ford Fairlane,ford,0.0,25
+Peeping Tom (film),mark,0.0,8
+Peeping Tom (film),helen,1.0,8
+The Thin Man (film),nick,0.0,8
+The Thin Man (film),nora,1.0,8
+The Thin Man (film),guild,0.0,8
+Unknown (2011 film),martin,0.0,8
+Unknown (2011 film),gina,1.0,25
+The House Next Door (film),terry,0.0,6
+The House Next Door (film),lucy,1.0,25
+The House Next Door (film),smiles,1.0,8
+The House Next Door (film),joe,0.0,19
+The House Next Door (film),thuy,1.0,8
+The House Next Door (film),patti,1.0,8
+The House Next Door (film),george,0.0,8
+I Walked with a Zombie,betsy,1.0,9
+I Walked with a Zombie,holland,1.0,9
+I Walked with a Zombie,rand,0.0,9
+The Dark Knight Rises,wayne,0.0,9
+The Dark Knight Rises,blake,0.0,10
+The Dark Knight Rises,bane,0.0,25
+The Dark Knight Rises,gordon,0.0,8
+The Dark Knight Rises,alfred,0.0,9
+The Dark Knight Rises,selina,1.0,6
+The Dark Knight Rises,fox,1.0,10
+Mulholland Drive (film),betty,1.0,9
+Mulholland Drive (film),adam,0.0,6
+Mulholland Drive (film),rita,0.0,9
+The Running Man (1987 film),ben,0.0,6
+The Running Man (1987 film),damon,0.0,6
+The Running Man (1987 film),amber,1.0,6
+The Running Man (1987 film),weiss,0.0,6
+The Next Three Days,john,0.0,8
+The Next Three Days,lara,1.0,8
+Stranglehold (1931 film),richter,1.0,6
+Stranglehold (1931 film),cooper,0.0,6
+Stranglehold (1931 film),filmore,1.0,6
+Margaret (2011 film),lisa,1.0,6
+Margaret (2011 film),joan,1.0,6
+The Last Station,valentin,1.0,8
+The Last Station,sofya,0.0,9
+The Last Station,tolstoy,0.0,8
+The Last Station,chertkov,0.0,3
+The Last Station,sasha,1.0,8
+The Last Station,masha,1.0,8
+Oceans Eleven,danny,1.0,8
+Oceans Eleven,rusty,0.0,8
+Oceans Eleven,benedict,0.0,11
+The Ghost and the Darkness,patterson,1.0,9
+The Ghost and the Darkness,redbeard,0.0,3
+The Ghost and the Darkness,samuel,0.0,9
+The Ghost and the Darkness,starling,0.0,3
+Chaos (2005 Capitol film),conners,1.0,11
+Chaos (2005 Capitol film),dekker,0.0,6
+Lone Star (1996 film),sam,0.0,6
+Lone Star (1996 film),pilar,1.0,6
+Lone Star (1996 film),del,1.0,6
+The Avengers (1998 film),emma,1.0,25
+The Avengers (1998 film),steed,0.0,25
+1492: Conquest of Paradise,columbus,1.0,25
+American Beauty (film),lester,0.0,6
+American Beauty (film),ricky,0.0,6
+American Beauty (film),jane,1.0,6
+American Beauty (film),carolyn,1.0,9
+American Beauty (film),angela,1.0,6
+Punch-Drunk Love,barry,1.0,6
+Punch-Drunk Love,lena,1.0,6
+The Cincinnati Kid,kid,0.0,8
+The Cincinnati Kid,lancey,1.0,17
+The Cincinnati Kid,shooter,0.0,17
+The Cincinnati Kid,christian,0.0,9
+The Cincinnati Kid,the kid,0.0,8
+Cast Away,chuck,0.0,6
+Lincoln (2012 film),lincoln,0.0,3
+Only God Forgives,julian,0.0,8
+Only God Forgives,jenna,0.0,8
+Only God Forgives,chang,0.0,8
+Deep Cover,hull,1.0,8
+Deep Cover,elias,0.0,8
+Deep Cover,carver,0.0,6
+Some Like It Hot,joe,0.0,9
+Some Like It Hot,jerry,0.0,9
+Some Like It Hot,sugar,1.0,9
+Halloween (1978 film),laurie,0.0,6
+Halloween (1978 film),annie,1.0,9
+Halloween (1978 film),loomis,0.0,9
+Halloween (1978 film),tommy,0.0,6
+Halloween (1978 film),lynda,1.0,6
+Little Athens,jessica,1.0,19
+Little Athens,jimmy,0.0,19
+Little Athens,heather,1.0,8
+Little Athens,corey,0.0,19
+Little Athens,pedro,1.0,19
+Little Athens,allison,0.0,6
+Little Athens,carlos,0.0,8
+Little Athens,aaron,0.0,23
+Midnight in Paris,gil,1.0,5
+Midnight in Paris,inez,1.0,5
+The Omega Man,neville,0.0,8
+The Omega Man,lisa,1.0,8
+The Omega Man,matthias,0.0,3
+Nosferatu,harker,0.0,22
+Nosferatu,nina,1.0,22
+Nosferatu,renfield,0.0,22
+Dances with Wolves,dunbar,0.0,21
+Dances with Wolves,dances with wolves,0.0,21
+Dances with Wolves,kicking bird,1.0,21
+Dances with Wolves,stands with a fist,1.0,21
+Dances with Wolves,wind in his hair,0.0,21
+Dances with Wolves,ten bears,0.0,21
+Mission: Impossible II,ethan,0.0,6
+Mission: Impossible II,nyah,1.0,6
+Mission: Impossible II,ambrose,0.0,17
+The Fifth Element,cornelius,0.0,8
+Thor (film),thor,0.0,25
+Thor (film),jane,1.0,25
+Thor (film),loki,0.0,22
+Thor (film),selvig,0.0,8
+Thor (film),volstagg,0.0,25
+Thor (film),odin,0.0,22
+Sling Blade,karl,0.0,2
+Sling Blade,frank,0.0,9
+Sling Blade,doyle,1.0,6
+Sling Blade,linda,1.0,9
+Flight (2012 film),whip,1.0,8
+Taxi Driver,travis,0.0,9
+Taxi Driver,betsy,1.0,17
+Disturbia (film),kale,1.0,25
+Disturbia (film),ashley,0.0,8
+Disturbia (film),ronnie,1.0,1
+The Replacements (film),shane,0.0,6
+The Replacements (film),annabelle,1.0,6
+True Lies,harry,0.0,10
+True Lies,helen,1.0,8
+True Lies,gib,0.0,25
+They (2002 film),julia,1.0,25
+They (2002 film),paul,0.0,6
+They (2002 film),terry,0.0,6
+Conspiracy Theory (film),liza,1.0,8
+Conspiracy Theory (film),jerry,0.0,25
+Scott Pilgrim vs. the World,scott,0.0,5
+Scott Pilgrim vs. the World,ramona,1.0,6
+The Losers (film),clay,1.0,10
+The Losers (film),jensen,0.0,10
+The Losers (film),roque,1.0,6
+The Losers (film),pooch,1.0,10
+The Losers (film),aisha,1.0,25
+The Losers (film),max,0.0,10
+Star Wars (film),luke,0.0,12
+Star Wars (film),han,0.0,12
+Star Wars (film),ben,0.0,12
+Hellbound: Hellraiser II,kirsty,1.0,6
+Hellbound: Hellraiser II,julia,1.0,9
+Hellbound: Hellraiser II,malahide,0.0,3
+Hellbound: Hellraiser II,kyle,0.0,6
+Ginger Snaps (film),brigitte,1.0,25
+Ginger Snaps (film),ginger,1.0,25
+Robin Hood: Prince of Thieves,robin,0.0,22
+Robin Hood: Prince of Thieves,aslan,1.0,22
+Bamboozled,delacroix,0.0,6
+Bamboozled,sloan,0.0,6
+Bamboozled,mantan,0.0,9
+Henrys Crime,henry,0.0,6
+Henrys Crime,max,0.0,6
+Henrys Crime,julie,1.0,8
+Planet of the Apes (1968 film),taylor,0.0,3
+Planet of the Apes (1968 film),zira,1.0,3
+Planet of the Apes (1968 film),zaius,0.0,3
+Planet of the Apes (1968 film),cornelius,0.0,3
+Rush Hour (1998 film),carson,0.0,6
+Rush Hour (1998 film),miranda,1.0,6
+Fair Game (2010 film),valerie,1.0,8
+Fair Game (2010 film),joe,0.0,17
+Timber Falls,mike,0.0,25
+Timber Falls,sheryl,0.0,25
+Timber Falls,ida,0.0,25
+Timber Falls,clyde,1.0,25
+Light Sleeper,ann,1.0,17
+Battle: Los Angeles,sgt. nantz,0.0,25
+Battle: Los Angeles,lt. martinez,1.0,25
+The Program,joe,0.0,6
+The Program,darnell,1.0,8
+The Program,camille,1.0,8
+The Program,autumn,1.0,6
+The Program,alvin,0.0,6
+Wild Hogs,doug,0.0,6
+Wild Hogs,woody,0.0,6
+Wild Hogs,dudley,0.0,8
+Wild Hogs,bob,0.0,6
+Sunset Boulevard (film),gillis,0.0,9
+Sunset Boulevard (film),norma,1.0,9
+Sunset Boulevard (film),betty,1.0,9
+Obsessed (2009 film),derek,0.0,6
+Obsessed (2009 film),lisa,1.0,6
+Obsessed (2009 film),beth,1.0,8
+The Little Mermaid (1989 film),ariel,0.0,9
+The Little Mermaid (1989 film),triton,1.0,3
+The Little Mermaid (1989 film),sebastian,0.0,9
+The Little Mermaid (1989 film),eric,0.0,9
+The Little Mermaid (1989 film),flounder,1.0,6
+The Little Mermaid (1989 film),scuttle,1.0,13
+The Little Mermaid (1989 film),ursula,1.0,9
+The Little Mermaid (1989 film),grimsby,0.0,9
+Shallow Grave,alex,1.0,8
+Shallow Grave,juliet,1.0,8
+Shallow Grave,david,0.0,8
+Living in Oblivion,nick,0.0,6
+Living in Oblivion,wanda,1.0,6
+Living in Oblivion,nicole,1.0,6
+Living in Oblivion,palomino,1.0,6
+Living in Oblivion,wolf,0.0,6
+Bram Stokers Dracula,mina,1.0,22
+Bram Stokers Dracula,helsing,0.0,22
+Bram Stokers Dracula,dracula,0.0,22
+Bram Stokers Dracula,seward,0.0,3
+Bram Stokers Dracula,harker,0.0,22
+Bram Stokers Dracula,lucy,1.0,9
+Meet John Doe,ann,1.0,8
+Meet John Doe,john,0.0,8
+Meet John Doe,connell,0.0,8
+Meet John Doe,d. b.,0.0,9
+The Limey,wilson,0.0,8
+The Limey,elaine,1.0,6
+The Limey,valentine,1.0,6
+The Limey,ed,0.0,6
+Legend (1985 film),jack,0.0,25
+Legend (1985 film),gump,0.0,25
+Legend (1985 film),lili,1.0,25
+Legend (1985 film),darkness,0.0,22
+Legend (1985 film),screwball,1.0,25
+Legend (1985 film),brown tom,0.0,13
+Ghostbusters II,venkman,0.0,6
+Ghostbusters II,dana,1.0,9
+Ghostbusters II,spengler,0.0,3
+Braveheart,wallace,0.0,22
+Braveheart,wallace,0.0,22
+Braveheart,william,0.0,8
+Braveheart,princess,1.0,22
+Braveheart,hamish,0.0,22
+Braveheart,robert,0.0,22
+Braveheart,craig,0.0,22
+From Here to Eternity,warden,0.0,8
+From Here to Eternity,karen,1.0,9
+From Here to Eternity,holmes,0.0,8
+From Here to Eternity,maggio,1.0,8
+Harold and Maude,maude,1.0,8
+Harold and Maude,harold,1.0,9
+Harold and Maude,mrs. chasen,1.0,9
+TMNT (film),raphael,0.0,15
+TMNT (film),michaelangelo,1.0,15
+TMNT (film),casey,0.0,6
+TMNT (film),leonardo,0.0,15
+TMNT (film),donatello,1.0,15
+TMNT (film),april,1.0,15
+The Way Back,janusz,0.0,21
+The Way Back,smith,0.0,25
+The Way Back,valka,1.0,21
+The Way Back,zoran,1.0,25
+The X-Files (film),mulder,1.0,25
+The X-Files (film),scully,1.0,8
+My Mother Dreams the Satans Disciples in New York,marian,1.0,8
+My Mother Dreams the Satans Disciples in New York,paula,1.0,9
+Chasing Amy,holden,0.0,6
+Chasing Amy,alyssa,1.0,6
+Chasing Amy,banky,1.0,23
+The Hangover,vick,0.0,6
+The Hangover,alan,0.0,6
+The Hangover,stu,0.0,6
+Mad Max 2,max,0.0,25
+Mad Max 2,gyro captain,0.0,25
+Elizabeth: The Golden Age,elizabeth,1.0,22
+Elizabeth: The Golden Age,raleigh,0.0,22
+Elizabeth: The Golden Age,bess,1.0,22
+Elizabeth: The Golden Age,walsingham,1.0,22
+Blood Simple,ray,0.0,8
+Blood Simple,abby,1.0,8
+Blood Simple,marty,0.0,8
+Blood Simple,meurice,1.0,8
+Blood Simple,visser,0.0,8
+Blood Simple,back to ray,0.0,8
+Copycat (film),m.j.,0.0,11
+Copycat (film),helen,1.0,3
+Copycat (film),ruben,0.0,8
+Smokey and the Bandit,bandit,0.0,19
+Smokey and the Bandit,cledus,0.0,19
+Smokey and the Bandit,kate,1.0,19
+The World Is Not Enough,bond,0.0,25
+The World Is Not Enough,elektra,1.0,25
+The Hustler (film),eddie,1.0,8
+The Hustler (film),bert,0.0,8
+The Hustler (film),sarah,1.0,8
+Batman & Robin (film),freeze,1.0,9
+Batman & Robin (film),bruce,0.0,3
+Batman & Robin (film),ivy,1.0,3
+Batman & Robin (film),batman,0.0,6
+Batman & Robin (film),robin,0.0,6
+Batman & Robin (film),alfred,0.0,3
+Batman & Robin (film),dick,0.0,6
+Batman & Robin (film),barbara,1.0,6
+Batman & Robin (film),pamela,1.0,3
+Alien vs. Predator (film),hiroko,1.0,25
+Alien vs. Predator (film),kamen,0.0,25
+Alien vs. Predator (film),guttierez,0.0,10
+Alien vs. Predator (film),parsons,0.0,10
+Alien vs. Predator (film),cassie,1.0,10
+Alien vs. Predator (film),de vries,1.0,10
+American Gangster (film),frank,0.0,8
+American Gangster (film),richie,0.0,11
+The Atomic Submarine,reef,0.0,8
+The Atomic Submarine,wendover,1.0,12
+The Atomic Submarine,dave,0.0,12
+Bringing Out the Dead,frank,0.0,9
+Bringing Out the Dead,mary,1.0,9
+Apollo 13 (film),jim lovell,0.0,16
+Apollo 13 (film),fred haise,0.0,16
+Apollo 13 (film),jack swigert,0.0,16
+Apollo 13 (film),gene krantz,0.0,6
+Apollo 13 (film),ken mattingly,1.0,16
+Men in Black (film),kay,1.0,6
+Men in Black (film),jay,0.0,6
+Men in Black (film),edwards,0.0,6
+The Hills Have Eyes (2006 film),doug,0.0,25
+The Hills Have Eyes (2006 film),bobby,0.0,25
+The Hills Have Eyes (2006 film),lynn,1.0,25
+The Hills Have Eyes (2006 film),ethel,1.0,9
+The Hills Have Eyes (2006 film),brenda,1.0,25
+The Hills Have Eyes (2006 film),big bob,0.0,19
+Bottle Rocket,dignan,0.0,6
+Bottle Rocket,anthony,0.0,6
+Bottle Rocket,bob,0.0,6
+Miami Vice (film),crockett,0.0,25
+Miami Vice (film),tubbs,1.0,10
+Miami Vice (film),isabella,1.0,3
+The Lost Boys,sam,0.0,6
+The Lost Boys,michael,0.0,6
+The Lost Boys,lucy,1.0,6
+The Lost Boys,edgar,0.0,6
+The Lost Boys,david,0.0,6
+The Lost Boys,star,1.0,9
+High Fidelity (film),rob,0.0,6
+High Fidelity (film),laura,1.0,6
+"Happy Birthday, Wanda June",harold,1.0,9
+"Happy Birthday, Wanda June",penelope,1.0,9
+"Happy Birthday, Wanda June",paul,0.0,9
+April Fools Day (1986 film),rob,0.0,25
+April Fools Day (1986 film),kit,1.0,25
+April Fools Day (1986 film),nikki,1.0,25
+April Fools Day (1986 film),muffy,1.0,8
+April Fools Day (1986 film),chaz,1.0,8
+April Fools Day (1986 film),arch,0.0,6
+April Fools Day (1986 film),harvey,0.0,8
+April Fools Day (1986 film),skip,1.0,25
+Lake Placid (film),kelly,1.0,6
+Lake Placid (film),jack,0.0,6
+Lake Placid (film),keough,0.0,6
+Lake Placid (film),hector,0.0,6
+The Graduate,ben,0.0,8
+The Graduate,mrs. robinson,1.0,9
+Meet Joe Black,parrish,1.0,8
+Meet Joe Black,joe,0.0,8
+Meet Joe Black,susan,1.0,9
+Meet Joe Black,drew,1.0,3
+Smoke (film),paul,0.0,9
+Smoke (film),auggie,1.0,9
+Smoke (film),rashid,0.0,9
+American Madness,dickson,0.0,9
+American Madness,matt,0.0,8
+American Madness,cluett,0.0,9
+American Madness,mrs. dickson,1.0,9
+American Madness,inspector,1.0,8
+American Madness,helen,1.0,8
+Pump Up the Volume (film),mark,0.0,6
+Pump Up the Volume (film),nora,1.0,5
+Pump Up the Volume (film),brian,0.0,6
+Nothing But a Man,duff,1.0,2
+Nothing But a Man,josie,1.0,9
+Four Rooms,ted,0.0,6
+Confessions of a Dangerous Mind,barris,0.0,6
+The Help (film),skeeter,0.0,8
+The Help (film),minny,1.0,8
+The Help (film),hilly,1.0,8
+The Help (film),charlotte,1.0,9
+Fantastic Mr. Fox (film),fox,1.0,8
+Orgy of the Dead,criswell,0.0,13
+Orgy of the Dead,shirley,1.0,9
+Orgy of the Dead,bob,0.0,9
+Orgy of the Dead,princess of darkness,1.0,13
+Orgy of the Dead,the mummy,1.0,13
+Dark Star (film),doolittle,1.0,10
+Dark Star (film),pinback,0.0,10
+An Officer and a Gentleman,zack,0.0,8
+An Officer and a Gentleman,paula,1.0,9
+An Officer and a Gentleman,foley,0.0,8
+An Officer and a Gentleman,sid,0.0,6
+Wanted (2008 film),wesley,0.0,25
+Wanted (2008 film),fox,1.0,25
+Wanted (2008 film),sloan,0.0,25
+The Thing Called Love,miranda,1.0,8
+The Thing Called Love,james,0.0,8
+The Thing Called Love,kyle,0.0,9
+Salt of the Earth,ramón,1.0,9
+Salt of the Earth,esperanza,1.0,9
+Salt of the Earth,esperanza's voice,1.0,9
+Rust and Bone,ali,0.0,8
+Rust and Bone,stephanie,1.0,8
+Prometheus (2012 film),watts,0.0,25
+Prometheus (2012 film),holloway,1.0,25
+Prometheus (2012 film),david,0.0,25
+Prometheus (2012 film),janek,0.0,25
+Fantastic Voyage,grant,0.0,10
+Fantastic Voyage,michaels,0.0,10
+Fantastic Voyage,carter,0.0,10
+Fantastic Voyage,duval,1.0,10
+Fantastic Voyage,reid,0.0,10
+Fantastic Voyage,cora,1.0,10
+Precious (film),precious,1.0,8
+Precious (film),ms. rain,1.0,8
+The Siege,hub,1.0,11
+The Siege,elise,1.0,6
+The Siege,frank,0.0,11
+2012 (film),jackson,0.0,25
+2012 (film),adrian,0.0,3
+2012 (film),kate,1.0,10
+2012 (film),anheuser,0.0,12
+American Psycho (film),bateman,0.0,8
+Swingers (1996 film),mike,0.0,6
+Swingers (1996 film),trent,0.0,6
+Get Shorty (film),chili,1.0,6
+Get Shorty (film),harry,0.0,6
+Get Shorty (film),bo catlett,0.0,6
+The Cider House Rules (film),homer,0.0,9
+The Cider House Rules (film),larch,0.0,9
+The Cider House Rules (film),candy,1.0,9
+The Cider House Rules (film),mr. rose,1.0,9
+Escape from New York,snake,0.0,6
+Escape from New York,hauk,1.0,10
+Escape from New York,brain,0.0,6
+Escape from New York,cabbie,0.0,6
+The Stunt Man,cameron,0.0,25
+The Stunt Man,eli,0.0,25
+The Stunt Man,nina,1.0,8
+Point Break,utah,0.0,6
+Point Break,bodhi,0.0,6
+Point Break,pappas,0.0,6
+This Boys Life (film),toby,0.0,8
+This Boys Life (film),caroline,1.0,9
+This Boys Life (film),dwight,0.0,8
+Made for Each Other (1939 film),johnny,0.0,9
+Made for Each Other (1939 film),jane,1.0,9
+Made for Each Other (1939 film),mrs. mason,1.0,9
+Gothika,miranda,1.0,6
+Gothika,pete,0.0,3
+The Boondock Saints,connor,0.0,8
+The Boondock Saints,rocco,0.0,23
+The Boondock Saints,murphy,1.0,8
+The Abyss,bud,1.0,6
+The Abyss,lindsey,1.0,6
+The Abyss,hippy,1.0,6
+True Romance,clarence,1.0,5
+True Romance,alabama,0.0,6
+Platoon (film),chris,0.0,6
+Platoon (film),barnes,0.0,23
+Platoon (film),elias,0.0,23
+Platoon (film),king,0.0,23
+Shampoo (film),george,0.0,6
+Shampoo (film),jackie,1.0,8
+Shampoo (film),jill,1.0,6
+Shampoo (film),lester,0.0,8
+The Visitor (2007 drama film),walter,0.0,8
+The Visitor (2007 drama film),tarek,0.0,8
+The Visitor (2007 drama film),mouna,1.0,8
+Darkman,julie,1.0,8
+Darkman,strack,1.0,3
+Darkman,peyton,1.0,25
+Darkman,durant,0.0,8
+Zero Dark Thirty,maya,1.0,3
+Zero Dark Thirty,daniel,0.0,6
+Zero Dark Thirty,jessica,1.0,3
+Innerspace,joe,0.0,6
+Innerspace,al,0.0,6
+Source Code,colter,1.0,10
+Source Code,goodwin,0.0,3
+Source Code,christina,1.0,6
+A Bucket of Blood (1995 film),walter,0.0,6
+A Bucket of Blood (1995 film),carla,1.0,6
+A Bucket of Blood (1995 film),leonard,0.0,6
+Harold & Kumar Go to White Castle,kumar,1.0,6
+Harold & Kumar Go to White Castle,harold,1.0,6
+The Deer Hunter,nick,0.0,6
+The Deer Hunter,merle,0.0,6
+The Deer Hunter,vince,0.0,23
+Monty Python Live at the Hollywood Bowl,customer,1.0,3
+Monty Python Live at the Hollywood Bowl,p,1.0,9
+Monty Python Live at the Hollywood Bowl,c,0.0,4
+Monty Python Live at the Hollywood Bowl,mr. bounder,1.0,24
+Monty Python Live at the Hollywood Bowl,pope,0.0,22
+Monty Python Live at the Hollywood Bowl,michelangelo,1.0,6
+Monty Python Live at the Hollywood Bowl,man,0.0,24
+Monty Python Live at the Hollywood Bowl,graham chapman,0.0,3
+The Twilight Saga: New Moon,bella,1.0,6
+The Twilight Saga: New Moon,jacob,0.0,6
+The Twilight Saga: New Moon,edward,0.0,9
+Airplane!,elaine,1.0,10
+Airplane!,striker,1.0,10
+Airplane!,kramer,0.0,10
+Airplane!,randy,0.0,8
+Eternal Sunshine of the Spotless Mind,joel,0.0,6
+Eternal Sunshine of the Spotless Mind,clementine,1.0,6
+Twilight (2008 film),bella,1.0,25
+Twilight (2008 film),edward,0.0,25
+Oblivion (2013 film),jack,0.0,10
+Oblivion (2013 film),victoria,1.0,10
+Moneyball (film),billy,0.0,6
+Marty (film),marty,0.0,9
+In the Loop (film),simon,0.0,6
+In the Loop (film),toby,0.0,6
+In the Loop (film),malcolm,0.0,6
+In the Loop (film),karen,1.0,17
+In the Loop (film),judy,1.0,6
+Frequency (film),frank,0.0,8
+Frequency (film),john,0.0,6
+Wild Things: Diamonds in the Rough,marie,1.0,25
+Wild Things: Diamonds in the Rough,elena,1.0,25
+Wild Things: Diamonds in the Rough,kristen,1.0,25
+Wild Things: Diamonds in the Rough,jay,0.0,8
+Wild Things: Diamonds in the Rough,morrison,0.0,11
+The Salton Sea,danny,1.0,6
+The Breakfast Club,bender,0.0,6
+The Breakfast Club,claire,1.0,6
+The Breakfast Club,andrew,0.0,6
+The Breakfast Club,brian,0.0,6
+The Breakfast Club,vernon,0.0,6
+The Breakfast Club,allison,0.0,6
+Love & Basketball,monica,1.0,8
+Love & Basketball,quincy,0.0,8
+Argo (2012 film),mendez,1.0,17
+Argo (2012 film),siegel,0.0,17
+Milk (film),harvey milk,1.0,17
+The Wrestler (2008 film),randy,0.0,8
+The Wrestler (2008 film),cassidy,0.0,6
+Galaxy Quest,jason,0.0,15
+Galaxy Quest,gwen,1.0,25
+Galaxy Quest,alexander,0.0,25
+Galaxy Quest,tommy,0.0,25
+White Squall (film),skipper,0.0,9
+White Squall (film),chuck,0.0,6
+White Squall (film),robin,0.0,6
+White Squall (film),john,0.0,6
+Ghost Rider (film),blaze,0.0,25
+Ghost Rider (film),nomi,1.0,25
+Strangers on a Train (film),guy,0.0,9
+Strangers on a Train (film),bruno,0.0,9
+Strangers on a Train (film),anne,1.0,9
+Monty Pythons Life of Brian,brian,0.0,24
+Monty Pythons Life of Brian,mother,1.0,6
+Monty Pythons Life of Brian,centurion,0.0,24
+Monty Pythons Life of Brian,reg,1.0,3
+Ronin (film),sam,0.0,6
+Ronin (film),vincent,0.0,6
+Ronin (film),deirdre,1.0,25
+Happy Campers (2001 film),wichita,1.0,25
+Happy Campers (2001 film),wendy,1.0,25
+Happy Campers (2001 film),donald,0.0,25
+Happy Campers (2001 film),pixel,1.0,5
+Happy Campers (2001 film),talia,0.0,5
+Happy Campers (2001 film),adam,0.0,25
+Romy and Micheles High School Reunion,romy,1.0,6
+Romy and Micheles High School Reunion,michele,1.0,6
+Stepmom (film),jackie,1.0,8
+Stepmom (film),rachel,1.0,8
+Stepmom (film),luke,0.0,6
+Stepmom (film),annabelle,1.0,6
+10 Things I Hate About You,kat,1.0,8
+10 Things I Hate About You,patrick,0.0,8
+10 Things I Hate About You,bianca,1.0,8
+10 Things I Hate About You,cameron,0.0,6
+10 Things I Hate About You,michael,0.0,6
+Superman II,lois,1.0,9
+Superman II,clark,0.0,8
+Superman II,zod,0.0,25
+Superman II,luthor,0.0,8
+Superman II,superman,0.0,25
+Superman II,ursa,1.0,8
+The Tourist (2010 film),frank,0.0,8
+The Tourist (2010 film),cara,1.0,8
+The Tourist (2010 film),ackerman,0.0,8
+The Mask (film),stanley,1.0,25
+The Mask (film),tina,1.0,25
+The Mask (film),dorian,0.0,25
+Prom Night (1980 film),kim,1.0,8
+Prom Night (1980 film),wendy,1.0,8
+Prom Night (1980 film),hammond,0.0,8
+True Believer (1989 film),eddie,1.0,11
+True Believer (1989 film),roger,0.0,11
+Simone (2002 film),viktor,0.0,3
+Simone (2002 film),elaine,1.0,9
+Margin Call (film),will emerson,0.0,6
+Margin Call (film),peter,0.0,8
+Margin Call (film),sam rogers,1.0,6
+Margin Call (film),seth,0.0,6
+Margin Call (film),jared cohen,0.0,8
+Margin Call (film),eric,0.0,6
+Margin Call (film),sarah robertson,1.0,8
+Full Metal Jacket,hartman,0.0,3
+Full Metal Jacket,joker,0.0,9
+Full Metal Jacket,cowboy,0.0,20
+National Lampoons Barely Legal,deacon,0.0,6
+National Lampoons Barely Legal,fred,0.0,6
+National Lampoons Barely Legal,matt,0.0,6
+The Postman (film),the postman,0.0,8
+The Postman (film),bethlehem,0.0,25
+Enough (film),slim,0.0,8
+Enough (film),mitch,0.0,8
+Enough (film),"""erin""",1.0,8
+Wild Things,sam,0.0,6
+Wild Things,ray,0.0,6
+Wild Things,kelly,1.0,6
+Wild Things,gloria,1.0,6
+Wild Things,suzie,1.0,6
+Above the Law (film),nico,1.0,11
+Repo Man (film),otto,0.0,6
+Repo Man (film),bud,1.0,23
+Newsies,jack,0.0,2
+Newsies,david,0.0,8
+Eyes Wide Shut,bill,0.0,9
+Cedar Rapids (film),tim,0.0,6
+Minority Report (film),anderson,0.0,8
+Minority Report (film),witwer,1.0,8
+Minority Report (film),lisa,1.0,25
+Shrek,shrek,0.0,6
+Shrek,donkey,1.0,6
+Shrek,fiona,1.0,6
+Heist (film),moore,0.0,6
+Heist (film),fran,1.0,6
+Heist (film),angle,0.0,6
+Heist (film),blane,1.0,6
+Heist (film),bella,1.0,6
+The Straight Story,alvin,0.0,8
+Gang Related,rodriguez,1.0,6
+Gang Related,cynthia,1.0,8
+Human Nature (film),nathan,0.0,8
+Human Nature (film),lila,1.0,5
+Human Nature (film),gabrielle,1.0,5
+Human Nature (film),puff,1.0,3
+The Crow: Salvation,alex,1.0,25
+The Crow: Salvation,erin,1.0,25
+The Crow: Salvation,captain,0.0,25
+Man on Fire (2004 film),creasy,0.0,6
+Alien: Resurrection,call,1.0,25
+Alien: Resurrection,ripley,0.0,25
+Alien: Resurrection,johner,0.0,25
+Alien: Resurrection,wren,1.0,25
+Alien: Resurrection,christie,1.0,6
+Pokémon: Mewtwo Returns,mewtwo,1.0,16
+Pokémon: Mewtwo Returns,ash,0.0,16
+Pokémon: Mewtwo Returns,brock,0.0,16
+Pokémon: Mewtwo Returns,misty,0.0,6
+Pokémon: Mewtwo Returns,jessie,1.0,8
+Pokémon: Mewtwo Returns,meowth,1.0,6
+Pokémon: Mewtwo Returns,james,0.0,8
+Frozen (2010 American film),lynch,0.0,6
+Frozen (2010 American film),parker,0.0,6
+Frozen (2010 American film),dan,0.0,6
+Frozen (2010 American film),x,0.0,25
+Frozen (2010 American film),r,1.0,25
+Frozen (2010 American film),a,0.0,25
+Frozen (2010 American film),m,1.0,6
+Frozen (2010 American film),d,1.0,25
+Frozen (2010 American film),e,1.0,25
+S. Darko,sam,0.0,8
+S. Darko,corey,0.0,8
+S. Darko,chris,0.0,6
+S. Darko,jeremy,0.0,25
+Dave (film),dave,0.0,8
+Dave (film),reed,0.0,8
+Dave (film),bob,0.0,17
+King Kong (2005 film),denham,0.0,25
+King Kong (2005 film),jack,0.0,25
+King Kong (2005 film),ann,1.0,25
+King Kong (2005 film),hayes,0.0,25
+Paul (film),clive,0.0,8
+Paul (film),paul,0.0,6
+Paul (film),graham,0.0,6
+Paul (film),ruth,1.0,6
+The Matrix Reloaded,morpheus,0.0,18
+The Matrix Reloaded,neo,0.0,8
+The Matrix Reloaded,razor,0.0,16
+The Matrix Reloaded,trinity,0.0,3
+The Matrix Reloaded,gregory,0.0,6
+The Matrix Reloaded,choi,1.0,8
+The Matrix Reloaded,smith,0.0,3
+Cross of Iron,steiner,0.0,8
+Cross of Iron,stransky,0.0,3
+Pitch Black (film),fry,1.0,25
+Pitch Black (film),johns,0.0,25
+Pitch Black (film),riddick,0.0,25
+Ghost World (film),enid,1.0,6
+Ghost World (film),rebecca,1.0,6
+Ghost World (film),seymour,1.0,6
+Eastern Promises,nikolai,0.0,8
+Eastern Promises,anna,1.0,8
+Eastern Promises,semyon,0.0,8
+Eastern Promises,kirill,0.0,8
+Eastern Promises,helen,1.0,8
+The Jackie Robinson Story,jackie,1.0,9
+Léon: The Professional,leon,0.0,9
+Léon: The Professional,mathilda,1.0,9
+Things to Come,cabal,0.0,3
+Things to Come,boss,0.0,3
+Things to Come,roxana,1.0,3
+Emma (1932 film),emma,1.0,22
+Emma (1932 film),mr knightley,0.0,3
+Cowboys & Aliens,jake,0.0,25
+Cowboys & Aliens,ella,1.0,25
+Cowboys & Aliens,dolarhyde,1.0,25
+Cowboys & Aliens,doc,0.0,25
+Cowboys & Aliens,meacham,0.0,25
+Cowboys & Aliens,emmett,0.0,25
+Anna Karenina (2012 film),anna,1.0,9
+Anna Karenina (2012 film),vronsky,1.0,9
+Anna Karenina (2012 film),levin,0.0,9
+Anna Karenina (2012 film),karenin,1.0,22
+Excalibur (film),arthur,0.0,22
+Excalibur (film),merlin,0.0,25
+Excalibur (film),lancelot,0.0,22
+Ninotchka,ninotchka,1.0,9
+Ninotchka,leon,0.0,9
+The Last Boy Scout,hallenbeck,0.0,6
+The Last Boy Scout,jimmy,0.0,6
+The White Ribbon,schoolteacher,1.0,9
+The White Ribbon,eva,1.0,9
+The White Ribbon,pastor,0.0,8
+Titanic (1997 film),rose,1.0,8
+Titanic (1997 film),jack,0.0,8
+Titanic (1997 film),cal,1.0,8
+Election (1999 film),jim,0.0,8
+Election (1999 film),tracy,1.0,3
+Election (1999 film),paul,0.0,6
+Tinker Tailor Soldier Spy (film),smiley,0.0,8
+Tinker Tailor Soldier Spy (film),peter guillam,0.0,8
+Monte Carlo (2011 film),alice,1.0,8
+Monte Carlo (2011 film),emma,1.0,8
+Monte Carlo (2011 film),meg,1.0,8
+Sense and Sensibility (film),elinor,1.0,3
+Sense and Sensibility (film),marianne,1.0,8
+Sense and Sensibility (film),mrs dashwood,1.0,8
+Sense and Sensibility (film),mrs jennings,1.0,8
+Sense and Sensibility (film),edward,0.0,8
+Freddys Dead: The Final Nightmare,jacob,0.0,25
+Freddys Dead: The Final Nightmare,karen,1.0,25
+Freddys Dead: The Final Nightmare,scott,0.0,25
+Lord of Illusions,harry,0.0,25
+Lord of Illusions,dorothea,1.0,25
+Black Swan (film),nina,1.0,8
+Black Swan (film),leroy,0.0,8
+Black Swan (film),lily,1.0,8
+Black Swan (film),erica,1.0,8
+The Wedding Date,kat,1.0,18
+The Wedding Date,nick,0.0,18
+Funny People,george,0.0,6
+Funny People,ira,1.0,6
+Domino (film),domino,1.0,8
+Domino (film),ed,0.0,23
+The Curious Case of Benjamin Button (film),benjamin,0.0,9
+The Curious Case of Benjamin Button (film),daisy,1.0,9
+The Curious Case of Benjamin Button (film),benjamin button's,0.0,18
+The Curious Case of Benjamin Button (film),caroline,1.0,9
+The Rocky Horror Picture Show,frank,0.0,22
+The Rocky Horror Picture Show,brad,0.0,22
+The Rocky Horror Picture Show,janet,1.0,22
+The Rocky Horror Picture Show,wipe to,1.0,18
+The Rocky Horror Picture Show,riff raff,0.0,22
+The Rocky Horror Picture Show,guests,1.0,10
+Speed Racer (film),speed,1.0,6
+Speed Racer (film),pops,1.0,6
+The Deep End of the Ocean (film),beth,1.0,6
+The Deep End of the Ocean (film),patty,1.0,6
+The Deep End of the Ocean (film),vincent,0.0,6
+Orphan (film),kate,1.0,8
+Orphan (film),john,0.0,8
+Orphan (film),esther,1.0,25
+So I Married an Axe Murderer,charlie,1.0,6
+So I Married an Axe Murderer,harriet,1.0,6
+So I Married an Axe Murderer,tony,0.0,6
+Face-Off,archer,0.0,25
+Face-Off,castor,1.0,25
+Face-Off,eve,1.0,25
+Memento (film),leonard,0.0,6
+Memento (film),teddy,1.0,6
+Clash of the Titans (2010 film),perseus,0.0,25
+The Big Blue,enzo,1.0,9
+The Big Blue,jacques,0.0,9
+The Big Blue,johana,1.0,9
+The Lost World: Jurassic Park,malcolm,0.0,25
+The Lost World: Jurassic Park,roland,0.0,25
+The Lost World: Jurassic Park,sarah,1.0,25
+The Lost World: Jurassic Park,nick,0.0,25
+The Lost World: Jurassic Park,ludlow,0.0,25
+The Distinguished Gentleman,tommy,0.0,17
+The Distinguished Gentleman,dodge,0.0,17
+Lost Horizon (1937 film),conway,0.0,9
+Lost Horizon (1937 film),george,0.0,9
+Lost Horizon (1937 film),barnard,0.0,8
+Lost Horizon (1937 film),lovett,1.0,9
+Lost Horizon (1937 film),chang,0.0,3
+Jerry Maguire,jerry,0.0,8
+Jerry Maguire,dorothy,1.0,6
+Jerry Maguire,tidwell,0.0,5
+The Road (2009 film),man.,0.0,25
+The Road (2009 film),boy.,0.0,25
+Office Space,peter,0.0,6
+Office Space,michael,0.0,6
+Office Space,joanna,1.0,9
+Blast from the Past (film),adam,0.0,8
+Blast from the Past (film),eve,1.0,6
+Blast from the Past (film),calvin,1.0,9
+Blast from the Past (film),troy,0.0,6
+Blast from the Past (film),helen,1.0,9
+The Cable Guy,cable guy,0.0,6
+The Cable Guy,steven,0.0,6
+The Cable Guy,robin,0.0,6
+The Talented Mr. Ripley (film),ripley,0.0,9
+The Talented Mr. Ripley (film),dickie,1.0,9
+The Talented Mr. Ripley (film),marge,1.0,9
+Forrest Gump,forrest,0.0,8
+Warm Springs (film),franklin,0.0,8
+Warm Springs (film),eleanor,1.0,3
+Double Indemnity (film),neff,0.0,9
+Double Indemnity (film),phyllis,1.0,9
+Double Indemnity (film),keyes,0.0,17
+The Debt (2011 film),rachel,1.0,8
+The Debt (2011 film),stephan,0.0,8
+The Debt (2011 film),vogel,1.0,25
+The Debt (2011 film),david,0.0,8
+A Nightmare on Elm Street 5: The Dream Child,alice,1.0,25
+A Nightmare on Elm Street 5: The Dream Child,mark,0.0,25
+Jackie Brown (film),jackie,1.0,6
+Jackie Brown (film),ordell,1.0,23
+Jackie Brown (film),max,0.0,8
+Jackie Brown (film),louis,1.0,6
+Bachelor Party (1984 film),rick,0.0,8
+Bachelor Party (1984 film),o'neill,0.0,8
+Bachelor Party (1984 film),debbie,1.0,8
+Save the Last Dance,sara,1.0,8
+Save the Last Dance,patrick,0.0,8
+Save the Last Dance,chenille,1.0,8
+Tomorrow Never Dies,bond,0.0,8
+Tomorrow Never Dies,sidney,1.0,10
+Surrogates (film),greer,1.0,8
+Surrogates (film),peters,0.0,25
+Analyze This,ben,0.0,6
+Analyze This,vitti,1.0,6
+Bean (film),david,0.0,6
+Bean (film),grierson,0.0,3
+Bean (film),alison,1.0,6
+House of 1000 Corpses,jerry,0.0,23
+House of 1000 Corpses,bill,0.0,6
+House of 1000 Corpses,denise,1.0,25
+House of 1000 Corpses,mary,1.0,8
+House of 1000 Corpses,baby,1.0,25
+House of 1000 Corpses,mother,1.0,25
+House of 1000 Corpses,capt. spaulding,0.0,23
+House of 1000 Corpses,otis,0.0,25
+House of 1000 Corpses,naish,0.0,8
+Someone to Watch Over Me (film),mike,0.0,6
+Someone to Watch Over Me (film),claire,1.0,9
+Someone to Watch Over Me (film),ellie,1.0,9
+Sweeney Todd: The Demon Barber of Fleet Street (2007 film),todd,0.0,25
+Sweeney Todd: The Demon Barber of Fleet Street (2007 film),mrs. lovett,1.0,9
+Being There,chance,1.0,8
+Being There,eve,1.0,8
+The Last Samurai,algren,1.0,20
+The Last Samurai,katsumoto,1.0,3
+Bad Teacher,elizabeth,1.0,8
+Practical Magic,sally,1.0,9
+Practical Magic,gillian,1.0,6
+Practical Magic,aunt jet,1.0,9
+Practical Magic,aunt frances,1.0,9
+Hardcore (1979 film),jake,0.0,6
+Hardcore (1979 film),niki,1.0,6
+Life (1999 film),ray,0.0,6
+Life (1999 film),claude,1.0,6
+Under Fire (film),price,1.0,8
+Under Fire (film),claire,1.0,8
+Under Fire (film),alex,1.0,8
+The Bridges of Madison County (film),francesca,1.0,9
+The Bridges of Madison County (film),robert,0.0,9
+Body Heat,racine,1.0,6
+Body Heat,matty,1.0,9
+New York Minute (film),drew,1.0,6
+New York Minute (film),parker,0.0,6
+His Girl Friday,hildy,1.0,9
+His Girl Friday,burns,0.0,9
+Margot at the Wedding,margot,1.0,6
+Margot at the Wedding,pauline,0.0,6
+Margot at the Wedding,claude,1.0,25
+Margot at the Wedding,malcolm,0.0,6
+The Flintstones (film),fred,0.0,25
+The Flintstones (film),barney,0.0,6
+Changeling (film),christine,1.0,8
+Changeling (film),jones,0.0,3
+Mission to Mars,mcconnell,0.0,25
+Mission to Mars,woody,0.0,25
+Mission to Mars,luke,0.0,8
+Mission to Mars,terri,1.0,6
+Mission to Mars,phil,0.0,25
+Year One (film),zed,0.0,6
+Year One (film),oh,1.0,6
+Krull (film),colwyn,1.0,9
+Krull (film),ergo,1.0,22
+Krull (film),torquil,1.0,22
+As Good as It Gets,melvin,1.0,6
+As Good as It Gets,carol,1.0,6
+As Good as It Gets,simon,0.0,6
+Midnight Express (film),billy,0.0,25
+Midnight Express (film),cut,1.0,25
+Midnight Express (film),max,0.0,25
+Martha Marcy May Marlene,martha,1.0,6
+Martha Marcy May Marlene,lucy,1.0,8
+Martha Marcy May Marlene,ted,0.0,6
+Mighty Morphin Power Rangers: The Movie,ivan,0.0,6
+Mighty Morphin Power Rangers: The Movie,tommy,0.0,6
+Mighty Morphin Power Rangers: The Movie,kimberly,1.0,6
+Mighty Morphin Power Rangers: The Movie,aisha,1.0,6
+Mighty Morphin Power Rangers: The Movie,billy,0.0,3
+Mighty Morphin Power Rangers: The Movie,rocky,0.0,6
+Mighty Morphin Power Rangers: The Movie,alpha 5,0.0,6
+Mighty Morphin Power Rangers: The Movie,mordant,1.0,6
+Mighty Morphin Power Rangers: The Movie,adam,0.0,6
+Mighty Morphin Power Rangers: The Movie,fred,0.0,6
+Dawn of the Dead,peter,0.0,10
+Dawn of the Dead,roger,0.0,10
+Dawn of the Dead,steve,0.0,10
+Dawn of the Dead,fran,1.0,10
+L.A. Confidential (film),exley,0.0,11
+L.A. Confidential (film),bud,1.0,11
+L.A. Confidential (film),jack,0.0,11
+L.A. Confidential (film),dudley,0.0,11
+L.A. Confidential (film),lynn,1.0,8
+Hannibal (film),starling,0.0,6
+Hannibal (film),angle,0.0,3
+Hannibal (film),pazzi,1.0,3
+The Shining (film),jack,0.0,9
+The Shining (film),wendy,1.0,6
+The Shining (film),danny,1.0,1
+The Shining (film),halloran,0.0,9
+The Shining (film),ullman,1.0,9
+Flightplan,kyle,0.0,10
+Flightplan,carson,0.0,10
+The Cooler,bernie,1.0,8
+The Cooler,shelly,1.0,23
+The Cooler,natalie,1.0,8
+8mm (film),welles,0.0,8
+Blood and Wine,alex,1.0,8
+Blood and Wine,jason,0.0,8
+Blood and Wine,gabriella,1.0,8
+Blood and Wine,victor,0.0,25
+Blood and Wine,suzanne,1.0,25
+Willow (film),willow,0.0,9
+Willow (film),raziel,0.0,13
+Big (film),josh,0.0,6
+Big (film),susan,1.0,6
+Big (film),billy,0.0,6
+Tristan & Isolde (film),isolde,1.0,22
+Tristan & Isolde (film),tristan,1.0,22
+Tristan & Isolde (film),marke,0.0,22
+Tristan & Isolde (film),melot,1.0,22
+Tristan & Isolde (film),king donnchadh,0.0,22
+Plan 9 from Outer Space,lt. harper,0.0,6
+Plan 9 from Outer Space,eros,0.0,3
+Plan 9 from Outer Space,jeff,0.0,9
+Plan 9 from Outer Space,col. edwards,0.0,6
+Plan 9 from Outer Space,kelton,0.0,11
+Plan 9 from Outer Space,larry,0.0,6
+Plan 9 from Outer Space,paula,1.0,9
+Plan 9 from Outer Space,ruler,1.0,3
+Plan 9 from Outer Space,general roberts,0.0,10
+Strange Days (film),lenny,0.0,6
+Strange Days (film),mace,0.0,6
+Go (1999 film),ronna,1.0,19
+Go (1999 film),zack,0.0,6
+Go (1999 film),adam,0.0,6
+Go (1999 film),simon,0.0,19
+Go (1999 film),marcus,0.0,19
+Go (1999 film),claire,1.0,8
+Go (1999 film),burke,0.0,6
+Go (1999 film),gaines,0.0,6
+Smashed (film),kate,1.0,6
+Smashed (film),charlie,1.0,6
+Beetlejuice,barbara,1.0,9
+Beetlejuice,adam,0.0,18
+Beetlejuice,lydia,1.0,9
+Beetlejuice,delia,1.0,18
+Beetlejuice,betelgeuse,0.0,25
+Beetlejuice,charles,1.0,9
+Beetlejuice,otho,1.0,25
+Fletch (film),fletch,0.0,23
+Carrie (1976 film),carrie,1.0,8
+Carrie (1976 film),tommy,0.0,8
+Carrie (1976 film),collins,1.0,9
+Carrie (1976 film),margaret,1.0,22
+Carrie (1976 film),sue,1.0,6
+Carrie (1976 film),chris,0.0,25
+Wall Street (1987 film),bud,1.0,17
+Wall Street (1987 film),gekko,0.0,17
+RKO 281,welles,0.0,8
+RKO 281,mank,1.0,8
+RKO 281,hearst,1.0,3
+RKO 281,schaefer,1.0,6
+RKO 281,marion,1.0,6
+This Is Spinal Tap,david,0.0,6
+This Is Spinal Tap,nigel,0.0,6
+This Is Spinal Tap,ian,0.0,6
+This Is Spinal Tap,derek,0.0,6
+This Is Spinal Tap,marty,0.0,6
+Count Dracula (1970 film),helsing,0.0,22
+Count Dracula (1970 film),harker,0.0,22
+Count Dracula (1970 film),dracula,0.0,22
+Count Dracula (1970 film),mina,1.0,22
+Count Dracula (1970 film),seward,0.0,22
+Count Dracula (1970 film),morris,0.0,22
+Almost Famous,william,0.0,8
+Almost Famous,russell,0.0,6
+Tin Men,tilley,0.0,6
+Tin Men,bb,1.0,6
+Tin Men,nora,1.0,6
+Tin Men,sam,0.0,6
+Shrek the Third,shrek,0.0,6
+Shrek the Third,donkey,1.0,13
+Shrek the Third,prince charming,1.0,13
+Shrek the Third,artie,0.0,6
+Shrek the Third,fiona,1.0,8
+The Seventh Seal,knight,0.0,3
+The Seventh Seal,jons,1.0,9
+The Seventh Seal,mia,1.0,9
+The Seventh Seal,death,0.0,3
+The Seventh Seal,plog,1.0,9
+The Rage: Carrie 2,rachel,1.0,25
+The Rage: Carrie 2,jesse,0.0,6
+The Rage: Carrie 2,mark,0.0,8
+The Rage: Carrie 2,sue,1.0,25
+Confidence (2003 film),jake,0.0,6
+Mirrors (film),ben,0.0,18
+Mirrors (film),amy,1.0,25
+Friday the 13th (1980 film),alice,1.0,25
+Friday the 13th (1980 film),bill,0.0,8
+Friday the 13th (1980 film),marcie,1.0,8
+Friday the 13th (1980 film),ned,0.0,8
+Friday the 13th (1980 film),jack,0.0,25
+Friday the 13th (1980 film),steve,0.0,8
+Philadelphia (film),andrew,0.0,3
+Philadelphia (film),joe,0.0,3
+Death to Smoochy,sheldon,0.0,6
+Death to Smoochy,randolph,0.0,6
+Death to Smoochy,nora,1.0,6
+Death to Smoochy,burke,0.0,6
+Heavenly Creatures,pauline,0.0,8
+Heavenly Creatures,juliet,1.0,24
+Heavenly Creatures,honora,0.0,8
+John Q,grimes,1.0,6
+Watchmen (film),dan,0.0,25
+Watchmen (film),laurie,0.0,25
+Watchmen (film),rorschach,0.0,25
+Watchmen (film),dr. manhattan,0.0,3
+Watchmen (film),adrian,0.0,3
+Pearl Harbor (film),rafe,1.0,10
+Pearl Harbor (film),danny,1.0,10
+Pearl Harbor (film),evelyn,1.0,25
+Revolutionary Road (film),frank,0.0,8
+Revolutionary Road (film),april,1.0,9
+Unforgiven,munny,1.0,9
+Unforgiven,the kid,0.0,2
+Unforgiven,little bill,0.0,2
+Unforgiven,ned,0.0,2
+EDtv,ed,0.0,6
+Boys on the Side,jane,1.0,6
+Boys on the Side,robin,0.0,6
+Boys on the Side,holly,0.0,6
+Halloween: The Curse of Michael Myers,kara,1.0,6
+Halloween: The Curse of Michael Myers,loomis,0.0,9
+Halloween: The Curse of Michael Myers,tommy,0.0,6
+Halloween: The Curse of Michael Myers,wynn,1.0,3
+Halloween: The Curse of Michael Myers,john,0.0,6
+Halloween: The Curse of Michael Myers,beth,1.0,6
+Lara Croft: Tomb Raider,lara,1.0,9
+Lara Croft: Tomb Raider,dodge,0.0,6
+Catwoman (film),patience,1.0,6
+Catwoman (film),lone,0.0,6
+Catwoman (film),catwoman,1.0,9
+Catwoman (film),laurel,1.0,6
+Catwoman (film),edna,1.0,3
+Catwoman (film),georges,0.0,3
+Nixon (film),nixon,0.0,17
+Valkyrie (film),stauffenberg,1.0,8
+Valkyrie (film),olbricht,1.0,3
+Slumdog Millionaire,jamal,0.0,8
+Slumdog Millionaire,prem,0.0,24
+Slumdog Millionaire,salim,0.0,25
+25th Hour,monty,1.0,8
+25th Hour,jakob,0.0,6
+25th Hour,slattery,0.0,6
+Mary Shelleys Frankenstein (film),victor,0.0,25
+Mary Shelleys Frankenstein (film),creature,0.0,25
+Mary Shelleys Frankenstein (film),elizabeth,1.0,25
+Mary Shelleys Frankenstein (film),henry,0.0,25
+Coriolanus (film),coriolanus,0.0,22
+Coriolanus (film),aufidius,0.0,22
+Coriolanus (film),brutus,0.0,22
+Brazil (1985 film),sam,0.0,9
+My Girl (film),vada,1.0,6
+My Girl (film),shelly,1.0,5
+My Girl (film),harry,0.0,6
+My Girl (film),thomas j,0.0,6
+Chill Factor (film),mason,1.0,4
+Chill Factor (film),arlo,0.0,4
+Chill Factor (film),brynner,0.0,3
+Alien 3,ripley,0.0,6
+Alien 3,dillon,1.0,10
+Alien 3,clemens,1.0,3
+Alien 3,aaron,0.0,6
+Trainspotting (film),renton,0.0,3
+Trainspotting (film),sick boy,0.0,6
+Gods and Monsters,whale,0.0,8
+Gods and Monsters,clay,1.0,25
+An American Werewolf in Paris,andy,1.0,25
+Thirteen Days (film),kenny,0.0,17
+Thirteen Days (film),the president,0.0,17
+Thirteen Days (film),bobby,0.0,17
+Amadeus (film),mozart,1.0,22
+Amadeus (film),salieri,0.0,22
+Amadeus (film),constanze,1.0,8
+Invaders from Mars (1986 film),jimmy,0.0,25
+Invaders from Mars (1986 film),linda,1.0,8
+Invaders from Mars (1986 film),dad,0.0,8
+Invaders from Mars (1986 film),col. wilson,0.0,10
+Invaders from Mars (1986 film),mom,1.0,9
+The Wild Bunch,pike,0.0,21
+The Wild Bunch,dutch,1.0,21
+The Wild Bunch,change,0.0,25
+The Wild Bunch,thornton,0.0,21
+The Wild Bunch,angel,1.0,21
+Coraline (film),coraline,1.0,25
+Ride the High Country,judd,1.0,9
+Ride the High Country,gil,1.0,9
+Ride the High Country,heck,1.0,9
+Ride the High Country,elsa,1.0,9
+My Own Private Idaho,mike,0.0,6
+My Own Private Idaho,scott,0.0,6
+My Own Private Idaho,bob,0.0,22
+48 Hrs.,cates,1.0,6
+48 Hrs.,hammond,0.0,6
+Willard (2003 film),willard,0.0,14
+Willard (2003 film),mr. martin,0.0,25
+Mimic (film),susan,1.0,25
+Mimic (film),peter,0.0,25
+Mimic (film),leonard,0.0,25
+Star Wars Episode I: The Phantom Menace,anakin,0.0,15
+Star Wars Episode I: The Phantom Menace,jar,1.0,15
+Star Wars Episode I: The Phantom Menace,padme,1.0,15
+To Sleep with Anger,harry,0.0,9
+To Sleep with Anger,gideon,0.0,9
+To Sleep with Anger,suzie,1.0,9
+To Sleep with Anger,babe brother,0.0,9
+To Sleep with Anger,linda,1.0,9
+To Sleep with Anger,junior,1.0,9
+Shakespeare in Love,will,0.0,22
+Shakespeare in Love,viola,1.0,22
+Shakespeare in Love,henslowe,0.0,8
+Pride & Prejudice (2005 film),elizabeth,1.0,22
+Pride & Prejudice (2005 film),darcy,1.0,3
+Pride & Prejudice (2005 film),mrs bennet,1.0,22
+The Life of David Gale,david,0.0,8
+The Life of David Gale,zack,0.0,8
+The Life of David Gale,constance,1.0,8
+Lost Souls (film),peter,0.0,3
+Lost Souls (film),maya,1.0,6
+The Man Who Wasnt There (2001 film),ed,0.0,8
+The Crow: City of Angels,ashe,0.0,25
+The Crow: City of Angels,sarah,1.0,25
+The Crow: City of Angels,judah,0.0,25
+The Crow: City of Angels,curve,1.0,25
+The Anniversary Party,sally,1.0,6
+The Anniversary Party,joe,0.0,6
+The Anniversary Party,monica,1.0,5
+Pirates of the Caribbean: Dead Mans Chest,jack sparrow,0.0,13
+Pirates of the Caribbean: Dead Mans Chest,will turner,0.0,25
+Pirates of the Caribbean: Dead Mans Chest,elizabeth swann,1.0,7
+Pirates of the Caribbean: Dead Mans Chest,gibbs,0.0,25
+Zulu Dawn,chelmsford,0.0,20
+Zulu Dawn,vereker,0.0,20
+Zulu Dawn,durnford,0.0,20
+Zulu Dawn,sgt. williams,1.0,20
+Zulu Dawn,crealock,1.0,20
+Raiders of the Lost Ark,indy,0.0,25
+Raiders of the Lost Ark,marion,1.0,8
+The English Patient (film),almásy,0.0,9
+The English Patient (film),hana,1.0,9
+The English Patient (film),katharine,1.0,9
+The English Patient (film),the patient,1.0,9
+The English Patient (film),caravaggio,0.0,9
+The English Patient (film),kip,0.0,9
+The English Patient (film),madox,0.0,9
+Signs (film),graham,0.0,6
+Signs (film),merrill,1.0,6
+Signs (film),morgan,0.0,3
+Adaptation (film),kaufman,0.0,3
+Adaptation (film),orlean,1.0,3
+Adaptation (film),laroche,0.0,6
+Adaptation (film),donald,0.0,6
+ParaNorman,norman,0.0,25
+ParaNorman,neil,0.0,25
+The Battle of Algiers,mathieu,1.0,3
+The Battle of Algiers,ali,0.0,8
+The Battle of Algiers,kader,0.0,3
+Get Carter,carter,0.0,8
+Insidious (film),josh,0.0,25
+Insidious (film),renai,1.0,25
+Insidious (film),elise,1.0,25
+Dumb and Dumber,lloyd,1.0,6
+Dumb and Dumber,harry,0.0,6
+A Walk to Remember,landon,0.0,6
+A Walk to Remember,jamie,1.0,6
+Cirque du Freak: The Vampires Assistant,darren,0.0,25
+Cirque du Freak: The Vampires Assistant,crepsley,0.0,25
+Cirque du Freak: The Vampires Assistant,steve,0.0,25
+Reindeer Games,rudy,1.0,8
+Reindeer Games,gabriel,0.0,25
+Reindeer Games,ashley,0.0,25
+Semi-Pro,jackie moon,1.0,6
+Semi-Pro,clarence,1.0,6
+St. Elmos Fire (film),leslie,0.0,6
+St. Elmos Fire (film),alec,0.0,6
+St. Elmos Fire (film),kevin,0.0,5
+St. Elmos Fire (film),billy,0.0,8
+St. Elmos Fire (film),jules,0.0,9
+St. Elmos Fire (film),kirbo,1.0,5
+St. Elmos Fire (film),wendy,1.0,6
+St. Elmos Fire (film),dale,0.0,6
+Happiness (1998 film),joy,1.0,6
+Happiness (1998 film),bill,0.0,6
+Happiness (1998 film),trish,1.0,6
+Happiness (1998 film),billy,0.0,6
+Happiness (1998 film),allen,0.0,6
+Happiness (1998 film),lenny,0.0,6
+Happiness (1998 film),mona,0.0,9
+Happiness (1998 film),helen,1.0,6
+Happiness (1998 film),boris,0.0,17
+Public Enemies (2009 film),dillinger,0.0,8
+Public Enemies (2009 film),purvis,0.0,19
+Public Enemies (2009 film),billie,1.0,9
+The Time Machine (2002 film),alexander,0.0,9
+Mr. Smith Goes to Washington,jefferson,0.0,9
+Mr. Smith Goes to Washington,saunders,0.0,9
+Mr. Smith Goes to Washington,paine,0.0,9
+Taking Sides (film),steve,0.0,8
+Taking Sides (film),furtwängler,1.0,3
+Rebecca (1940 film),i,1.0,9
+Rebecca (1940 film),maxim,1.0,9
+My Best Friends Wedding,julianne,0.0,8
+My Best Friends Wedding,michael,0.0,6
+Little Miss Sunshine,richard,0.0,6
+Little Miss Sunshine,sheryl,0.0,6
+Little Miss Sunshine,frank,0.0,8
+Little Miss Sunshine,olive,1.0,8
+Stagecoach (1939 film),curly,1.0,9
+Stagecoach (1939 film),doc,0.0,9
+Stagecoach (1939 film),buck,0.0,2
+Stagecoach (1939 film),ringo,0.0,9
+Stagecoach (1939 film),gatewood,0.0,9
+Stagecoach (1939 film),dallas,1.0,9
+Stagecoach (1939 film),hatfield,1.0,9
+Stagecoach (1939 film),lucy,1.0,9
+The Devils Advocate (1997 film),kevin,0.0,6
+The Devils Advocate (1997 film),milton,0.0,6
+Body of Evidence (1993 film),dulaney,0.0,3
+Body of Evidence (1993 film),cardenas,0.0,3
+Body of Evidence (1993 film),rebecca,1.0,9
+Highlander (film),macleod,0.0,25
+Highlander (film),brenda,1.0,25
+Ninja Assassin,mika,0.0,25
+Ninja Assassin,maslow,0.0,25
+Ninja Assassin,raizo,1.0,25
+Rear Window,jeff,0.0,8
+Rear Window,lisa,1.0,8
+Friday the 13th Part VI: Jason Lives,megan,1.0,8
+Friday the 13th Part VI: Jason Lives,tommy,0.0,25
+Friday the 13th Part VI: Jason Lives,sheriff,0.0,6
+Friday the 13th Part VI: Jason Lives,paula,1.0,6
+Nick of Time (film),gene,0.0,8
+Nick of Time (film),mr. smith,0.0,8
+Nick of Time (film),huey,0.0,8
+The Company of Wolves,rosaleen,1.0,25
+The Company of Wolves,granny,1.0,8
+The Company of Wolves,mother,1.0,8
+The Company of Wolves,huntsman,0.0,25
+X-Men (film),logan,0.0,24
+X-Men (film),magneto,0.0,3
+X-Men (film),jean,0.0,3
+X-Men (film),xavier,1.0,3
+X-Men (film),cyclops,0.0,24
+X-Men (film),kelly,1.0,3
+Bones (2001 film),patrick,0.0,25
+Bones (2001 film),pearl,1.0,25
+Bones (2001 film),bones,1.0,25
+Bones (2001 film),jeremiah,0.0,25
+Bones (2001 film),bill,0.0,25
+Bones (2001 film),cinnabar,1.0,25
+Bones (2001 film),maurice,1.0,25
+Bones (2001 film),mack,1.0,23
+Terminator 2: Judgment Day,john,0.0,6
+Terminator 2: Judgment Day,terminator,1.0,10
+Terminator 2: Judgment Day,sarah,1.0,6
+Terminator 2: Judgment Day,dyson,0.0,6
+Ill Do Anything,matt,0.0,6
+Ill Do Anything,burke,0.0,6
+Ill Do Anything,jeannie,1.0,9
+Ill Do Anything,cathy,1.0,6
+Spanglish (film),john,0.0,6
+Spanglish (film),deborah,1.0,6
+Spanglish (film),flor,1.0,9
+The Book of Eli,eli,0.0,25
+The Book of Eli,solara,1.0,25
+The Book of Eli,carnegie,0.0,3
+Whiteout (2009 film),carrie,1.0,25
+Whiteout (2009 film),pryce,0.0,10
+Drag Me to Hell,stephanie,1.0,25
+Drag Me to Hell,ray,0.0,8
+Tin Cup,tin cup,1.0,2
+Tin Cup,molly,1.0,2
+Tin Cup,romeo,0.0,2
+The Empire Strikes Back,han,0.0,6
+The Empire Strikes Back,luke,0.0,6
+The Empire Strikes Back,leia,1.0,6
+The Empire Strikes Back,lando,1.0,6
+The Empire Strikes Back,vader,0.0,12
+THX 1138,thx,0.0,8
+THX 1138,sen,1.0,8
+THX 1138,luh,1.0,8
+THX 1138,close angle,0.0,25
+THX 1138,srt,1.0,8
+THX 1138,nin,1.0,3
+THX 1138,voice,1.0,3
+Taking Lives (film),grace,1.0,11
+Taking Lives (film),costa,0.0,6
+Gladiator (2000 film),maximus,0.0,22
+Gladiator (2000 film),commodus,1.0,22
+Gladiator (2000 film),lucilla,1.0,22
+Gladiator (2000 film),proximo,0.0,22
+Oceans Twelve,danny,1.0,8
+Oceans Twelve,rusty,0.0,6
+Oceans Twelve,isabel,0.0,8
+Oceans Twelve,tess,1.0,6
+Oceans Twelve,saul,0.0,6
+Oceans Twelve,linus,0.0,6
+Mean Streets,charlie,1.0,8
+Mean Streets,johnny boy,0.0,9
+Being John Malkovich,craig,0.0,8
+Being John Malkovich,lotte,1.0,8
+Being John Malkovich,maxine,1.0,8
+Being John Malkovich,lester,0.0,8
+Being John Malkovich,malkovich,0.0,5
+Halloween 4: The Return of Michael Myers,rachel,1.0,6
+Halloween 4: The Return of Michael Myers,loomis,0.0,20
+Halloween 4: The Return of Michael Myers,meeker,0.0,25
+Halloween 4: The Return of Michael Myers,jamie,1.0,6
+Halloween 4: The Return of Michael Myers,brady,0.0,9
+Serenity (film),mal,0.0,25
+Serenity (film),the operative,0.0,25
+Shine (film),parkes,0.0,3
+Shine (film),katherine,1.0,8
+Shine (film),suzie,1.0,8
+Back to the Future,marty,0.0,8
+Back to the Future,prof. brown,0.0,6
+I Am Sam,sam,0.0,9
+I Am Sam,rita,0.0,6
+I Am Sam,lucy,1.0,9
+Gandhi (film),gandhi,1.0,8
+The Leopard Man,jerry,0.0,9
+The Leopard Man,kiki,1.0,9
+The Leopard Man,galbraith,0.0,9
+The Transformers: The Movie,hot rod,0.0,12
+The Transformers: The Movie,kup,1.0,6
+The Transformers: The Movie,daniel,0.0,12
+The Transformers: The Movie,ultra magnus,0.0,12
+The Transformers: The Movie,galvatron,0.0,25
+The Transformers: The Movie,megatron,0.0,25
+The Transformers: The Movie,springer,0.0,6
+The Transformers: The Movie,grimlock,0.0,25
+The Long Kiss Goodnight,charly,1.0,25
+The Long Kiss Goodnight,samantha,1.0,25
+The Long Kiss Goodnight,timothy,0.0,25
+The Last Temptation of Christ (film),jesus,0.0,22
+Saw (film),lawrence,0.0,18
+Saw (film),adam,0.0,8
+Army of Darkness,ash,0.0,25
+El Mariachi,domino,1.0,8
+El Mariachi,mariachi,0.0,8
+El Mariachi,azul,0.0,8
+El Mariachi,mean dude #5,0.0,8
+El Mariachi,moco,1.0,8
+Legion (2010 film),bob,0.0,25
+Legion (2010 film),charlie,1.0,25
+Legion (2010 film),jeep,0.0,25
+Legion (2010 film),kyle,0.0,25
+Legion (2010 film),michael,0.0,25
+Legion (2010 film),audrey,1.0,25
+Legion (2010 film),percy,0.0,25
+Legion (2010 film),sandra,1.0,25
+No Country for Old Men (film),moss,0.0,25
+No Country for Old Men (film),bell,1.0,9
+No Country for Old Men (film),chigurh,0.0,19
+No Country for Old Men (film),carla jean,1.0,2
+No Country for Old Men (film),wells,1.0,9
+No Country for Old Men (film),wendell,1.0,2
+Cars 2,mater,1.0,6
+Cars 2,mcqueen,1.0,6
+Cars 2,finn,0.0,10
+Cars 2,holley,0.0,10
+Thunderheart,ray,0.0,21
+Thunderheart,cooch,1.0,21
+Thunderheart,crow horse,0.0,21
+Casino (film),ace,1.0,6
+Casino (film),nicky,0.0,23
+Casino (film),ginger,1.0,6
+Alien (film),standard,0.0,10
+Alien (film),roby,0.0,10
+Alien (film),hunter,0.0,10
+Arcade (film),alex,1.0,6
+Arcade (film),nick,0.0,6
+Bridesmaids (2011 film),annie,1.0,6
+Birthday Girl,john,0.0,8
+Birthday Girl,nadia,1.0,8
+Birthday Girl,yuri,1.0,8
+Up in the Air (2009 film),ryan,0.0,6
+Up in the Air (2009 film),natalie,1.0,6
+The Informant!,whitacre,0.0,6
+The Informant!,shepard,0.0,6
+Natural Born Killers,mickey,1.0,25
+Natural Born Killers,wayne,0.0,6
+Natural Born Killers,mcclusky,0.0,6
+Natural Born Killers,mallory,0.0,25
+A Nightmare on Elm Street 3: Dream Warriors,nancy,1.0,25
+A Nightmare on Elm Street 3: Dream Warriors,neil,0.0,25
+A Nightmare on Elm Street 3: Dream Warriors,kristen,1.0,25
+Killing Zoe,eric,0.0,8
+Killing Zoe,zed,0.0,6
+Gamer (film),kable,0.0,25
+Gamer (film),simon,0.0,25
+Donnie Darko,donnie,0.0,6
+Donnie Darko,dr. thurman,1.0,3
+The Adventures of Buckaroo Banzai Across the 8th Dimension,buckaroo banzai,1.0,6
+The Adventures of Buckaroo Banzai Across the 8th Dimension,perfect tommy,1.0,3
+The Adventures of Buckaroo Banzai Across the 8th Dimension,penny priddy,1.0,6
+Westworld,scientist,0.0,3
+Westworld,peter,0.0,6
+Westworld,john,0.0,6
+Fatal Instinct,ned,0.0,8
+Fatal Instinct,lola,1.0,25
+Fatal Instinct,lana,1.0,8
+The Master (2012 film),freddie,0.0,6
+The Master (2012 film),master,0.0,3
+Red Planet (film),gallagher,0.0,6
+Red Planet (film),bowman,0.0,10
+Red Planet (film),burchenal,1.0,25
+Cube (film),quentin,1.0,6
+Cube (film),leaven,1.0,6
+Cube (film),worth,1.0,6
+Cube (film),holloway,1.0,6
+Peggy Sue Got Married,peggy,1.0,5
+Peggy Sue Got Married,charlie,1.0,6
+Youve Got Mail,kathleen,1.0,8
+Youve Got Mail,joe,0.0,5
+The Fisher King,jack,0.0,8
+The Fisher King,parry,0.0,8
+The Fisher King,anne,1.0,8
+Man Trouble,joan,1.0,8
+Man Trouble,harry,0.0,6
+The Back-up Plan,zoe,1.0,6
+The Back-up Plan,stan,0.0,6
+Jaws (film),brody,0.0,9
+Jaws (film),hooper,0.0,10
+Hall Pass,rick,0.0,6
+Hall Pass,fred,0.0,6
+The Insider (film),lowell,0.0,6
+The Insider (film),wigand,0.0,6
+Twins (1988 film),vince,0.0,6
+Twins (1988 film),julius,0.0,9
+Raging Bull,jake,0.0,2
+Raging Bull,joey,0.0,6
+Raging Bull,vickie,1.0,6
+Moonstruck,loretta,1.0,9
+Moonstruck,ronny,0.0,9
+Moonstruck,rose,1.0,8
+Moonstruck,mr. johnny,0.0,9
+Jurassic Park (film),grant,0.0,6
+Jurassic Park (film),ellie,1.0,6
+Jurassic Park (film),hammond,0.0,3
+Jurassic Park (film),malcolm,0.0,6
+Jurassic Park (film),tim,0.0,6
+Jurassic Park (film),lex,0.0,6
+The Blind Side (film),leigh anne,1.0,8
+The Blind Side (film),michael,0.0,8
+The Blind Side (film),sean,0.0,6
+Machine Gun Preacher,sam,0.0,25
+Isle of the Dead (film),general,0.0,22
+Isle of the Dead (film),oliver,0.0,9
+Isle of the Dead (film),cathy,1.0,9
+Isle of the Dead (film),albrecht,1.0,9
+Isle of the Dead (film),thea,1.0,9
+Broadcast News (film),jane,1.0,8
+Broadcast News (film),tom,0.0,6
+Broadcast News (film),aaron,0.0,8
+A.I. Artificial Intelligence,david,0.0,9
+A.I. Artificial Intelligence,monica,1.0,25
+A.I. Artificial Intelligence,henry,0.0,9
+A.I. Artificial Intelligence,joe,0.0,9
+Diner (film),boogie,0.0,6
+Diner (film),eddie,1.0,8
+Diner (film),billy,0.0,8
+Diner (film),beth,1.0,6
+Sugar & Spice,diane,1.0,6
+Sugar & Spice,kansas,1.0,6
+Sugar & Spice,lisa,1.0,1
+Sugar & Spice,jack,0.0,8
+Fargo (film),marge,1.0,6
+Fargo (film),jerry,0.0,2
+Fargo (film),carl,0.0,6
+Clue (film),wadsworth,0.0,18
+Clue (film),mustard,1.0,8
+Clue (film),scarlet,1.0,8
+Clue (film),green,1.0,18
+Honeydripper (film),ty,0.0,2
+Honeydripper (film),maceo,0.0,2
+Honeydripper (film),sonny,0.0,2
+Cold Mountain (film),ada,1.0,9
+Cold Mountain (film),inman,0.0,9
+Cold Mountain (film),ruby,1.0,21
+Cold Mountain (film),teague,0.0,21
+Sphere (film),norman,0.0,6
+Sphere (film),beth,1.0,6
+Sphere (film),barnes,0.0,6
+Sphere (film),harry,0.0,6
+Sphere (film),ted,0.0,6
+Superman (1978 film),lois,1.0,8
+Superman (1978 film),luthor,0.0,3
+Superman (1978 film),superman,0.0,8
+Superman (1978 film),clark,0.0,8
+Superman (1978 film),eve,1.0,25
+While She Was Out,chuckie,1.0,25
+While She Was Out,della,1.0,25
+Stigmata (film),kiernan,0.0,25
+Stigmata (film),frankie,0.0,25
+Stigmata (film),cardinal houseman,0.0,22
+Game 6,nicky,0.0,8
+Back to the Future Part III,marty,0.0,6
+Back to the Future Part III,doc,0.0,3
+Back to the Future Part III,scene,0.0,21
+Pretty Woman,vivian,0.0,8
+Pretty Woman,edward,0.0,8
+Little Nicky,nicky,0.0,25
+Little Nicky,adrian,0.0,6
+Sherlock Holmes (2009 film),holmes,0.0,25
+Sherlock Holmes (2009 film),watson,0.0,25
+Return of the Jedi,han,0.0,12
+Return of the Jedi,luke,0.0,12
+Return of the Jedi,leia,1.0,12
+Return of the Jedi,vader,0.0,12
+Return of the Jedi,lando,1.0,12
+Return of the Jedi,emperor,1.0,12
+The African Queen (film),allnut,1.0,9
+The African Queen (film),rose,1.0,9
+Demolition Man (film),spartan,0.0,25
+Demolition Man (film),huxley,0.0,3
+Demolition Man (film),phoenix,1.0,25
+Youth in Revolt (film),nick,0.0,25
+Jennifers Body,needy,0.0,25
+Jennifers Body,jennifer,1.0,25
+Jennifers Body,chip,1.0,25
+Kundun,tenzin gyatso,1.0,20
+Schindlers List,schindler,0.0,8
+The Taking of Pelham One Two Three (1974 film),blue,1.0,8
+The Taking of Pelham One Two Three (1974 film),prescott,0.0,17
+The Taking of Pelham One Two Three (1974 film),radio,0.0,6
+The Taking of Pelham One Two Three (1974 film),green,1.0,6
+U Turn (1997 film),bobby,0.0,6
+U Turn (1997 film),grace,1.0,6
+Judge Dredd (film),dredd,0.0,25
+Judge Dredd (film),hershey,1.0,6
+Judge Dredd (film),rico,1.0,3
+Judge Dredd (film),fergie,1.0,25
+Judge Dredd (film),griffin,1.0,3
+Crash (1996 film),james,0.0,19
+Crash (1996 film),catherine,1.0,19
+Crash (1996 film),vaughan,0.0,19
+Crash (1996 film),helen,1.0,19
+Angel Eyes (film),sharon,1.0,6
+Angel Eyes (film),catch,1.0,6
+When Harry Met Sally...,harry,0.0,6
+When Harry Met Sally...,sally,1.0,9
+Kill Bill Volume 2,the bride,1.0,3
+Kill Bill Volume 2,bill,0.0,9
+Broken Arrow (1996 film),hale,0.0,10
+Broken Arrow (1996 film),deakins,1.0,10
+Broken Arrow (1996 film),terry,0.0,10
+The Faculty,casey,0.0,6
+The Faculty,zeke,0.0,3
+The Faculty,stan,0.0,6
+The Faculty,stokely,0.0,23
+The Faculty,delilah,1.0,5
+The Faculty,mary-beth,1.0,6
+The Faculty,drake,1.0,6
+Date Night,phil,0.0,6
+Date Night,clara,1.0,6
+How to Train Your Dragon (film),hiccup,1.0,13
+How to Train Your Dragon (film),stoick,1.0,25
+500 Days of Summer,tom,0.0,6
+500 Days of Summer,summer,1.0,6
+Jurassic Park III,grant,0.0,25
+Jurassic Park III,paul,0.0,25
+Jurassic Park III,amanda,0.0,25
+Jurassic Park III,billy,0.0,25
+Jurassic Park III,eric,0.0,25
+Autumn in New York (film),wills,0.0,8
+Autumn in New York (film),charlotte,1.0,8
+The Dark Knight (film),dent,0.0,8
+The Dark Knight (film),gordon,0.0,25
+The Dark Knight (film),the joker,0.0,25
+The Dark Knight (film),wayne,0.0,8
+The Dark Knight (film),batman,0.0,25
+The Dark Knight (film),rachel,1.0,8
+The Dark Knight (film),fox,1.0,8
+The Dark Knight (film),alfred,0.0,8
+Serial Mom,mom,1.0,8
+Serial Mom,chip,1.0,6
+Serial Mom,dad,0.0,9
+The Haunting (1999 film),nell,1.0,25
+The Haunting (1999 film),marrow,1.0,25
+The Haunting (1999 film),theo,1.0,25
+The Haunting (1999 film),luke,0.0,25
+The Wild One,johnny,0.0,8
+The Wild One,kathie,1.0,8
+The Wild One,medium shot,1.0,8
+The Wild One,another angle,0.0,8
+The Wild One,harry,0.0,9
+The Wild One,chino,0.0,8
+The Wild One,singer,1.0,9
+The Shawshank Redemption,red,1.0,25
+The Shawshank Redemption,andy,1.0,3
+"Lock, Stock and Two Smoking Barrels",eddy,0.0,17
+"Lock, Stock and Two Smoking Barrels",tom,0.0,17
+"Lock, Stock and Two Smoking Barrels",dog,0.0,23
+"Lock, Stock and Two Smoking Barrels",hatchet,0.0,9
+"Lock, Stock and Two Smoking Barrels",soap,1.0,9
+"Lock, Stock and Two Smoking Barrels",bacon,1.0,6
+"Lock, Stock and Two Smoking Barrels",big chris,0.0,9
+"Lock, Stock and Two Smoking Barrels",winston,0.0,9
+"Lock, Stock and Two Smoking Barrels",plank,1.0,25
+American Pie (film),kevin,0.0,6
+American Pie (film),jim,0.0,6
+American Pie (film),oz,1.0,6
+American Pie (film),vicky,1.0,6
+Angels & Demons (film),langdon,0.0,25
+Angels & Demons (film),vittoria,1.0,25
+Angels & Demons (film),camerlengo,1.0,25
+Angels & Demons (film),rocher,1.0,3
+Austin Powers: The Spy Who Shagged Me,austin,1.0,16
+Austin Powers: The Spy Who Shagged Me,dr. evil,0.0,16
+Austin Powers: The Spy Who Shagged Me,felicity,1.0,5
+Jaws 3-D,mike,0.0,6
+Jaws 3-D,kathryn,1.0,6
+Jaws 3-D,philip,0.0,9
+Sounder (film),david lee,0.0,2
+Sounder (film),nathan lee,0.0,2
+Sounder (film),rebecca,1.0,9
+Sounder (film),camille,1.0,9
+State and Main,joe,0.0,8
+State and Main,walt,1.0,6
+State and Main,ann,1.0,8
+State and Main,marty,0.0,6
+State and Main,doug,0.0,17
+Lost in Space (film),west,0.0,6
+Lost in Space (film),john,0.0,12
+Lost in Space (film),smith,0.0,3
+Lost in Space (film),will,0.0,3
+Lost in Space (film),maureen,1.0,3
+Lost in Space (film),penny,1.0,6
+Phantasm (film),mike,0.0,6
+Phantasm (film),jody,1.0,6
+Phantasm (film),reggie,1.0,6
+Six Degrees of Separation (film),flan,1.0,8
+Six Degrees of Separation (film),paul,0.0,9
+Commando (film),matrix,0.0,25
+Commando (film),a85,1.0,25
+Commando (film),cindy,1.0,19
+Scream (1996 film),sidney,1.0,6
+Scream (1996 film),billy,0.0,6
+Scream (1996 film),tatum,0.0,6
+Scream (1996 film),man,0.0,6
+Scream (1996 film),stu,0.0,6
+Scream (1996 film),dewey,0.0,6
+Scream (1996 film),casey,0.0,6
+Scream (1996 film),gale,0.0,6
+Scream (1996 film),randy,0.0,3
+The Morgue,randy,0.0,6
+The Morgue,titus,0.0,6
+The Morgue,pierre,0.0,25
+The Morgue,lloyd,1.0,25
+The Morgue,stamp,1.0,6
+Scream 2,sidney,1.0,25
+Scream 2,gale,0.0,6
+Scream 2,dewey,0.0,8
+Scream 2,derek,0.0,6
+Scream 2,hallie,1.0,8
+Scream 2,cici,1.0,6
+Scream 2,mickey,1.0,25
+Scream 2,man's voice,0.0,6
+Collateral Damage (film),gordy,1.0,25
+Henry Fool,henry,0.0,8
+Henry Fool,simon,0.0,8
+Henry Fool,fay,0.0,8
+Scary Movie 2,cindy,1.0,6
+Scary Movie 2,dwight,0.0,6
+Scary Movie 2,buddy,0.0,6
+Scary Movie 2,professor,0.0,6
+Silver Bullet (film),marty,0.0,6
+Silver Bullet (film),uncle al,0.0,9
+Silver Bullet (film),jane,1.0,9
+Godzilla (1998 film),nick,0.0,10
+Godzilla (1998 film),audrey,1.0,8
+Godzilla (1998 film),raymond,0.0,10
+Godzilla (1998 film),major hicks,0.0,10
+Godzilla (1998 film),animal,1.0,10
+Final Destination (film),alex,1.0,6
+Final Destination (film),clear,1.0,6
+"The Adventures of Priscilla, Queen of the Desert",bernadette,1.0,6
+"The Adventures of Priscilla, Queen of the Desert",tick,0.0,9
+"The Adventures of Priscilla, Queen of the Desert",bob,0.0,6
+"The Adventures of Priscilla, Queen of the Desert",adam,0.0,9
+"The Adventures of Priscilla, Queen of the Desert",felicia,1.0,9
+Dracula (1979 film),lucy,1.0,9
+Dracula (1979 film),harker,0.0,22
+Dracula (1979 film),dracula,0.0,22
+Dracula (1979 film),seward,0.0,22
+Dracula (1979 film),helsing,0.0,22
+Fear and Loathing in Las Vegas (film),duke,1.0,3
+Fear and Loathing in Las Vegas (film),gonzo,0.0,23
+Hero (1992 film),bernie,1.0,6
+Hero (1992 film),gale,0.0,17
+Hero (1992 film),bubber,0.0,6
+The Stone Tape,brock,0.0,18
+The Stone Tape,jill,1.0,18
+The Stone Tape,collinson,0.0,18
+The Departed,colin,0.0,11
+The Departed,billy,0.0,11
+The Departed,costello,0.0,23
+The Woodsman,walter,0.0,8
+The Woodsman,vicki,1.0,8
+The Thing (1982 film),macready,0.0,25
+The Thing (1982 film),childs,1.0,25
+The Thing (1982 film),garry,0.0,10
+Hotel Rwanda,paul,0.0,20
+Dark City (1998 film),bumstead,1.0,8
+Dark City (1998 film),walker,0.0,25
+Dark City (1998 film),schreber,0.0,25
+Amelia (film),amelia,1.0,8
+Amelia (film),george,0.0,9
+Affliction (film),wade,0.0,6
+Conan the Barbarian (2011 film),conan,0.0,25
+Conan the Barbarian (2011 film),tamara,1.0,25
+Its a Wonderful Life,george,0.0,9
+Beginners,oliver,0.0,8
+Beginners,hal,0.0,8
+Beginners,anna,1.0,8
+Tremors (film),val,1.0,25
+Tremors (film),earl,0.0,25
+Tremors (film),rhonda,0.0,25
+Indiana Jones and the Temple of Doom,indiana,0.0,13
+Indiana Jones and the Temple of Doom,willie,0.0,13
+All the Kings Men (1949 film),willie,0.0,9
+All the Kings Men (1949 film),jack,0.0,9
+Star Trek V: The Final Frontier,kirk,0.0,12
+Star Trek V: The Final Frontier,spock,0.0,12
+The Piano,stewart,0.0,9
+The Piano,baines,1.0,9
+The Piano,flora,1.0,9
+The Piano,aunt morag,1.0,9
+Star Trek (film),kirk,0.0,12
+Star Trek (film),spock,0.0,3
+Star Trek (film),spock prime,0.0,3
+Two for the Money (film),brandon,0.0,17
+Two for the Money (film),walter,0.0,17
+Two for the Money (film),toni,1.0,6
+Terminator Salvation,marcus,0.0,25
+Terminator Salvation,blair,0.0,25
+Batman Begins,wayne,0.0,25
+Batman Begins,rachel,1.0,25
+Batman Begins,alfred,0.0,25
+Batman Begins,batman,0.0,25
+Batman Begins,gordon,0.0,8
+The Crying Game,fergus,0.0,9
+The Crying Game,dil,1.0,9
+The Crying Game,jody,1.0,6
+Gremlins 2: The New Batch,billy,0.0,6
+Gremlins 2: The New Batch,clamp,0.0,17
+Gremlins 2: The New Batch,kate,1.0,8
+Tropic Thunder,speedman,1.0,15
+Tropic Thunder,sandusky,1.0,6
+Tropic Thunder,lazarus,0.0,15
+Tropic Thunder,portnoy,1.0,6
+Tropic Thunder,damien,0.0,6
+Tropic Thunder,four leaf,1.0,25
+The Man Who Knew Too Much (1956 film),ben,0.0,9
+The Man Who Knew Too Much (1956 film),jo,1.0,9
+Stalag 17,sefton,0.0,6
+Stalag 17,harry,0.0,24
+Stalag 17,schultz,0.0,24
+Stalag 17,price,1.0,6
+Stalag 17,duke,1.0,24
+Storytelling (film),toby,0.0,3
+Storytelling (film),scooby,0.0,6
+Storytelling (film),mikey,0.0,6
+Storytelling (film),marty,0.0,6
+Storytelling (film),vi,1.0,9
+Storytelling (film),fern,1.0,9
+Storytelling (film),consuelo,1.0,9
+Storytelling (film),mr scott,0.0,3
+Storytelling (film),pam,1.0,6
+The Messenger: The Story of Joan of Arc,jeanne,1.0,22
+Pineapple Express (film),dale,0.0,6
+Pineapple Express (film),saul,0.0,23
+War Horse (film),albert,0.0,25
+War Horse (film),grandfather,0.0,8
+War Horse (film),geordie,0.0,25
+War Horse (film),emilie,1.0,9
+War Horse (film),captain nicholls,0.0,24
+War Horse (film),dad,0.0,9
+War Horse (film),peter,0.0,25
+X-Men Origins: Wolverine,logan,0.0,25
+X-Men Origins: Wolverine,stryker,0.0,25
+X-Men Origins: Wolverine,kayla,1.0,25
+Big Trouble in Little China,jack burton,0.0,7
+Big Trouble in Little China,wang chi,1.0,7
+The Usual Suspects,verbal,0.0,11
+The Usual Suspects,keaton,1.0,6
+The Usual Suspects,hockney,0.0,23
+Escape from the Planet of the Apes,lewis,0.0,8
+Escape from the Planet of the Apes,zira,1.0,25
+Escape from the Planet of the Apes,colonel,0.0,8
+Escape from the Planet of the Apes,cornelius,0.0,25
+Escape from the Planet of the Apes,milo,0.0,3
+Capote (film),truman,0.0,8
+Capote (film),perry,0.0,8
+Good Will Hunting,will,0.0,6
+Good Will Hunting,sean,0.0,6
+Good Will Hunting,lambeau,0.0,3
+Good Will Hunting,chuckie,1.0,6
+Good Will Hunting,skylar,1.0,6
+Unbreakable (film),david,0.0,6
+Unbreakable (film),elijah,0.0,3
+Unbreakable (film),megan,1.0,6
+Sideways,miles,0.0,6
+Sideways,jack,0.0,6
+Yes Man (film),carl,0.0,6
+Starship Troopers (film),johnny,0.0,6
+Starship Troopers (film),carmen,1.0,6
+The Bourne Identity (2002 film),bourne,0.0,6
+The Bourne Identity (2002 film),marie,1.0,6
+The Bourne Identity (2002 film),conklin,0.0,6
+Blade: Trinity,king,0.0,25
+Blade: Trinity,blade,0.0,25
+Blade: Trinity,danica,1.0,25
+Blade: Trinity,abigail,1.0,25
+Blade: Trinity,drake,1.0,25
+Blade: Trinity,vance,0.0,3
+Machete (film),elektra,1.0,25
+Machete (film),machete,0.0,19
+Machete (film),benz,1.0,8
+Machete (film),luz,1.0,19
+Rambling Rose (film),daddy,1.0,9
+Rambling Rose (film),rose,1.0,9
+Rambling Rose (film),mother,1.0,9
+Rambling Rose (film),buddy,0.0,9
+Raising Arizona,hi,1.0,6
+Raising Arizona,ed,0.0,8
+Raising Arizona,voice over,0.0,25
+Raising Arizona,gale,0.0,25
+Raising Arizona,nathan,0.0,8
+Hellraiser III: Hell on Earth,joey,0.0,25
+Hellraiser III: Hell on Earth,terri,1.0,6
+Hellraiser III: Hell on Earth,jp,1.0,25
+Midnight Cowboy,joe,0.0,6
+Midnight Cowboy,ratso,0.0,23
+The Believer (film),danny,1.0,8
+Man on the Moon (film),andy,1.0,6
+Man on the Moon (film),george,0.0,6
+Cobb (film),cobb,0.0,8
+Cobb (film),stump,0.0,3
+The Blair Witch Project,heather,1.0,6
+The Blair Witch Project,mike,0.0,6
+The Blair Witch Project,josh,0.0,6
+Liar Liar,fletcher,0.0,9
+City of Joy (film),max,0.0,6
+City of Joy (film),joan,1.0,9
+Total Recall (1990 film),quaid,0.0,25
+The Big Lebowski,dude,0.0,23
+The Big Lebowski,walter,0.0,23
+Hostage (film),talley,1.0,6
+Hostage (film),dennis,0.0,6
+Gangs of New York,amsterdam,1.0,8
+Gangs of New York,jenny,1.0,25
+Gangs of New York,bill the butcher,0.0,20
+Gangs of New York,johnny,0.0,25
+The Day the Earth Stood Still,klaatu,0.0,3
+The Day the Earth Stood Still,helen,1.0,9
+The Day the Earth Stood Still,bobby,0.0,8
+Bruce Almighty,bruce,0.0,6
+Bruce Almighty,grace,1.0,6
+The Prophecy,daggett,0.0,25
+The Prophecy,katherine,1.0,25
+The Prophecy,gabriel,0.0,25
+Citizen Kane,kane,0.0,9
+Citizen Kane,leland,0.0,9
+Citizen Kane,susan,1.0,9
+Citizen Kane,bernstein,0.0,9
+Nightbreed,lori,1.0,25
+Nightbreed,boone,0.0,25
+Nightbreed,decker,1.0,25
+Nightbreed,narcisse,1.0,25
+Nightbreed,joyce,1.0,25
+The Ploughmans Lunch,james,0.0,8
+The Ploughmans Lunch,susan,1.0,8
+The Ploughmans Lunch,jeremy,0.0,17
+Toy Story,woody,0.0,6
+Toy Story,buzz,0.0,12
+Kramer vs. Kramer,ted,0.0,6
+Kramer vs. Kramer,billy,0.0,8
+Shivers (film),st. luc,0.0,8
+Shivers (film),rollo,0.0,25
+Shivers (film),tudor,1.0,25
+Shivers (film),janine,1.0,25
+Shivers (film),forsythe,0.0,8
+One Flew Over the Cuckoos Nest (film),mcmurphy,1.0,2
+One Flew Over the Cuckoos Nest (film),big nurse,1.0,9
+Shes Out of My League,kirk,0.0,6
+Shes Out of My League,stainer,0.0,23
+Shes Out of My League,molly,1.0,6
+Bull Durham,annie,1.0,6
+Bull Durham,crash,0.0,6
+Bull Durham,nuke,1.0,6
+Arthur (2011 film),arthur,0.0,5
+Arthur (2011 film),naomi,1.0,5
+The French Connection (film),doyle,1.0,6
+The French Connection (film),russo,0.0,6
+Burn After Reading,linda,1.0,6
+Burn After Reading,harry,0.0,19
+Burn After Reading,osbourne,0.0,8
+Burn After Reading,chad,0.0,6
+Burn After Reading,katie,1.0,18
+Mr. Brooks,mr. brooks,1.0,9
+Mr. Brooks,detective atwood,0.0,6
+Mr. Brooks,mr. smith,0.0,6
+Mr. Brooks,marshall,0.0,9
+Blade Runner,deckard,0.0,8
+Blade Runner,batty,0.0,25
+Blade Runner,rachael,1.0,8
+Blade Runner,sebastian,0.0,8
+Alien Nation (film),sykes,0.0,6
+Alien Nation (film),jetson,0.0,3
+Come See the Paradise,lily,1.0,9
+Come See the Paradise,jack,0.0,6
+Come See the Paradise,charlie,1.0,9
+Melvin and Howard,melvin,1.0,9
+Melvin and Howard,lynda,1.0,9
+Wind Chill (film),girl,1.0,25
+Wind Chill (film),guy,0.0,19
+The Apartment,bud,1.0,9
+The Apartment,fran,1.0,9
+The Apartment,sheldrake,0.0,9
+Dogma (film),bethany,1.0,6
+Dogma (film),jay,0.0,23
+Dogma (film),rufus,0.0,9
+Dogma (film),bartleby,0.0,3
+Dogma (film),loki,0.0,6
+Dogma (film),serendipity,1.0,15
+Croupier (film),jack,0.0,8
+Croupier (film),jack's voice,1.0,8
+Whos Your Daddy (film),ted,0.0,5
+Bad Day at Black Rock,smith,0.0,9
+Bad Day at Black Rock,doc,0.0,8
+The Ides of March (film),stephen,0.0,6
+The Ides of March (film),gov. morris,0.0,17
+The Ides of March (film),molly,1.0,6
+Barry Lyndon,roderick,0.0,22
+The Matrix,neo,0.0,25
+The Matrix,morpheus,0.0,25
+The Matrix,trinity,0.0,25
+The Matrix,agent smith,0.0,25
+The Matrix,tank,0.0,25
+The Matrix,cypher,1.0,25
+"I, Robot (film)",spooner,0.0,25
+"I, Robot (film)",calvin,1.0,3
+Father of the Bride (1991 film),george,0.0,6
+Father of the Bride (1991 film),nina,1.0,6
+Father of the Bride (1991 film),annie,1.0,6
+The Age of Innocence (1993 film),archer,0.0,8
+The Age of Innocence (1993 film),ellen,1.0,22
+The Beach (film),richard,0.0,25
+Kung Fu Panda,po,0.0,13
+Kung Fu Panda,shifu,0.0,13
+Warrior (2011 film),brendan,0.0,6
+Warrior (2011 film),paddy,1.0,6
+Warrior (2011 film),callen,1.0,15
+Warrior (2011 film),tommy,0.0,6
+Warrior (2011 film),frank,0.0,6
+Warrior (2011 film),sheridan,0.0,15
+Intolerable Cruelty,miles,0.0,8
+Intolerable Cruelty,marylin,1.0,9
+Lost in Translation (film),bob,0.0,8
+Lost in Translation (film),charlotte,1.0,5
+The Things My Father Never Taught Me,melvin,1.0,8
+Code of Silence (film),eddie,1.0,8
+The Nightmare Before Christmas,jack,0.0,14
+The Nightmare Before Christmas,sally,1.0,5
+The Nightmare Before Christmas,mayor,0.0,9
+The Patriot (2000 film),marion,1.0,9
+The Patriot (2000 film),gabriel,0.0,20
+Pi (film),max,0.0,25
+The Three Musketeers (1993 film),athos,0.0,22
+The Three Musketeers (1993 film),porthos,0.0,22
+The Three Musketeers (1993 film),richelieu,1.0,22
+The Three Musketeers (1993 film),aramis,1.0,22
+The Three Musketeers (1993 film),milady,1.0,25

@@ -49,7 +49,7 @@ class ScreenplayModel(object):
     # INITIALIZING
     # =====================================================
     def load_init(self, film):
-        sb_path = '/data/scriptbase/scriptbase_alpha/'
+        sb_path = '/../data/scriptbase/scriptbase_alpha/'
         tf = tarfile.open(os.getcwd() + sb_path + film, mode='r')
         
         try: 
@@ -271,15 +271,14 @@ class ScreenplayModel(object):
         
         return main_intxns, all_intxns
  
-    def remove_char_names(self, upper_names, text_to_clean):
+    def remove_char_names(self, text_to_clean):
         ''' Removes all character names from text_to_clean.
 
-            upper_names: list of entire cast's names in upper case.
             text_to_clean: a list of strings (e.g., lines, directions).
-
             returns: a single string of text_to_clean with names removed. '''
 
         result = []
+        upper_names = [name.upper() for name in self.characters.keys()]
         for l in text_to_clean:
             new_line = re.sub(r'[.,?!]', '', l)
             lines = new_line.split()
