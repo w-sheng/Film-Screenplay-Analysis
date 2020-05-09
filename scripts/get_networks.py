@@ -64,7 +64,6 @@ if __name__ == '__main__':
 		if (filename != '.DS_Store'):
 			m = load_model(filename)
 			film = filename.replace('.tar.gz','')
-			print(film)
 
 			if (m != None): # film is parsable
 				all_dc = list(nx.degree_centrality(m.G).values())
@@ -81,7 +80,7 @@ if __name__ == '__main__':
 					dc_norm = (dc - mu_dc) / std_dc
 					bc = nx.betweenness_centrality(m.G)[mc]
 					bc_norm = (bc - mu_bc) / std_bc
-					cent_rows.append([film, mc, dc, bc])
+					cent_rows.append([film, mc, dc_norm, bc_norm])
 
 	# save data
 	cent_df = pd.DataFrame(cent_rows, columns=['film','main_char','degree','betweenness'])

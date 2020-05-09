@@ -6,6 +6,7 @@ import tarfile
 import sys
 
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import networkx as nx
 import numpy as np
 import pandas as pd
@@ -102,131 +103,21 @@ class ScreenplayModel(object):
         self.update_main_to_all()
         self.update_main_to_main()
     
-      
-
-
-
-    # =====================================================
-    # GRAPH METHODS
-    # =====================================================       
-    def construct_graph(self):
-        ''' Constructs film's social network graph. '''
-
-        # add nodes
-        graph_dict = {k: self.characters[k] for k in self.characters.keys() 
-            if self.characters[k] > 1}
-
-        self.graph_chars = graph_dict.keys()
-        self.graph_chars_size = list(graph_dict.values())
-        self.G.add_nodes_from(self.graph_chars)
-        
-        # add edges
-        edges = []
-        for i in self.interactions.items():
-            chars = list(i[0])
-            weight = i[1]
-            if (chars[0] in self.graph_chars and chars[1] in self.graph_chars):
-                e = (chars[0], chars[1], weight)
-                edges.append(e)
-        self.G.add_weighted_edges_from(edges)
-
-    def draw_graph(self, df):
-        plt.figure(figsize=(15,12))
-        pos = nx.nx_agraph.graphviz_layout(self.G)
-        sizes_scaled = [60 * s for s in self.graph_chars_size]
-        edge_weights = [d['weight'] / 4 for (_,_,d) in self.G.edges(data=True)]
-
-        main_list = self.main_chars.keys()
-        node_colors = []
-        for c in self.graph_chars:
-            if c in main_list:
-                g = self.get_gender(df, c)
-                if (g == 1.0):
-                    node_colors.append('pink')
-                elif (g == 0.0):
-                    node_colors.append('skyblue')
-                else:
-                    node_colors.append('purple')
-            else:
-                node_colors.append('gray')
-
-        nx.draw(self.G, pos=pos, with_labels=True, nodelist=self.graph_chars, 
-            node_color=node_colors, node_size=sizes_scaled) 
-        nx.draw_networkx_edges(self.G, pos=pos, width=edge_weights)
-
-        plt.title('Social Network of ' + self.title, fontsize=36)
-        plt.savefig(self.title + '.png')
-        plt.show() 
-
-    def construct_char_graph(self, c):
-        char_G = nx.Graph()
-        
-        # add nodes
-        graph_dict = {k: self.characters[k] for k in self.main_to_all[c].keys() 
-            if self.characters[k] > 1}
-        graph_dict[c] = self.characters[c]
-
-        graph_chars = graph_dict.keys()
-        graph_chars_size = list(graph_dict.values())
-        char_G.add_nodes_from(graph_chars)
-        
-        # add edges
-        edges = []
-        for i in self.main_to_all[c].items():
-            char = i[0]
-            weight = i[1]
-            if (char in graph_chars):
-                e = (c, char, weight)
-                edges.append(e)
-        char_G.add_weighted_edges_from(edges)
-        
-        return char_G, graph_chars, graph_chars_size
-
-    def draw_char_graph(self, c, df):
-        plt.figure(figsize=(20,18))
-        char_G, graph_chars, graph_chars_size = self.construct_char_graph(c)
-        pos = nx.nx_agraph.graphviz_layout(char_G)
-        sizes_scaled = [60 * s for s in graph_chars_size]
-        edge_weights = [d['weight'] / 4 for (_,_,d) in char_G.edges(data=True)]
-
-        main_list = list(self.main_to_main[c].keys())
-        main_list.append(c)
-        node_colors = []
-        for c in graph_chars:
-            if c in main_list:
-                g = self.get_gender(df, c)
-                if (g == 1.0):
-                    node_colors.append('pink')
-                elif (g == 0.0):
-                    node_colors.append('skyblue')
-                else:
-                    node_colors.append('purple')
-            else:
-                node_colors.append('gray')
-
-        nx.draw(char_G, pos=pos, with_labels=False, nodelist=graph_chars, 
-            node_color=node_colors, node_size=sizes_scaled) 
-        nx.draw_networkx_labels(char_G, pos=pos, font_size=24)
-        nx.draw_networkx_edges(char_G, pos=pos, width=edge_weights)
-        
-        female = mpatches.Patch(color='pink', label='female')
-        male = mpatches.Patch(color='skyblue', label='male')
-        minor = mpatches.Patch(color='gray', label='minor')
-        plt.legend(handles=[female, male, minor], prop={'size': 24})
-        
-        plt.title('Social Network of ' + c + ' in ' + self.title, fontsize=36)
-        plt.savefig(self.title + ' - ' + c + '.png')
-        plt.show() 
-
 
 
 
     # =====================================================
     # CHARACTER METHODS
-    # =====================================================
+    # ===================================================== 
+    def get_gender(self, df, c):
+        g = df[(df['film'] == self.title) & (df['main_char'] == c)]['gender']
+        if (len(g.tolist()) > 0):
+            return g.tolist()[0]
+        else:
+            return -1
+
     def get_protag(self):
         ''' Returns a the name of the protagonist name. '''
-
         (protag,_) = list(self.main_chars.items())[0]
         return protag
 
@@ -237,14 +128,9 @@ class ScreenplayModel(object):
         plt.title('Distribution of Character Lines in ' + self.title)
         plt.xlabel('Characters')
         plt.ylabel('Number of Lines')
-        plt.show()
-    
-    # def get_gender(self, df, c):
-    #     g = df[(df['film'] == self.title) & (df['main_char'] == c)]['gender']
-    #     if (len(g.tolist()) > 0):
-    #         return g.tolist()[0]
-    #     else:
-    #         return -1
+        plt.savefig(self.title + '_distr.png')
+        # plt.show()
+        return
 
     def get_char_lines_ratio(self, c):
         ''' Given a main character c, returns the ratio of lines c has
@@ -253,7 +139,6 @@ class ScreenplayModel(object):
         num_lines = self.main_chars[c]
         num_all_lines = sum(self.characters.values())
         lines_ratio = num_lines / num_all_lines
-        
         return lines_ratio
         
     def get_char_intxns(self, c):
@@ -288,6 +173,126 @@ class ScreenplayModel(object):
             result.append(new_line)
 
         return " ".join(str(s).strip() for s in result)
+
+
+
+
+    # =====================================================
+    # GRAPH METHODS
+    # =====================================================       
+    def construct_graph(self):
+        ''' Constructs film's social network graph. '''
+
+        # add nodes
+        graph_dict = {k: self.characters[k] for k in self.characters.keys() 
+            if self.characters[k] > 1}
+
+        self.graph_chars = graph_dict.keys()
+        self.graph_chars_size = list(graph_dict.values())
+        self.G.add_nodes_from(self.graph_chars)
+        
+        # add edges
+        edges = []
+        for i in self.interactions.items():
+            chars = list(i[0])
+            weight = i[1]
+            if (chars[0] in self.graph_chars and chars[1] in self.graph_chars):
+                e = (chars[0], chars[1], weight)
+                edges.append(e)
+        self.G.add_weighted_edges_from(edges)
+
+    def draw_graph(self, df):
+        plt.figure(figsize=(22,18))
+        pos = nx.nx_agraph.graphviz_layout(self.G)
+        sizes_scaled = [60 * s for s in self.graph_chars_size]
+        edge_weights = [d['weight'] / 4 for (_,_,d) in self.G.edges(data=True)]
+
+        main_list = self.main_chars.keys()
+        node_colors = []
+        for c in self.graph_chars:
+            if c in main_list:
+                g = self.get_gender(df, c)
+                if (g == 1.0):
+                    node_colors.append('skyblue')
+                elif (g == 0.0):
+                    node_colors.append('slateblue')
+                else:
+                    node_colors.append('purple')
+            else:
+                node_colors.append('gray')
+
+        nx.draw(self.G, pos=pos, with_labels=False, nodelist=self.graph_chars, 
+            node_color=node_colors, node_size=sizes_scaled) 
+        nx.draw_networkx_labels(self.G, pos=pos, font_size=20)
+        nx.draw_networkx_edges(self.G, pos=pos, width=edge_weights)
+
+        female = mpatches.Patch(color='skyblue', label='female')
+        male = mpatches.Patch(color='slateblue', label='male')
+        minor = mpatches.Patch(color='gray', label='minor')
+        plt.legend(handles=[female, male, minor], prop={'size': 20})
+
+        plt.savefig(self.title + '.png')
+        # plt.show() 
+
+    def construct_char_graph(self, c):
+        char_G = nx.Graph()
+        
+        # add nodes
+        other_chars = list(self.main_to_all[c].keys())
+        graph_dict = {k: self.characters[k] for k in other_chars if self.characters[k] > 1}
+        graph_dict[c] = self.characters[c]
+
+        graph_chars = graph_dict.keys()
+        graph_chars_size = list(graph_dict.values())
+        char_G.add_nodes_from(graph_chars)
+        
+        # add edges
+        edges = []
+        for i in self.main_to_all[c].items():
+            char = i[0]
+            weight = i[1]
+            if (char in graph_chars):
+                e = (c, char, weight)
+                edges.append(e)
+        char_G.add_weighted_edges_from(edges)
+        
+        return char_G, graph_chars, graph_chars_size
+
+    def draw_char_graph(self, df, c):
+        plt.figure(figsize=(20,17))
+        char_G, graph_chars, graph_chars_size = self.construct_char_graph(c)
+        pos = nx.nx_agraph.graphviz_layout(char_G)
+        sizes_scaled = [60 * s for s in graph_chars_size]
+        edge_weights = [d['weight'] / 4 for (_,_,d) in char_G.edges(data=True)]
+
+        main_list = list(self.main_to_main[c].keys())
+        main_list.append(c)
+        node_colors = []
+        for c in graph_chars:
+            if c in main_list:
+                g = self.get_gender(df, c)
+                if (g == 1.0):
+                    node_colors.append('skyblue')
+                elif (g == 0.0):
+                    node_colors.append('slateblue')
+                else:
+                    node_colors.append('purple')
+            else:
+                node_colors.append('gray')
+
+        nx.draw(char_G, pos=pos, with_labels=False, nodelist=graph_chars, 
+            node_color=node_colors, node_size=sizes_scaled) 
+        nx.draw_networkx_labels(char_G, pos=pos, font_size=24)
+        nx.draw_networkx_edges(char_G, pos=pos, width=edge_weights)
+        
+        female = mpatches.Patch(color='skyblue', label='female')
+        male = mpatches.Patch(color='slateblue', label='male')
+        minor = mpatches.Patch(color='gray', label='minor')
+        plt.title('Social Network of ' + c + ' in ' + self.title, fontsize=36)
+        plt.legend(handles=[female, male, minor], prop={'size': 24})
+        
+        plt.savefig(self.title + ' - ' + c + '.png')
+        # plt.show() 
 
 
 
