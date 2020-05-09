@@ -8,6 +8,6 @@ This project encompasses the following three parts:
 3. Extracting social networks in a film
 
 ## Character Archetypes
-Descriptions for the Jungian archetypes [found here](http://www.soulcraft.co/essays/the_12_common_archetypes.html) and [here](https://medium.com/@EbooksAndKids/write-great-characters-with-these-12-jungian-archetypes-687844e8cf51).\  
-Descriptions for the hero archetypes [found here](https://tvtropes.org/pmwiki/pmwiki.php/Literature/FortyFiveMasterCharactersHeroes).\  
-Descriptions for the heroine archetypes [found here](https://tvtropes.org/pmwiki/pmwiki.php/Literature/FortyFiveMasterCharactersHeroines).
+Descriptions for the Jungian archetypes found [here](http://www.soulcraft.co/essays/the_12_common_archetypes.html) and [here](https://medium.com/@EbooksAndKids/write-great-characters-with-these-12-jungian-archetypes-687844e8cf51).  
+Descriptions for the hero archetypes found [here](https://tvtropes.org/pmwiki/pmwiki.php/Literature/FortyFiveMasterCharactersHeroes).  
+Descriptions for the heroine archetypes found [here](https://tvtropes.org/pmwiki/pmwiki.php/Literature/FortyFiveMasterCharactersHeroines).
